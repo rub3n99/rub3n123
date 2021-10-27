@@ -225,7 +225,7 @@ http://america.tucableip.com:80/bolivia/cristaltv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CNN
 http://live.cdn.comteco.com.bo:80/comgo/0301/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="Peliculas", ARTE Y CINE
+#EXTINF:-1 tvg-logo=""  group-title="Peliculas", ANIME Y COMICS
 http://live.cdn.comteco.com.bo:80/comgo/0426/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Musica", TOP MUSIC
@@ -288,3 +288,4 @@ https://860133936.tapecontent.net/radosgw/G928w7e89ah1wLg/oT0QEB2qmW9Q07_-ZgSyV8
 
 #EXTINF:1 tvg-id="" tvg-name="WWE RAW" tvg-logo="" group-title="LUCHAS", MONDAY NIGHT RAW
 https://streaming.disk.yandex.net/hls/U2FsdGVkX1-h_wza2gTsPlFp0mgOh32QZGta2RqIfTgmmXQZSYw0UbXnZHW8QCso-NECkM9hL1nqiNQGdGn7IwV36rrYN3VbAjt3oX8drkaYksYm891RazTKtBZgwMIa6xHnAc100QUzazVb77GjYutpHOsso_P7UcxkwItXfKwn-eKOcI8AUu1lShB6yU7qwlWTBm4NL-YrGLhD0GewdrSUSE9t-M0iG8RawFBjMX78nquThWtta0LQ7cDycFB09aO3yuCyhkZnow-kENAJqFqt_K6Wan5YFmef25_ogSNtAt3yJmfOF-i9_tXg4xLM/5cf5cdf4d8a58/cedb7b40954ef5ea1a4ff03c78072183d4109a16f12def00d819386bc740471c/360p/playlist.m3u8?from=disk&vsid=9988dfdbc38f0deea452542e727e64bd9c6ecfc05843xWEBx5946x1635286276&adsid=c4937340c8186e7216d817c84f8955c39038b6109226xWEBx5946x1635286276&session_data=1&preview=1&t=1635286279106
+
