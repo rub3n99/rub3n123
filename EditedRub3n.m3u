@@ -108,8 +108,19 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w2051568737
 #EXTINF:-1 tvg-logo="https://www.detalle.cotes.net.bo/app/public/appWeb_/assets/images/canales/127.png" group-title="Religioso", XTO TV
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" ",CGTN ESPAÑOL
+#EXTINF:-1 tvg-logo="" group-title="Religioso", Extrema tv
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Religioso", Comunion tv 
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", CGTN ESPAÑOL
 http://news.cgtn.com:80/resource/live/espanol/cgtn-e.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="24/7", Humor tv 21/7
+https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas", A ESTRENAR 
 http://live.cdn.comteco.com.bo:80/comgo/0408/index.m3u8
@@ -123,20 +134,11 @@ http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/81944
 #EXTINF:-1 tvg-logo=" https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN.jpg" group-title="Deportes",TIGO SPORT 3
 http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/111701
 
-#EXTINF:-1 tvg-logo=" " group-title="Deportes", Fox Sports 1
-http://cdn04.sportsbay.xyz:2052/live-sd/372/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMSAxMDo1MToyNSBQTSZoYXNoX3ZhbHVlPU81aTdBTWZFYXNVOEdodFBxNXU2QkE9PSZ2YWxpZG1pbnV0ZXM9MTIwJnN0cm1fbGVuPTEx
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Claro Sport
+http://45.179.140.242:8000/play/a0ht
 
-#EXTINF:-1 tvg-logo=" " group-title="Premiun", Star Action
-http://cdn04.sportsbay.xyz:2052/live-sd/344/chunks.m3u8?nimblesessionid=15558459&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMSA5OjI2OjIyIFBNJmhhc2hfdmFsdWU9YmhadnFyTkFyaVBzS0JRVzU1UGNjZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTE=
- 
-#EXTINF:-1 tvg-logo=" " group-title="Premiun", Warner
-http://cdn04.sportsbay.xyz:2052/live-sd/397/chunks.m3u8?nimblesessionid=15559539&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMSA5OjMxOjQwIFBNJmhhc2hfdmFsdWU9bVpkc0lrS1V1cG5FbURTSCs1djVHZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTE=
-
-#EXTINF:-1 tvg-logo=" " group-title="Premiun", Sony
-http://cdn04.sportsbay.xyz:2052/live-sd/352/chunks.m3u8?nimblesessionid=15561123&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMSA5OjM5OjQwIFBNJmhhc2hfdmFsdWU9QjYxZTZOQzFUU1JHc09FV0lpWFdHQT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTE=
-
-#EXTINF:-1 tvg-logo=" " group-title="Premiun", Star Channel
-http://cdn04.sportsbay.xyz:2052/live-sd/357/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAyMSA5OjQ0OjM2IFBNJmhhc2hfdmFsdWU9SWJXNm5jRnljRHN6MFFsTEdpMDVsdz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTE=
+#EXTINF:-1 tvg-logo="" group-title="Deportes", Deport tv
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
 
 
 
@@ -146,8 +148,6 @@ https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.rewindtv.cl/wp-content/uploads/2021/02/cropped-101700_Rewind_TV.png" group-title="Internacional", REWIND TV CHILE
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png", EL CHAVO TV CHILE
-https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON KPOP TV CHILE
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8
@@ -189,37 +189,35 @@ https://vdo.billingchs.com:3408/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CINE CLUB PERU
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="" group-title="Internacional", BIT ME MEXICO
-https://6ra8tpg8m6.azcdn107.net:8443/hls/21zryaxtu4y.m3u8?s=rdgZwHjcBlLiBgxtk9oadw&e=1627095081
 
 #EXTINF:-1 tvg-logo="" group-title="Radio", RADIO LA CADENA CORAL
 http://eu2.serviaudio.com:7062/stream
 
-#EXTINF:-1 tvg-logo="", SUCREMANTA
+#EXTINF:-1 tvg-logo="" group-title="Sucre", SUCREMANTA
 https://sucre.imd.la:1935/sucremanta/sucremanta/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", TV SHOW ORURO
+#EXTINF:-1 tvg-logo="" group-title="Oruro", TV SHOW ORURO
 http://solo.disfrutaenlared.com:1935/tvshow/tvshow/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", AYNI TV
+#EXTINF:-1 tvg-logo="" group-title="La Paz", AYNI TV
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", TELE ESTRELLA
+#EXTINF:-1 tvg-logo="" group-title="La Paz", TELE ESTRELLA
 http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", ANDINA TV
+#EXTINF:-1 tvg-logo="" group-title="La Paz", ANDINA TV
 https://cp.sradiotv.com:1936/andinatv/andinatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", EBO TV
+#EXTINF:-1 tvg-logo="" group-title="Cochabamba", EBO TV
 http://stmv1.questreaming.com:80/ebotv/ebotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", CORAL TV
+#EXTINF:-1 tvg-logo="" group-title="Oruro", CORAL TV
 http://cp.sradiotv.com:1935/coraltv/coraltv/chunklist_w431056276.m3u8
 
-#EXTINF:-1 tvg-logo="", VOS TV
+#EXTINF:-1 tvg-logo="" group-title="La Paz", VOS TV
 http://canaltv.istbolivia.com:1935/vostv/vostv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="", CRISTAL HD
+#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", CRISTAL HD
 http://america.tucableip.com:80/bolivia/cristaltv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CNN
@@ -227,6 +225,9 @@ http://live.cdn.comteco.com.bo:80/comgo/0301/index.m3u8
 
 #EXTINF:-1 tvg-logo=""  group-title="Peliculas", ANIME Y COMICS
 http://live.cdn.comteco.com.bo:80/comgo/0426/index.m3u8
+
+#EXTINF:-1 tvg-logo=""  group-title="Peliculas", Energeek
+https://tvstreaming.cl:1936/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Musica", TOP MUSIC
 http://live-edge01.telecentro.net.ar:80/live/smil:musictop.smil/chunklist_w1494595029_b364000_sleng.m3u8
@@ -246,9 +247,24 @@ http://live-edge01.telecentro.net.ar:80/live/26hd-360/chunklist_w1394240028.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Internacional", ALEGRIA TV
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Unitel Peru
+https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Antena Seis
+http://inliveserver.com:1935/14510/14510/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Radio", RADIO KANCHA PARLASPA
 https://radio.yoemito.net:8018/stream
 
+
+#EXTINF:-1 group-title="Musica", Music Itop
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8 
+
+#EXTINF:-1 group-title="Internacional", Digital Vision
+https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica", tele musica tv
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Musica", Mix 24-7 Top 100
 http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/2.m3u8
@@ -274,18 +290,45 @@ http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/1.m3u8
 #EXTINF:-1 group-title="Musica", Puro Rock 24-7
 http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/25.m3u8
 
-#EXTINF:1 tvg-id="" tvg-name="DUNE - LATINO" tvg-logo="https://pics.filmaffinity.com/Dune-756528084-large.jpg" group-title="PELICULAS 720P", DUNE
-https://stream-3791-48-223.pvdcdn.co/laohomxzhqikkfn2mby7qoknhpfpf3pqaf7535j7hy62aurvgmfi2p7mty/v.mp4
+#EXTINF:-1 group-title="Otros", Bolivia tv 7.1
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Otros", Bolivia tv 7.2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
+#EXTINF:-1 group-title="Otros", radio tv binacional Peru
+https://cp.sradiotv.com:1936/binacional/binacional/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica", AE radio
+http://edge1.cl.grupoz.cl/aeradio/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", canal 10 san salvador
+http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica", orbita fm
+https://tna5.bozztv.com/OrbitaFM/index.m3u8
+
+#EXTINF:-1 group-title="Musica", m20 tv musica
+http://tvpremiumhd.club/lista-gratuita/162728/on/bi.php?id=2IILfjB
+
+#EXTINF:-1 group-title="Musica", Music Top
+http://tvpremiumhd.club/lista-gratuita/162728/on/live.php?id=live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", onda tv 10 rep domincana
+http://tvpremiumhd.club/lista-gratuita/162728/on/live.php?id=ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Peliculas", Cine Argentino
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Novelas", RCN Novelas
+http://45.179.140.242:8000/play/a0jf
+
+#EXTINF:-1 tvg-logo=" " group-title="Peliculas", AME TV
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", cinevisiom
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
 
 
-#EXTINF:1 tvg-id="" tvg-name="RON DA ERROR CAM" tvg-logo="" group-title="PELICULAS 720P", RON DA ERROR
-https://www2190.ff-05.com/token=Njty5-tMDQHfAcBKYxyacw/1635300262/181.115.0.0/63/3/ed/1ec702a89163a3d2855f0c06024a1ed3-480p.mp4
 
-
-#EXTINF:1 tvg-id="" tvg-name="NO RESPIRES 2" tvg-logo="" group-title="PELICULAS 720P", NO RESPIRES 2
-https://860133936.tapecontent.net/radosgw/G928w7e89ah1wLg/oT0QEB2qmW9Q07_-ZgSyV8yRnRQ3t5KmcvjUwUnDnzpWDwG7mlowx9FN9tgD-gpfLEYxaXz-jpMtsKBp2FQlBrwzlO-k8JvfL-U5IFx9oXOUO06KE3zfmC3R3NHGn1NQ5yWI0vTV21VBbT_jIATp0ODbTdgTtEphNpcOOh_CVOd4sl6VMOPnUAd4E-UKb1y3egp6D95sz3ft-L2XxhUTsSfJw6RZcpGm-aoKqwInAdr1r-qVansJgvxypFslG9j22FcbFV8V7JVSy8ZISQ6AiCon6n2Kzawf0fSYdg/vpBdK7GgVry-streamtape.mp4?stream=1
-
-
-#EXTINF:1 tvg-id="" tvg-name="WWE RAW" tvg-logo="" group-title="LUCHAS", MONDAY NIGHT RAW
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1-h_wza2gTsPlFp0mgOh32QZGta2RqIfTgmmXQZSYw0UbXnZHW8QCso-NECkM9hL1nqiNQGdGn7IwV36rrYN3VbAjt3oX8drkaYksYm891RazTKtBZgwMIa6xHnAc100QUzazVb77GjYutpHOsso_P7UcxkwItXfKwn-eKOcI8AUu1lShB6yU7qwlWTBm4NL-YrGLhD0GewdrSUSE9t-M0iG8RawFBjMX78nquThWtta0LQ7cDycFB09aO3yuCyhkZnow-kENAJqFqt_K6Wan5YFmef25_ogSNtAt3yJmfOF-i9_tXg4xLM/5cf5cdf4d8a58/cedb7b40954ef5ea1a4ff03c78072183d4109a16f12def00d819386bc740471c/360p/playlist.m3u8?from=disk&vsid=9988dfdbc38f0deea452542e727e64bd9c6ecfc05843xWEBx5946x1635286276&adsid=c4937340c8186e7216d817c84f8955c39038b6109226xWEBx5946x1635286276&session_data=1&preview=1&t=1635286279106
 
