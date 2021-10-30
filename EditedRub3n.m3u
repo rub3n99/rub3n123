@@ -332,3 +332,35 @@ https://live.teledom.info:3713/live/cinevisionlive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cochabamba", Canal 2
 http://live.cdn.comteco.com.bo:80/comgo/0200/index.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Nor Selva Peru
+https://tv.tvcontrolcp.com:1936/8012/8012/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Milenium
+https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Matices
+http://v4.tustreaming.cl/matices/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Lima Live
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional",QKP Quillabamba
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", VAlle Vision
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", CNN Chile
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Tele LAtino Canal 9
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Rugrats
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+
+
