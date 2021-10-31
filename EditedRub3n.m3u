@@ -1,9 +1,6 @@
 
 #EXTM3U
 
-
-
-
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-rec-online-en-vivo.jpg" group-title="Santa Cruz", REC BOLIVIA
 http://95.211.214.198:8181/reconline/live/index.m3u8
 
@@ -37,14 +34,11 @@ http://hd.istbolivia.com:1935/megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg",ATB Santa CRUZ
 http://186.121.206.197/live/daniel/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg",ATB LA PAZ
 http://186.121.206.197:80/live/daniel/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1338497732420530177/Yf4BhsDo_400x400.png" group-title="La Paz", UPPTV
 https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM0MDc4NTkyLCJzZXNzaW9uIjoiMTgxLjExNS4xNjcuMTI4Iiwid2hpdGVsaXN0IjpbIjE4MS4xMTUuMTY3LjEyOCJdfSwic2lnbmF0dXJlIjoiNWI1MWQ5ZWVmZWY2ZWI1MTgwOGExODRlY2U4NjgwNGYxZGIxOTZiZCJ9
-
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Cochabamba",UNITEL HD
 http://live.cdn.comteco.com.bo:80/comgo/0208/index.m3u8
@@ -57,7 +51,6 @@ https://master.tucableip.com//pat/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="La Paz", BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w327535345.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="Cochabamba",RED UNO HD
 http://live.cdn.comteco.com.bo:80/comgo/0206/index.m3u8
@@ -101,7 +94,6 @@ http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/314V4RUvrwL.png" group-title="Cochabamba", GAMING
 http://live.cdn.comteco.com.bo:80/comgo/0500/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51g9CBbyn+L._AC_US1024_.png" group-title="Religioso", RED ADVENIR
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w2051568737.m3u8
 
@@ -113,8 +105,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Religioso", Comunion tv 
 http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", CGTN ESPAÑOL
 http://news.cgtn.com:80/resource/live/espanol/cgtn-e.m3u8
@@ -140,21 +130,17 @@ http://45.179.140.242:8000/play/a0ht
 #EXTINF:-1 tvg-logo="" group-title="Deportes", Deport tv
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
 
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" group-title="Internacional", 15 tv MEXICO
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rewindtv.cl/wp-content/uploads/2021/02/cropped-101700_Rewind_TV.png" group-title="Internacional", REWIND TV CHILE
 https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON KPOP TV CHILE
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON KPOP TV CHILE 2
 https://tls.cdnz.cl/onradio4/live/chunklist_w203235199.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON RADIO CHILE
 https://tls.cdnz.cl/onradio3/live/playlist.m3u8
@@ -188,7 +174,6 @@ https://vdo.billingchs.com:3408/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CINE CLUB PERU
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8?PlaylistM3UCL
-
 
 #EXTINF:-1 tvg-logo="" group-title="Radio", RADIO LA CADENA CORAL
 http://eu2.serviaudio.com:7062/stream
@@ -244,6 +229,33 @@ http://200.115.193.177:80/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CANAL 26 SD
 http://live-edge01.telecentro.net.ar:80/live/26hd-360/chunklist_w1394240028.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Nor Selva Peru
+https://tv.tvcontrolcp.com:1936/8012/8012/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Milenium
+https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Matices
+http://v4.tustreaming.cl/matices/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Lima Live
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", QKP Quillabamba
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", VAlle Vision
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", CNN Chile
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Tele LAtino Canal 9
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Rugrats
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 #EXTINF:-1 tvg-logo="" group-title="Internacional", ALEGRIA TV
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 
@@ -255,7 +267,6 @@ http://inliveserver.com:1935/14510/14510/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Radio", RADIO KANCHA PARLASPA
 https://radio.yoemito.net:8018/stream
-
 
 #EXTINF:-1 group-title="Musica", Music Itop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8 
@@ -328,33 +339,6 @@ http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", cinevisiom
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Nor Selva Peru
-https://tv.tvcontrolcp.com:1936/8012/8012/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Milenium
-https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Matices
-http://v4.tustreaming.cl/matices/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Lima Live
-https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", QKP Quillabamba
-https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", VAlle Vision
-http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", CNN Chile
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Tele LAtino Canal 9
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Rugrats
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
 
