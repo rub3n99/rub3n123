@@ -332,6 +332,9 @@ http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", cinevisiom
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
 
+#EXTINF:1 tvg-logo=" " group-title="Peliculas", Eternals
+https://stream-4991-212-110.pvdcdn.co/jqohpwwbhqikkfn2mb37qisgfvtnrhyc7gdbqeweqhh5hjstdy2kgj6pla/v.mp4
 
-
+#EXTINF:1 tvg-logo=" " group-title="Peliculas", Venom Let be a Cargange
+https://stream-4591-212-98.pvdcdn.co/kaohpbgbhqikkfn2mb37qmcogwzgoqms6e7a2lheio7uztrwav4lxis4fu/v.mp4
 
