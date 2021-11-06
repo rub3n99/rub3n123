@@ -4,8 +4,55 @@
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-rec-online-en-vivo.jpg" group-title="Santa Cruz", REC BOLIVIA
 http://95.211.214.198:8181/reconline/live/index.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2021/08/cropped-cropped-LOGO.png" group-title="Cochabamba", TDT BOLIVIA
 https://video02.kshost.com.br/juan6318/juan6318/playlist.m3u8?t=1633990814
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/megatvbolivia.com/wp-content/uploads/2021/05/cropped-Mega1-1.png?fit=512%2C512&ssl=1" group-title="Cochabamba",MEGA TV COCHABAMBA
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Cochabamba", UNITEL HD
+http://live.cdn.comteco.com.bo:80/comgo/0208/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="Cochabamba",RED UNO HD
+http://live.cdn.comteco.com.bo:80/comgo/0206/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/khY04_kPWbkOhnEnibakfJ9Q96PAw7_pHRnJ_biUY-um8gO8jgRqMxSQBEl4FhlUV6nr" group-title="Cochabamba", RED CCTV SACABA
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/estructuras/qrgOvj.jpg " group-title="Cochabamba", COMTECO TV
+http://live.cdn.comteco.com.bo:80/comgo/0220/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/estructuras/qrgOvj.jpg " group-title="Cochabamba", DT TV
+http://live.cdn.comteco.com.bo:80/comgo/0221/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1969799235/529176_216817181759754_216733365101469_381036_1091128662_n.jpg" group-title="Cochabamba", TELE C 
+http://live.cdn.comteco.com.bo:80/comgo/0210/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/rtl-1432633221.jpg" group-title="Cochabamba",RTL COCHABAMBA
+http://live.cdn.comteco.com.bo:80/comgo/0217/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="Cochabamba",ATB COCHABAMBA
+http://live.cdn.comteco.com.bo:80/comgo/0201/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="Cochabamba", BOLIVISION
+http://live.cdn.comteco.com.bo:80/comgo/0202/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="Cochabamba", BOLIVIA TV
+http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="Cochabamba", RTP
+http://live.cdn.comteco.com.bo:80/comgo/0209/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217217547566710784/w5xYRpsi.jpg" group-title="Cochabamba", PAT LA PAZ
+http://live.cdn.comteco.com.bo:80/comgo/0215/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png " group-title="Cochabamba", CADENA A 
+http://live.cdn.comteco.com.bo:80/comgo/0213/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Beni", ANAZALTV
+http://hdtv.istbolivia.com:1935/anazatv/anazatv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="La Paz", RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
@@ -19,29 +66,25 @@ https://solo.disfrutaenlared.com:1936/tuch/mp4:tuch_1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSwDgBSXhpp-0V_JaCNUe8CMc7WDC1VnaPWn_PB=s900-c-k-c0x00ffffff-no-rj" group-title="Santa Cruz", TVU  SANTA CRUZ
 https://srv.panelcast.net/tvuniversitaria/tvuniversitaria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/megatvbolivia.com/wp-content/uploads/2021/05/cropped-Mega1-1.png?fit=512%2C512&ssl=1" group-title="Cochabamba",MEGA TV COCHABAMBA
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/tv-latina-home-450.png" group-title="Santa Cruz", TV LATINA
 https://master.tucableip.com/live/tvlatinamontero/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXNgjExXTFs/maxresdefault.jpg", CVC TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXNgjExXTFs/maxresdefault.jpg" group-title="La Paz", CVC TV
 https://cp.sradiotv.com:1936/8058/8058/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.apksum.com/74/com.istbolivia.megaamazonia/2.3/icon.png" group-title="Santa Cruz", MEGA TV AMAZONIA
 http://hd.istbolivia.com:1935/megatv/megatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg",ATB Santa CRUZ
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="Santa Cruz", ATB Santa CRUZ
 http://186.121.206.197/live/daniel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg",ATB LA PAZ
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="La Paz", ATB LA PAZ
 http://186.121.206.197:80/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1338497732420530177/Yf4BhsDo_400x400.png" group-title="La Paz", UPPTV
 https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM0MDc4NTkyLCJzZXNzaW9uIjoiMTgxLjExNS4xNjcuMTI4Iiwid2hpdGVsaXN0IjpbIjE4MS4xMTUuMTY3LjEyOCJdfSwic2lnbmF0dXJlIjoiNWI1MWQ5ZWVmZWY2ZWI1MTgwOGExODRlY2U4NjgwNGYxZGIxOTZiZCJ9
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Cochabamba",UNITEL HD
-http://live.cdn.comteco.com.bo:80/comgo/0208/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Santa Cruz", UNITEL HD SANTA CRUZ
 http://200.58.160.67:8081/envivo/unitelhd/playlist.m3u8
@@ -52,11 +95,7 @@ https://master.tucableip.com//pat/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="La Paz", BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w327535345.m3u8
 
-#EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="Cochabamba",RED UNO HD
-http://live.cdn.comteco.com.bo:80/comgo/0206/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/khY04_kPWbkOhnEnibakfJ9Q96PAw7_pHRnJ_biUY-um8gO8jgRqMxSQBEl4FhlUV6nr" group-title="Cochabamba", RED CCTV SACABA
-https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.umss.edu.bo/wp-content/uploads/2017/04/cropped-Logo-Simbolo.png" group-title="La Paz", TVU UMSA
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
@@ -67,23 +106,17 @@ https://dcunilive51-lh.akamaihd.net/i/dclive_1@752299/master.m3u8?hdnea=st=16339
 #EXTINF:-1 tvg-logo=" " group-title="La Paz", SEO TV
 http://190.104.8.42:80/seo
 
-#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/estructuras/qrgOvj.jpg " group-title="Cochabamba", COMTECO TV
-http://live.cdn.comteco.com.bo:80/comgo/0220/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/dmstudio/dmstudio1206/dmstudio120600020/14064247-ilustraci%C3%B3n-de-tv-retro.jpg" group-title="Musica", RETRO TV
 http://stream.mediawork.cz:80/retrotv/retrotvHQ1/chunklist_w226930910.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1969799235/529176_216817181759754_216733365101469_381036_1091128662_n.jpg" group-title="Cochabamba", TELE C 
-http://live.cdn.comteco.com.bo:80/comgo/0210/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png " group-title="La Paz", CADENA A 
 http://live.cdn.comteco.com.bo:80/comgo/0213/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/rtl-1432633221.jpg" group-title="Cochabamba",RTL COCHABAMBA
-http://live.cdn.comteco.com.bo:80/comgo/0217/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="Cochabamba",ATB COCHABAMBA
-http://live.cdn.comteco.com.bo:80/comgo/0201/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="La Paz", BOLIVISION
 http://live.cdn.comteco.com.bo:80/comgo/0202/index.m3u8
@@ -332,9 +365,4 @@ http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", cinevisiom
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
 
-#EXTINF:1 tvg-logo=" " group-title="Peliculas", Eternals
-https://stream-4991-212-110.pvdcdn.co/jqohpwwbhqikkfn2mb37qisgfvtnrhyc7gdbqeweqhh5hjstdy2kgj6pla/v.mp4
-
-#EXTINF:1 tvg-logo=" " group-title="Peliculas", Venom Let be a Cargange
-https://stream-4591-212-98.pvdcdn.co/kaohpbgbhqikkfn2mb37qmcogwzgoqms6e7a2lheio7uztrwav4lxis4fu/v.mp4
 
