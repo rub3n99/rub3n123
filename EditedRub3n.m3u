@@ -84,8 +84,6 @@ http://186.121.206.197:80/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1338497732420530177/Yf4BhsDo_400x400.png" group-title="La Paz", UPPTV
 https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM0MDc4NTkyLCJzZXNzaW9uIjoiMTgxLjExNS4xNjcuMTI4Iiwid2hpdGVsaXN0IjpbIjE4MS4xMTUuMTY3LjEyOCJdfSwic2lnbmF0dXJlIjoiNWI1MWQ5ZWVmZWY2ZWI1MTgwOGExODRlY2U4NjgwNGYxZGIxOTZiZCJ9
 
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Santa Cruz", UNITEL HD SANTA CRUZ
 http://200.58.160.67:8081/envivo/unitelhd/playlist.m3u8
 
@@ -94,8 +92,6 @@ https://master.tucableip.com//pat/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="La Paz", BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w327535345.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://www.umss.edu.bo/wp-content/uploads/2017/04/cropped-Logo-Simbolo.png" group-title="La Paz", TVU UMSA
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
@@ -106,17 +102,11 @@ https://dcunilive51-lh.akamaihd.net/i/dclive_1@752299/master.m3u8?hdnea=st=16339
 #EXTINF:-1 tvg-logo=" " group-title="La Paz", SEO TV
 http://190.104.8.42:80/seo
 
-
-
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/dmstudio/dmstudio1206/dmstudio120600020/14064247-ilustraci%C3%B3n-de-tv-retro.jpg" group-title="Musica", RETRO TV
 http://stream.mediawork.cz:80/retrotv/retrotvHQ1/chunklist_w226930910.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png " group-title="La Paz", CADENA A 
 http://live.cdn.comteco.com.bo:80/comgo/0213/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="La Paz", BOLIVISION
 http://live.cdn.comteco.com.bo:80/comgo/0202/index.m3u8
@@ -352,7 +342,6 @@ http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
 #EXTINF:-1 group-title="Musica", orbita fm
 https://tna5.bozztv.com/OrbitaFM/index.m3u8
 
-
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas", Cine Argentino
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
@@ -364,5 +353,17 @@ http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", cinevisiom
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Futbol", ESPN 1
+https://video1.getstreamhosting.com:1936/8476/8476/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Futbol", ESPN 2
+https://video1.getstreamhosting.com:1936/8478/8478/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="OTROS", TVC
+http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/64433
+
+#EXTINF:-1 tvg-logo=" " group-title="OTROS", mUISIC
+https://cp.sradiotv.com:1936/8054/8054/playlist.m3u8
 
 
