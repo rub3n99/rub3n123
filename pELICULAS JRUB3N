@@ -1,14 +1,14 @@
 
 #EXTM3U
 
-#EXTINF:0 tvg-logo="" group-title="ESTRENO", FINCH
+#EXTINF:1 tvg-logo="" group-title="ESTRENO", FINCH
 https://861520838.tapecontent.net/radosgw/erjjkQ1GQ7fYqRy/5WIYzHXaCaidYqN2xjSH3r4VKNLrNXf8aYwiUu27qDIygyOnxcFaH4QljxiY8ZiPuXIt5FA7VRiZD1GtEoQnh1oKOTXdRenbgZEiEcwNzmx4oISkAng3AqsXlOzN1SodBHH8HlKDilOdtLW8krMZDp9cjdu1v-IQFbRgQLDrPDengRK6Y01YP-xNEgRnWbtx3S1Ngxe20qSxmJLbxpvTHSPXKU_ICtO-K4R-j4SltsSd8m9dJgrxIjnoABzry7OPkaGiC_xmd7iKnOgc810D59Q9PCTJaFlKo8nfiw/w3BN1GGEE3g.mp4?stream=1
 
-#EXTINF:0 tvg-logo="" group-title="ESTRENO", ETERNALS
+#EXTINF:1 tvg-logo="" group-title="ESTRENO", ETERNALS
 https://stream-4991-212-110.pvdcdn.co/jqohpwwbhqikkfn2mb37qisgfvtnrhyc7gdbqeweqhh5hjstdy2kgj6pla/v.mp4
 
-#EXTINF:0 tvg-logo="" group-title="ESTRENO", VENOM 2 
+#EXTINF:1 tvg-logo="" group-title="ESTRENO", VENOM 2 
 https://stream-4591-212-98.pvdcdn.co/kaohpbgbhqikkfn2mb37qmcogwzgoqms6e7a2lheio7uztrwav4lxis4fu/v.mp4
 
-#EXTINF:0 tvg-logo="" group-title="ESTRENO", SHANG CHI (CAM)
+#EXTINF:1 tvg-logo="" group-title="ESTRENO", SHANG CHI (CAM)
 https://stream-4291-31-166.pvdcdn.co/k4ohpnomhqikkfn2mb37qiqfglyd6dkk6dbbg4v7aztkr3npvet5mvk76i/v.mp4
