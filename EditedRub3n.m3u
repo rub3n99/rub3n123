@@ -183,21 +183,6 @@ https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="" group-title="Internacional", WHD
 http://inliveserver.com:1935/14530/14530/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Internacional", TELERED COSTA RICA
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="" group-title="Internacional", ORBIT TV REPUBLICA DOMINICANA
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="" group-title="Internacional", FMTV MOVIES US
-https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="" group-title="Internacional", FMTV SUPER CINE US
-https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="" group-title="Internacional", RETRO PLUS TV SEÑAL 3 CHILE
-https://vdo.billingchs.com:3408/hybrid/play.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CINE CLUB PERU
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8?PlaylistM3UCL
 
@@ -371,5 +356,4 @@ http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/64433
 
 #EXTINF:-1 tvg-logo=" " group-title="OTROS", mUISIC
 https://cp.sradiotv.com:1936/8054/8054/playlist.m3u8
-
 
