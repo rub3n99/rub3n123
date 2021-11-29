@@ -141,19 +141,19 @@ https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas", A ESTRENAR 
 http://live.cdn.comteco.com.bo:80/comgo/0408/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN.jpg" group-title="Deportes",TIGO SPORT 1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN.jpg" group-title="DEPORTES",TIGO SPORT 1
 http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/64430
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN.jpg" group-title="Deportes",TIGO SPORT 2
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN.jpg" group-title="DEPORTES",TIGO SPORT 2
 http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/81944
 
-#EXTINF:-1 tvg-logo=" https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN.jpg" group-title="Deportes",TIGO SPORT 3
+#EXTINF:-1 tvg-logo=" https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN.jpg" group-title="DEPORTES",TIGO SPORT 3
 http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/111701
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Claro Sport
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sport
 http://45.179.140.242:8000/play/a0ht
 
-#EXTINF:-1 tvg-logo="" group-title="Deportes", Deport tv
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Deport tv
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" group-title="Internacional", 15 tv MEXICO
@@ -324,7 +324,7 @@ https://tna5.bozztv.com/OrbitaFM/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas", Cine Argentino
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Novelas", RCN Novelas
+#EXTINF:-1 tvg-logo=" " group-title="NOVELAS", RCN Novelas
 http://45.179.140.242:8000/play/a0jf
 
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas", AME TV
@@ -333,21 +333,28 @@ http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", cinevisiom
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Futbol", ESPN 1
+#EXTINF:-1 tvg-logo=" " group-title="DEPORTES", ESPN 1
 https://video1.getstreamhosting.com:1936/8476/8476/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Futbol", ESPN 2
+#EXTINF:-1 tvg-logo=" " group-title="DEPORTES", ESPN 2
 https://video1.getstreamhosting.com:1936/8478/8478/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Futbol", TIGO COSTA RICA
+#EXTINF:-1 tvg-logo=" " group-title="DEPORTES", TIGO COSTA RICA
 https://cp.sradiotv.com:1936/8126/8126/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="OTROS", TVC
+#EXTINF:-1 tvg-logo=" " group-title="NOVELAS", TVC
 http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/64433
-
-#EXTINF:-1 tvg-logo=" " group-title="OTROS", mUISIC
-https://cp.sradiotv.com:1936/8054/8054/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO PLUS 
 http://qqtv.nl:8080/horse/horse123/20354
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", WARNER
+http://qqtv.nl:8080/horse/horse123/20232
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TNT SERIES
+http://qqtv.nl:8080/horse/horse123/20245
+
+
+
+
 
