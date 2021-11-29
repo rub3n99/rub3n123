@@ -354,6 +354,11 @@ http://qqtv.nl:8080/horse/horse123/20232
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TNT SERIES
 http://qqtv.nl:8080/horse/horse123/20245
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", FOX SPORTS 1 MEX
+http://qqtv.nl:8080/horse/horse123/20095
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", AMERICA TV
+http://qqtv.nl:8080/horse/horse123/20211
 
 
 
