@@ -138,21 +138,6 @@ https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="24/7", Chavo del 8
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="24/7", DRAGON BALL Z
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19549.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="24/7", DRAGON BALL GT
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19568.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="24/7", DRAGON BALL SUPER
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19633.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="24/7", LOONEY TUNES
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19553.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="24/7", LOS SIMPSONS
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19556.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas", A ESTRENAR 
 http://live.cdn.comteco.com.bo:80/comgo/0408/index.m3u8
 
@@ -270,7 +255,7 @@ https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", Tele LAtino Canal 9
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Rugrats
+#EXTINF:-1 tvg-logo=" " group-title="24/7", Rugrats
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", ALEGRIA TV
@@ -359,133 +344,4 @@ https://cp.sradiotv.com:1936/8126/8126/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="NOVELAS", TVC
 http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/64433
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO 2
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19258.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO FAMILY
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19259.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", UNITEL
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/2064.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TNT SERIES
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/1106.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", FOX SPORTS 1 MEX
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/2263.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", FOX SPORTS 1
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/2304.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", AMERICA TV
-http://qqtv.nl:8080/horse/horse123/20211
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", SONY
-http://qqtv.nl:8080/horse/horse123/20248
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", FOX
-http://qqtv.nl:8080/horse/horse123/20266
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", UNIVERSAL
-http://qqtv.nl:8080/horse/horse123/20242
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TNT
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/1105.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", SPACE
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/1091.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", PARAMOUNT
-http://qqtv.nl:8080/horse/horse123/20238
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINE MARVEL
-http://qqtv.nl:8080/horse/horse123/20308
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", ESPN 3
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/2299.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", ESPN 2
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/2298.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", ESPN 1
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/2302.m3u8
- 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", DISTRITO COMEDIA
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/1032.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINEMAX
-http://qqtv.nl:8080/horse/horse123/20293
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINECANAL
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/1014.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", STUDIO UNIVERSAL
-http://qqtv.nl:8080/horse/horse123/20429
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", AZTECA 7
-http://qqtv.nl:8080/horse/horse123/20264
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", WOW TV
-http://qqtv.nl:8080/horse/horse123/20170
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", FX
-http://qqtv.nl:8080/horse/horse123/20168
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", STAR ACTION
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19277.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", STAR ACTION
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/1046.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", STAR CHANNEL SUR
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/1045.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", STAR CHANNEL
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/2262.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", STAR FUN
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19250.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", STAR COMEDY
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19249.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", RUIDOS TV
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/3181.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CARTOON
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/2456.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", GOLDEN PLUS
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/1062.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", MUNDO VISION
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/3186.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINE ACCION
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19519.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINE SAGAS
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19521.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINE COMEDIA 1
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19523.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINE COMEDIA 2
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19524.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINE FANTASIA FICCION
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19525.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINE INFANTIL
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19529.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINE INFANTIL SAGAS
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19531.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINE TERROR
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/19538.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", UNITEL LA PAZ
-http://redcoliptv.com:8090/live/gequZslDJ9/Vbcgdfxdzas/31132.m3u8
 
