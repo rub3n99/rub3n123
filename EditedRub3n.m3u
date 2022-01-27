@@ -141,26 +141,12 @@ https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas", A ESTRENAR 
 http://live.cdn.comteco.com.bo:80/comgo/0408/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN.jpg" group-title="DEPORTES",TIGO SPORT 1
-http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/64430
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN.jpg" group-title="DEPORTES",TIGO SPORT 2
-http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/81944
-
-#EXTINF:-1 tvg-logo=" https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN.jpg" group-title="DEPORTES",TIGO SPORT 3
-http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/111701
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sport
-http://45.179.140.242:8000/play/a0ht
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Deport tv
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" group-title="Internacional", 15 tv MEXICO
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rewindtv.cl/wp-content/uploads/2021/02/cropped-101700_Rewind_TV.png" group-title="Internacional", REWIND TV CHILE
-https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" group-title="Internacional", Latina TvPeru
+https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON KPOP TV CHILE
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8
@@ -171,20 +157,12 @@ https://tls.cdnz.cl/onradio4/live/chunklist_w203235199.m3u8
 #EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON RADIO CHILE
 https://tls.cdnz.cl/onradio3/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Internacional", VIVO TV CHILE
-https://unlimited1-cl-movistar.dps.live/vivotv/vivotv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", ANIME ZONE ARGENTINA
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", WOW TV  EL SALVADOR
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="" group-title="Internacional", DREIKO TV  PARAGUAY
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="" group-title="Internacional", WHD
-http://inliveserver.com:1935/14530/14530/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CINE CLUB PERU
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8?PlaylistM3UCL
@@ -225,8 +203,6 @@ http://live.cdn.comteco.com.bo:80/comgo/0301/index.m3u8
 #EXTINF:-1 tvg-logo=""  group-title="Peliculas", ANIME Y COMICS
 http://live.cdn.comteco.com.bo:80/comgo/0426/index.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="Peliculas", Energeek
-https://tvstreaming.cl:1936/8062/8062/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Musica", TOP MUSIC
 http://live-edge01.telecentro.net.ar:80/live/smil:musictop.smil/chunklist_w1494595029_b364000_sleng.m3u8
@@ -248,9 +224,6 @@ https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", VAlle Vision
 http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", CNN Chile
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", Tele LAtino Canal 9
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -279,44 +252,14 @@ https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
 #EXTINF:-1 group-title="Musica", tele musica tv
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
-#EXTINF:-1 group-title="Musica", Mix 24-7 Top 100
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/2.m3u8
-
-#EXTINF:-1 group-title="Musica", Mix 24-7 Retro
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/4.m3u8
-
-#EXTINF:-1 group-title="Musica", Mix 24-7 Tropical
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/3.m3u8
-
-#EXTINF:-1 group-title="Musica", Mix 24-7 Global Hits
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/5.m3u8
-
-#EXTINF:-1 group-title="Musica", Mix 24-7 VdjMix Pop
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/6.m3u8
-
-#EXTINF:-1 group-title="Musica", Mix 24-7 Conciertos
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/7.m3u8
-
-#EXTINF:-1 group-title="Musica", Mix 24-7 Vdj Retro
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/1.m3u8
-
-#EXTINF:-1 group-title="Musica", Puro Rock 24-7
-http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/25.m3u8
-
-#EXTINF:-1 group-title="Otros", Bolivia tv 7.1
+#EXTINF:-1 group-title="La Paz", Bolivia tv 7.1
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="Otros", Bolivia tv 7.2
+#EXTINF:-1 group-title="La Paz", Bolivia tv 7.2
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-
-#EXTINF:-1 group-title="Otros", radio tv binacional Peru
-https://cp.sradiotv.com:1936/binacional/binacional/playlist.m3u8
 
 #EXTINF:-1 group-title="Musica", AE radio
 http://edge1.cl.grupoz.cl/aeradio/live/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Internacional", canal 10 san salvador
-http://streamingcws20.com:1935/tves/tves.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Musica", orbita fm
 https://tna5.bozztv.com/OrbitaFM/index.m3u8
@@ -332,15 +275,6 @@ http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", cinevisiom
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="DEPORTES", ESPN 1
-https://video1.getstreamhosting.com:1936/8476/8476/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="DEPORTES", ESPN 2
-https://video1.getstreamhosting.com:1936/8478/8478/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="DEPORTES", TIGO COSTA RICA
-https://cp.sradiotv.com:1936/8126/8126/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="NOVELAS", TVC
 http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/64433
