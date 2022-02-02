@@ -225,8 +225,23 @@ https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", VAlle Vision
 http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Tele LAtino Canal 9
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Viwix Chile
+ https://593b04c4c5670.streamlock.net/8008/8008/index.m3u8
+ 
+ #EXTINF:-1 tvg-logo=" " group-title="Internacional", Tv 8 Chile
+ https://593b04c4c5670.streamlock.net/8014/8014/index.m3u8
+ 
+ #EXTINF:-1 tvg-logo=" " group-title="Internacional", CHV Chile
+  https://593b04c4c5670.streamlock.net/8040/8040/index.m3u8
+  
+ #EXTINF:-1 tvg-logo=" " group-title="Internacional", Clasicos Chile
+ https://593b04c4c5670.streamlock.net/8044/8044/index.m3u8 
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Music Chile 
+https://593b04c4c5670.streamlock.net/8034/8034/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", EncapillaTV Chile 
+https://593b04c4c5670.streamlock.net/8016/8016/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="24/7", Rugrats
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -234,11 +249,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219
 #EXTINF:-1 tvg-logo="" group-title="Internacional", ALEGRIA TV
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Internacional", Recuerdos
+https://593b04c4c5670.streamlock.net/8002/8002/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Internacional", Unitel Peru
 https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Internacional", Antena Seis
-http://inliveserver.com:1935/14510/14510/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Radio", RADIO KANCHA PARLASPA
 https://radio.yoemito.net:8018/stream
