@@ -291,6 +291,9 @@ http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", cinevisiom
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", TeleClasicos
+https://tvdatta.com:3484/stream/play.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="NOVELAS", TVC
 http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/64433
 
