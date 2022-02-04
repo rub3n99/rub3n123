@@ -300,3 +300,21 @@ http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/64433
 #EXTINF:-1 tvg-logo=" https://media.tycsports.com/files/2020/11/26/157124/logo-tyc-sports-maradona_862x485.jpg?v=2" group-title="Deportes", Tyc Sporta v1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8?fbclid=IwAR017ePl1fe7066A6xn-Ob9-xKKHEl8-DeacNx7yWzYDgYDAyfHEs76xetE
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", The Simpsons
+https://usher.ttvnw.net/api/channel/hls/simpsonmania01.m3u8?allow_source=true&fast_bread=true&p=7786245&play_session_id=9cc983e75b99e8c08ca44babc398d7ab&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=6cc99a91d6f66c26722fe982229dee00df7f311f&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22simpsonmania01%22%2C%22channel_id%22%3A755077535%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22bd914ee9b6f0ed1e%22%2C%22expires%22%3A1643952184%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.115.167.171%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.8.0
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", The Simpsons 2
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", South Park
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=46ac99e0-7170-421f-b6f5-4a4ee37d48df&clientModelNumber=na&deviceDNT=false&deviceId=46ac99e0-7170-421f-b6f5-4a4ee37d48df&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fb504a37-b206-11eb-881a-0242ac110002&sid=fb504a37-b206-11eb-881a-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", Futurama
+https://hls.live.fc2.com/hls/58207530/0/master_playlist?targets=20,90&session_token=64974dfbd0b414f85004a10a551c93b1190e2cb46f9258c8203317064a7d86d6&playlist_token=b193cb6b17882db0aa418ed345cda740458fe03cc147077e6ac853f7c5317a44&playlist_second_token=3028112f21d710cfbb7f82da48f3502fe073be7444b7c39047544427ac6e8b28
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", Red Uno
+http://136.243.3.70:1935/RedUno/RedUno/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", ATB
+https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
+
