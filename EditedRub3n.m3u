@@ -97,13 +97,11 @@ http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w327535345.m3u8
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/sur.tv.bo/wp-content/uploads/2019/01/cropped-LOGO-WEB-19.jpg?fit=512%2C512&ssl=1 " group-title="Tarija", SUR TV
-https://dcunilive51-lh.akamaihd.net/i/dclive_1@752299/master.m3u8?hdnea=st=1633993268~exp=1633993388~acl=/i/dclive_1@752299*~hmac=dc7ba3c8e8606d1db2026faf5d26a3ab4448c7e8125f1d01c65e03c9e821ee07
+https://dcunilive51-lh.akamaihd.net/i/dclive_1@752299/master.m3u8?hdnea=st=1644070433~exp=1644070553~acl=/i/dclive_1@752299*~hmac=64f6090be981886d3c2d88a4766e82b46fb07ff19615d9d9a496e135dfd44a6a
 
 #EXTINF:-1 tvg-logo=" " group-title="La Paz", SEO TV
 http://190.104.8.42:80/seo
 
-#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/dmstudio/dmstudio1206/dmstudio120600020/14064247-ilustraci%C3%B3n-de-tv-retro.jpg" group-title="Musica", RETRO TV
-http://stream.mediawork.cz:80/retrotv/retrotvHQ1/chunklist_w226930910.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png " group-title="La Paz", CADENA A 
 http://live.cdn.comteco.com.bo:80/comgo/0213/index.m3u8
@@ -149,14 +147,10 @@ https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON KPOP TV CHILE
-https://tls.cdnz.cl/onradio4/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON KPOP TV CHILE 2
-https://tls.cdnz.cl/onradio4/live/chunklist_w203235199.m3u8
+https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON RADIO CHILE
-https://tls.cdnz.cl/onradio3/live/playlist.m3u8
-
+https://tls-cl.cdnz.cl/adgm-1/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", ANIME ZONE ARGENTINA
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
@@ -165,7 +159,7 @@ http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CINE CLUB PERU
-https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8?PlaylistM3UCL
+https://servilive.com:3176/live/cineclublive.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Radio", RADIO LA CADENA CORAL
 http://eu2.serviaudio.com:7062/stream
@@ -225,11 +219,11 @@ https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", VAlle Vision
 http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Unitel Peru
+https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", Viwix Chile
  https://593b04c4c5670.streamlock.net/8008/8008/index.m3u8
- 
- #EXTINF:-1 tvg-logo=" " group-title="Internacional", Tv 8 Chile
- https://593b04c4c5670.streamlock.net/8014/8014/index.m3u8
  
  #EXTINF:-1 tvg-logo=" " group-title="Internacional", CHV Chile
   https://593b04c4c5670.streamlock.net/8040/8040/index.m3u8
@@ -252,9 +246,6 @@ https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Internacional", Recuerdos
 https://593b04c4c5670.streamlock.net/8002/8002/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Internacional", Unitel Peru
-https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Radio", RADIO KANCHA PARLASPA
 https://radio.yoemito.net:8018/stream
 
@@ -273,19 +264,13 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="La Paz", Bolivia tv 7.2
 https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 
-#EXTINF:-1 group-title="Musica", AE radio
-http://edge1.cl.grupoz.cl/aeradio/live/index.m3u8
-
-#EXTINF:-1 group-title="Musica", orbita fm
-https://tna5.bozztv.com/OrbitaFM/index.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas", Cine Argentino
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="NOVELAS", RCN Novelas
 http://45.179.140.242:8000/play/a0jf
 
-#EXTINF:-1 tvg-logo=" " group-title="Peliculas", AME TV
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", AME TV
 http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", cinevisiom
@@ -300,17 +285,11 @@ http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/64433
 #EXTINF:-1 tvg-logo=" https://media.tycsports.com/files/2020/11/26/157124/logo-tyc-sports-maradona_862x485.jpg?v=2" group-title="Deportes", Tyc Sporta v1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8?fbclid=IwAR017ePl1fe7066A6xn-Ob9-xKKHEl8-DeacNx7yWzYDgYDAyfHEs76xetE
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", The Simpsons
-https://usher.ttvnw.net/api/channel/hls/simpsonmania01.m3u8?allow_source=true&fast_bread=true&p=7786245&play_session_id=9cc983e75b99e8c08ca44babc398d7ab&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=6cc99a91d6f66c26722fe982229dee00df7f311f&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22simpsonmania01%22%2C%22channel_id%22%3A755077535%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22bd914ee9b6f0ed1e%22%2C%22expires%22%3A1643952184%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.115.167.171%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.8.0
-
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", The Simpsons 2
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", South Park
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=46ac99e0-7170-421f-b6f5-4a4ee37d48df&clientModelNumber=na&deviceDNT=false&deviceId=46ac99e0-7170-421f-b6f5-4a4ee37d48df&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fb504a37-b206-11eb-881a-0242ac110002&sid=fb504a37-b206-11eb-881a-0242ac110002&userId=
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", Futurama
-https://hls.live.fc2.com/hls/58207530/0/master_playlist?targets=20,90&session_token=64974dfbd0b414f85004a10a551c93b1190e2cb46f9258c8203317064a7d86d6&playlist_token=b193cb6b17882db0aa418ed345cda740458fe03cc147077e6ac853f7c5317a44&playlist_second_token=3028112f21d710cfbb7f82da48f3502fe073be7444b7c39047544427ac6e8b28
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", Red Uno
 http://136.243.3.70:1935/RedUno/RedUno/playlist.m3u8
