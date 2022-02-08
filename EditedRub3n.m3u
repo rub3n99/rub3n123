@@ -1,10 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-rec-online-en-vivo.jpg" group-title="Santa Cruz", REC BOLIVIA
-http://95.211.214.198:8181/reconline/live/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2021/08/cropped-cropped-LOGO.png" group-title="Cochabamba", TDT BOLIVIA
 https://video02.kshost.com.br/juan6318/juan6318/playlist.m3u8?t=1633990814
 
@@ -50,27 +46,25 @@ http://live.cdn.comteco.com.bo:80/comgo/0215/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png " group-title="Cochabamba", CADENA A 
 http://live.cdn.comteco.com.bo:80/comgo/0213/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lostiempos.com/sites/default/files/media_imagen/2021/2/5/bolivia-tv-1280x720.jpg" group-title="Cochabamba", BOLIVIA TV
+http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/314V4RUvrwL.png" group-title="Cochabamba", GAMING
+http://live.cdn.comteco.com.bo:80/comgo/0500/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="Beni", ANAZALTV
 http://hdtv.istbolivia.com:1935/anazatv/anazatv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="La Paz", RTP
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tfM2CGxTTP8/hqdefault.jpg" group-title="La Paz", VIACHA TV LA PAZ
-https://tv.siete.us/laluzdedios/laluzdedios/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/915216200031965185/uu504OYa.jpg" group-title="Sucre", TVU  SUCRE
-https://solo.disfrutaenlared.com:1936/tuch/mp4:tuch_1080p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSwDgBSXhpp-0V_JaCNUe8CMc7WDC1VnaPWn_PB=s900-c-k-c0x00ffffff-no-rj" group-title="Santa Cruz", TVU  SANTA CRUZ
 https://srv.panelcast.net/tvuniversitaria/tvuniversitaria/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-rec-online-en-vivo.jpg" group-title="Santa Cruz", REC BOLIVIA
+http://95.211.214.198:8181/reconline/live/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/tv-latina-home-450.png" group-title="Santa Cruz", TV LATINA
 https://master.tucableip.com/live/tvlatinamontero/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXNgjExXTFs/maxresdefault.jpg" group-title="La Paz", CVC TV
-https://cp.sradiotv.com:1936/8058/8058/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.apksum.com/74/com.istbolivia.megaamazonia/2.3/icon.png" group-title="Santa Cruz", MEGA TV AMAZONIA
 http://hd.istbolivia.com:1935/megatv/megatv/playlist.m3u8
@@ -78,14 +72,37 @@ http://hd.istbolivia.com:1935/megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="Santa Cruz", ATB Santa CRUZ
 http://186.121.206.197/live/daniel/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Santa Cruz", UNITEL HD SANTA CRUZ
+http://200.58.160.67:8081/envivo/unitelhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", CRISTAL HD
+http://america.tucableip.com:80/bolivia/cristaltv/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/sur.tv.bo/wp-content/uploads/2019/01/cropped-LOGO-WEB-19.jpg?fit=512%2C512&ssl=1 " group-title="Tarija", SUR TV
+https://dcunilive51-lh.akamaihd.net/i/dclive_1@752299/master.m3u8?hdnea=st=1644070433~exp=1644070553~acl=/i/dclive_1@752299*~hmac=64f6090be981886d3c2d88a4766e82b46fb07ff19615d9d9a496e135dfd44a6a
+
+
+#EXTINF:-1 tvg-logo=" " group-title="La Paz", SEO TV
+http://190.104.8.42:80/seo
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXNgjExXTFs/maxresdefault.jpg" group-title="La Paz", CVC TV
+https://cp.sradiotv.com:1936/8058/8058/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="La Paz", RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="La Paz", ATB LA PAZ
 http://186.121.206.197:80/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1338497732420530177/Yf4BhsDo_400x400.png" group-title="La Paz", UPPTV
 https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM0MDc4NTkyLCJzZXNzaW9uIjoiMTgxLjExNS4xNjcuMTI4Iiwid2hpdGVsaXN0IjpbIjE4MS4xMTUuMTY3LjEyOCJdfSwic2lnbmF0dXJlIjoiNWI1MWQ5ZWVmZWY2ZWI1MTgwOGExODRlY2U4NjgwNGYxZGIxOTZiZCJ9
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Santa Cruz", UNITEL HD SANTA CRUZ
-http://200.58.160.67:8081/envivo/unitelhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tfM2CGxTTP8/hqdefault.jpg" group-title="La Paz", VIACHA TV LA PAZ
+https://tv.siete.us/laluzdedios/laluzdedios/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png " group-title="La Paz", CADENA A 
+http://live.cdn.comteco.com.bo:80/comgo/0213/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217217547566710784/w5xYRpsi.jpg" group-title="La Paz", PAT LA PAZ
 https://master.tucableip.com//pat/index.m3u8
@@ -96,24 +113,21 @@ http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w327535345.m3u8
 #EXTINF:-1 tvg-logo="https://www.umss.edu.bo/wp-content/uploads/2017/04/cropped-Logo-Simbolo.png" group-title="La Paz", TVU UMSA
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/sur.tv.bo/wp-content/uploads/2019/01/cropped-LOGO-WEB-19.jpg?fit=512%2C512&ssl=1 " group-title="Tarija", SUR TV
-https://dcunilive51-lh.akamaihd.net/i/dclive_1@752299/master.m3u8?hdnea=st=1644070433~exp=1644070553~acl=/i/dclive_1@752299*~hmac=64f6090be981886d3c2d88a4766e82b46fb07ff19615d9d9a496e135dfd44a6a
+#EXTINF:-1 tvg-logo="" group-title="La Paz", VOS TV
+http://canaltv.istbolivia.com:1935/vostv/vostv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="La Paz", SEO TV
-http://190.104.8.42:80/seo
+#EXTINF:-1 tvg-logo="" group-title="La Paz", AYNI TV
+http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="La Paz", TELE ESTRELLA
+http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png " group-title="La Paz", CADENA A 
-http://live.cdn.comteco.com.bo:80/comgo/0213/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="La Paz", ANDINA TV
+https://cp.sradiotv.com:1936/andinatv/andinatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="La Paz", BOLIVISION
 http://live.cdn.comteco.com.bo:80/comgo/0202/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lostiempos.com/sites/default/files/media_imagen/2021/2/5/bolivia-tv-1280x720.jpg" group-title="Cochabamba", BOLIVIA TV
-http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/314V4RUvrwL.png" group-title="Cochabamba", GAMING
-http://live.cdn.comteco.com.bo:80/comgo/0500/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51g9CBbyn+L._AC_US1024_.png" group-title="Religioso", RED ADVENIR
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w2051568737.m3u8
@@ -127,14 +141,13 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Religioso", Comunion tv 
 http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", CGTN ESPAÑOL
-http://news.cgtn.com:80/resource/live/espanol/cgtn-e.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="24/7", Humor tv 21/7
 https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="24/7", Chavo del 8
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas", A ESTRENAR 
 http://live.cdn.comteco.com.bo:80/comgo/0408/index.m3u8
@@ -143,14 +156,11 @@ http://live.cdn.comteco.com.bo:80/comgo/0408/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" group-title="Internacional", 15 tv MEXICO
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", CGTN ESPAÑOL
+http://news.cgtn.com:80/resource/live/espanol/cgtn-e.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" group-title="Internacional", Latina TvPeru
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON KPOP TV CHILE
-https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON RADIO CHILE
-https://tls-cl.cdnz.cl/adgm-1/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", ANIME ZONE ARGENTINA
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
@@ -161,35 +171,29 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?Playl
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CINE CLUB PERU
 https://servilive.com:3176/live/cineclublive.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON KPOP TV CHILE
+https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON RADIO CHILE
+https://tls-cl.cdnz.cl/adgm-1/live/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="Radio", RADIO LA CADENA CORAL
 http://eu2.serviaudio.com:7062/stream
 
-#EXTINF:-1 tvg-logo="" group-title="Sucre", SUCREMANTA
-https://sucre.imd.la:1935/sucremanta/sucremanta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/915216200031965185/uu504OYa.jpg" group-title="Sucre", TVU  SUCRE
+https://solo.disfrutaenlared.com:1936/tuch/mp4:tuch_720p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Oruro", TV SHOW ORURO
 http://solo.disfrutaenlared.com:1935/tvshow/tvshow/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", AYNI TV
-http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="La Paz", TELE ESTRELLA
-http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="La Paz", ANDINA TV
-https://cp.sradiotv.com:1936/andinatv/andinatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cochabamba", EBO TV
-http://stmv1.questreaming.com:80/ebotv/ebotv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Oruro", CORAL TV
 http://cp.sradiotv.com:1935/coraltv/coraltv/chunklist_w431056276.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", VOS TV
-http://canaltv.istbolivia.com:1935/vostv/vostv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", CRISTAL HD
-http://america.tucableip.com:80/bolivia/cristaltv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CNN
 http://live.cdn.comteco.com.bo:80/comgo/0301/index.m3u8
@@ -258,6 +262,9 @@ https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
 #EXTINF:-1 group-title="Musica", tele musica tv
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
+#EXTINF:-1 group-title="Musica", Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 group-title="La Paz", Bolivia tv 7.1
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 
@@ -291,8 +298,6 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", South Park
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=46ac99e0-7170-421f-b6f5-4a4ee37d48df&clientModelNumber=na&deviceDNT=false&deviceId=46ac99e0-7170-421f-b6f5-4a4ee37d48df&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fb504a37-b206-11eb-881a-0242ac110002&sid=fb504a37-b206-11eb-881a-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", Red Uno
-http://136.243.3.70:1935/RedUno/RedUno/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", ATB
 https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
