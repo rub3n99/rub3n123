@@ -52,6 +52,10 @@ http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/314V4RUvrwL.png" group-title="Cochabamba", GAMING
 http://live.cdn.comteco.com.bo:80/comgo/0500/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Cochabamba", ERBOL
+https://cloud2.streaminglivehd.com:1936/8180/8180/playlist.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Beni", ANAZALTV
 http://hdtv.istbolivia.com:1935/anazatv/anazatv/playlist.m3u8
@@ -161,9 +165,6 @@ https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas", A ESTRENAR 
 http://live.cdn.comteco.com.bo:80/comgo/0408/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" group-title="Internacional", 15 tv MEXICO
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", CGTN ESPAÑOL
 http://news.cgtn.com:80/resource/live/espanol/cgtn-e.m3u8
@@ -301,6 +302,10 @@ https://live.teledom.info:3713/live/cinevisionlive.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", TeleClasicos
 https://tvdatta.com:3484/stream/play.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", HIspan tv
+https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo=" " group-title="NOVELAS", TVC
 http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/64433
 
@@ -313,7 +318,9 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", South Park
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=46ac99e0-7170-421f-b6f5-4a4ee37d48df&clientModelNumber=na&deviceDNT=false&deviceId=46ac99e0-7170-421f-b6f5-4a4ee37d48df&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fb504a37-b206-11eb-881a-0242ac110002&sid=fb504a37-b206-11eb-881a-0242ac110002&userId=
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", GOLDEN
+https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", ATB
-https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", D PELICULA
+https://cloud2.streaminglivehd.com:1936/8160/8160/playlist.m3u8?PlaylistM3UCL
 
