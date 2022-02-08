@@ -78,6 +78,15 @@ http://200.58.160.67:8081/envivo/unitelhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Santa Cruz", CRISTAL HD
 http://america.tucableip.com:80/bolivia/cristaltv/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.detalle.cotes.net.bo/app/public/appWeb_/assets/images/canales/126.png" group-title="Santa Cruz", GIGAVISION
+http://200.58.160.67:8081/envivo/gigavision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1284135023612919813/C_n2lyON_400x400.jpg" group-title="Santa Cruz", MEGAVISION
+https://livefocamundo.com:8081/megavisiontv/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", BOLIVISION
+http://200.58.160.67:8081/envivo/bolivision/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/sur.tv.bo/wp-content/uploads/2019/01/cropped-LOGO-WEB-19.jpg?fit=512%2C512&ssl=1 " group-title="Tarija", SUR TV
 https://dcunilive51-lh.akamaihd.net/i/dclive_1@752299/master.m3u8?hdnea=st=1644070433~exp=1644070553~acl=/i/dclive_1@752299*~hmac=64f6090be981886d3c2d88a4766e82b46fb07ff19615d9d9a496e135dfd44a6a
@@ -170,6 +179,12 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?Playl
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CINE CLUB PERU
 https://servilive.com:3176/live/cineclublive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", VARIEDADES
+https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", NAT TELEVISION
+https://cloud2.streaminglivehd.com:1936/8204/8204/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON KPOP TV CHILE
