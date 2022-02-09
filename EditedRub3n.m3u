@@ -53,7 +53,7 @@ http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
 http://live.cdn.comteco.com.bo:80/comgo/0500/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Cochabamba", ERBOL
-https://cloud2.streaminglivehd.com:1936/8180/8180/playlist.m3u8?PlaylistM3UCL
+https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8?PlaylistM3UCL
 
 
 
@@ -91,6 +91,11 @@ https://livefocamundo.com:8081/megavisiontv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="" group-title="Santa Cruz", BOLIVISION
 http://200.58.160.67:8081/envivo/bolivision/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", PAT
+http://200.58.160.67:8081/envivo/pat/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", RED UNO
+http://200.58.160.67:8081/envivo/redunohd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/sur.tv.bo/wp-content/uploads/2019/01/cropped-LOGO-WEB-19.jpg?fit=512%2C512&ssl=1 " group-title="Tarija", SUR TV
 https://dcunilive51-lh.akamaihd.net/i/dclive_1@752299/master.m3u8?hdnea=st=1644070433~exp=1644070553~acl=/i/dclive_1@752299*~hmac=64f6090be981886d3c2d88a4766e82b46fb07ff19615d9d9a496e135dfd44a6a
