@@ -91,6 +91,9 @@ http://200.58.160.67:8081/envivo/gigavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1284135023612919813/C_n2lyON_400x400.jpg" group-title="Santa Cruz", MEGAVISION
 https://livefocamundo.com:8081/megavisiontv/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/10/tvofftravel.png" group-title="Santa Cruz", TV OFF
+https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Santa Cruz", BOLIVISION
 http://200.58.160.67:8081/envivo/bolivision/playlist.m3u8
 
@@ -104,11 +107,20 @@ http://200.58.160.67:8081/envivo/redunohd/playlist.m3u8
 https://dcunilive51-lh.akamaihd.net/i/dclive_1@752299/master.m3u8?hdnea=st=1644070433~exp=1644070553~acl=/i/dclive_1@752299*~hmac=64f6090be981886d3c2d88a4766e82b46fb07ff19615d9d9a496e135dfd44a6a
 
 
-#EXTINF:-1 tvg-logo=" " group-title="La Paz", SEO TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ra2CC47LkTahD0GWfn1TGB4AeSEBGb5nX5gKw82CjKBFuEYA6BDsahawII6juijptTk" group-title="La Paz", SEO TV
 http://190.104.8.42:80/seo
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j5yPLfz/SEO-KIDS-TV.jpg" group-title="La Paz", SEO TV KIDS
+https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ra2CC47LkTahD0GWfn1TGB4AeSEBGb5nX5gKw82CjKBFuEYA6BDsahawII6juijptTk" group-title="La Paz", SEO TV2
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXNgjExXTFs/maxresdefault.jpg" group-title="La Paz", CVC TV
-https://cp.sradiotv.com:1936/8058/8058/playlist.m3u8
+https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3WxWTcB/RENUEVA-DIGITAL-FHD.jpg" group-title="La Paz", RENUEVA TV
+https://inliveserver.com:1936/8158/8158/chunklist_w701789769.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="La Paz", RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
