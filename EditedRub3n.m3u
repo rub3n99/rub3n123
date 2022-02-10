@@ -350,3 +350,47 @@ https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", D PELICULA
 https://cloud2.streaminglivehd.com:1936/8160/8160/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO FAMILY
+https://edge03-fdo-py.cvattv.com.ar/live/c2live/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO 
+https://edge03-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO 2
+https://edge03-fdo-py.cvattv.com.ar/live/c2live/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO PLUS
+https://edge03-fdo-py.cvattv.com.ar/live/c2live/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO MUNDI
+https://edge03-fdo-py.cvattv.com.ar/live/c2live//Max_HD/SA_SAGEMCOM//Max_HD.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO SIGNATURE
+https://edge03-fdo-py.cvattv.com.ar/live/c2live/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO POP
+https://edge03-fdo-py.cvattv.com.ar/live/live/Max_UP_HD/SA_SAGEMCOM/Max_UP_HD.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO EXTREME
+https://edge03-fdo-py.cvattv.com.ar/live/c2live/Max_Prime_HD/SA_SAGEMCOM/Max_Prime_HD.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINECANAL
+https://edge2.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", UNIVERSAL
+https://edge03-fdo-py.cvattv.com.ar/live/c2live/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TNT
+https://edge4-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", SPACE
+https://edge4-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINEMAX
+https://edge4-sl.cvattv.com.ar/live/c2live/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+
+
+
+
+
