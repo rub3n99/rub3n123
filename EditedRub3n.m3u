@@ -38,7 +38,7 @@ http://live.cdn.comteco.com.bo:80/comgo/0202/index.m3u8
 http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="Cochabamba", RTP
-http://live.cdn.comteco.com.bo:80/comgo/0209/index.m3u8
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217217547566710784/w5xYRpsi.jpg" group-title="Cochabamba", PAT LA PAZ
 http://live.cdn.comteco.com.bo:80/comgo/0215/index.m3u8
@@ -118,6 +118,9 @@ https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXNgjExXTFs/maxresdefault.jpg" group-title="La Paz", CVC TV
 https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="La Paz", TROPICAL TV HD
+https://cloud2.streaminglivehd.com:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3WxWTcB/RENUEVA-DIGITAL-FHD.jpg" group-title="La Paz", RENUEVA TV
 https://inliveserver.com:1936/8158/8158/chunklist_w701789769.m3u8
@@ -331,6 +334,29 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", HIspan tv
 https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Latino Kids - Uruguay
+https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Aniplus tv - AR
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Planetatv Kids - Chile
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Planetatv Movies - Chile
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Evastream - Chile
+https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", FMTV1 - Chile
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", ORBIT TV - DOMINICANA
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", TELESERIES - Chile
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="NOVELAS", TVC
 http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/64433
