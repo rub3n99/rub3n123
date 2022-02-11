@@ -416,6 +416,19 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINEMAX
 https://edge4-sl.cvattv.com.ar/live/c2live/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", FITE TV
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", WWE NETWORK
+https://h5.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIyIDY6MDI6NTEgUE0maGFzaF92YWx1ZT05TEhkN3BTVXF3Ujg0UEdOMVNHWGJnPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TELEMUNDO
+https://h4.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIyIDY6MTE6MDUgUE0maGFzaF92YWx1ZT1nYVdocGFuUmllS1dPUjdZek95MU9RPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CARTOON NETWORK
+https://slvcs87g3x.singularcdn.net.br:443/live/ctn_latam/playlist-720p.m3u8
+
+
 
 
 
