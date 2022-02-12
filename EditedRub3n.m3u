@@ -428,8 +428,15 @@ https://h4.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CARTOON NETWORK
 https://slvcs87g3x.singularcdn.net.br:443/live/ctn_latam/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", FOX SPORTS 2 (MX)
+http://disfruta.net:80/lisacruzado/Yyyc4HMhT3/1076
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", FOX SPORTS 2 UHD (AR)
+http://disfruta.net:80/lisacruzado/Yyyc4HMhT3/1094
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", FOX SPORTS 2 UHD (MX)
+http://disfruta.net:80/lisacruzado/Yyyc4HMhT3/1075
 
-
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", FOX SPORTS 2 (AR)
+http://disfruta.net:80/lisacruzado/Yyyc4HMhT3/1095
 
