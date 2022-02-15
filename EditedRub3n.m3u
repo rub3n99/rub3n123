@@ -60,6 +60,16 @@ https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="" group-title="Beni", ANAZALTV
 http://hdtv.istbolivia.com:1935/anazatv/anazatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Potosi", MARVISION TV
+https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Potosi", IMPERIAL TV
+https://stmv.panel.grupolimalive.com/imperial/imperial/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Potosi", RTVE ENCUENTRO TV
+https://stmv.panel.grupolimalive.com/encuentro/encuentro/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSwDgBSXhpp-0V_JaCNUe8CMc7WDC1VnaPWn_PB=s900-c-k-c0x00ffffff-no-rj" group-title="Santa Cruz", TVU  SANTA CRUZ
 https://srv.panelcast.net/tvuniversitaria/tvuniversitaria/playlist.m3u8
@@ -103,8 +113,15 @@ http://200.58.160.67:8081/envivo/pat/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Santa Cruz", RED UNO
 http://200.58.160.67:8081/envivo/redunohd/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i1.wp.com/sur.tv.bo/wp-content/uploads/2019/01/cropped-LOGO-WEB-19.jpg?fit=512%2C512&ssl=1 " group-title="Tarija", SUR TV
 https://dcunilive51-lh.akamaihd.net/i/dclive_1@752299/master.m3u8?hdnea=st=1644070433~exp=1644070553~acl=/i/dclive_1@752299*~hmac=64f6090be981886d3c2d88a4766e82b46fb07ff19615d9d9a496e135dfd44a6a
+
+#EXTINF:-1 tvg-logo=" " group-title="Tarija", TU TV CHAPACA
+https://stmv.panel.grupolimalive.com/tarija/tarija/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Tarija", MEGA TV YACUIBA
+https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ra2CC47LkTahD0GWfn1TGB4AeSEBGb5nX5gKw82CjKBFuEYA6BDsahawII6juijptTk" group-title="La Paz", SEO TV
@@ -247,8 +264,8 @@ http://live.cdn.comteco.com.bo:80/comgo/0426/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Musica", TOP MUSIC
 http://live-edge01.telecentro.net.ar:80/live/smil:musictop.smil/chunklist_w1494595029_b364000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Nor Selva Peru
-https://tv.tvcontrolcp.com:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", CHACO TV
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", Milenium
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
@@ -271,8 +288,8 @@ https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", Viwix Chile
  https://593b04c4c5670.streamlock.net/8008/8008/index.m3u8
  
- #EXTINF:-1 tvg-logo=" " group-title="Internacional", CHV Chile
-  https://593b04c4c5670.streamlock.net/8040/8040/index.m3u8
+ #EXTINF:-1 tvg-logo=" " group-title="Internacional", RCC PARAGUAY
+ https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
   
  #EXTINF:-1 tvg-logo=" " group-title="Internacional", Clasicos Chile
  https://593b04c4c5670.streamlock.net/8044/8044/index.m3u8 
@@ -282,6 +299,15 @@ https://593b04c4c5670.streamlock.net/8034/8034/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", EncapillaTV Chile 
 https://593b04c4c5670.streamlock.net/8016/8016/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", GEN TV - AR
+https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", TELECINCO
+https://videohd.live:19360/8016/8016.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo=" " group-title="24/7", Rugrats
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
