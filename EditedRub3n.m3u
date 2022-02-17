@@ -213,7 +213,8 @@ http://live.cdn.comteco.com.bo:80/comgo/0408/index.m3u8
 http://news.cgtn.com:80/resource/live/espanol/cgtn-e.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" group-title="Internacional", Latina TvPeru
-https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+https://live-latina-mdstrm.secure.footprint.net/live-stream-dai/319fed2157fa4c48ae2f81928b21f8a4/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5ce7109c7398b977dc0744cd/e99ddc76-91fb-4f71-8120-300f0261be04/1.m3u8?aid=5ce70c587398b977dc0743b5&uid=s2psdefpes1tvt59vrhqqwsp487anwvg&sid=sscgida9n9pe2ebz1oyfwpwqbcsvwicm&pid=ypl891llghspimr8pofe066alusbqd9v&ref=https%3a%2f%2fwww.latina.pe%2f&without_cookies=false&dnt=true&es=live-latina-mdstrm.secure.footprint.net&proto=https&pz=us&access_token=4nk5bduph5houfg2zpokcimv8q2kb5mb185n3clpjyiubnpajgvskiud8zzq5j0qa1qcaaeydzz&manifestfilter=video_height:240-480&hash=036858167e9afc84d9f7d
+
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", ANIME ZONE ARGENTINA
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
@@ -345,7 +346,7 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas", Cine Argentino
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="NOVELAS", RCN Novelas
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", RCN Novelas
 http://45.179.140.242:8000/play/a0jf
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", AME TV
@@ -387,8 +388,15 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", TELESERIES - Chile
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="NOVELAS", TVC
-http://compitv.info:8080/Oaisprotv2bo/JnTLbfa2YN/64433
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", TELEMAX
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", TVP PUBLICA
+https://edge-live14-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional",TVMAX
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+
 
 #EXTINF:-1 tvg-logo=" https://media.tycsports.com/files/2020/11/26/157124/logo-tyc-sports-maradona_862x485.jpg?v=2" group-title="Deportes", Tyc Sporta v1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8?fbclid=IwAR017ePl1fe7066A6xn-Ob9-xKKHEl8-DeacNx7yWzYDgYDAyfHEs76xetE
@@ -466,11 +474,15 @@ https://edge-live32-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TNT SPORTS
 https://chromecast.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TIGO SPORTS
-https://list.iptvcat.com/my_list/s/f3e9cbcb33527675f03dad96fc7dd270.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", SONY NOVELAS
+https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TIGO EVENTS
-https://list.iptvcat.com/my_list/s/a806c2dfba9f37f960e60e401a492fcb.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINE+
+https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", A3CINE
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
 
 
 
