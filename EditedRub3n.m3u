@@ -133,6 +133,9 @@ https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ra2CC47LkTahD0GWfn1TGB4AeSEBGb5nX5gKw82CjKBFuEYA6BDsahawII6juijptTk" group-title="La Paz", SEO TV2
 https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/cXVlc3RyZWFtaW5nLmNvbS5zZW90dmJvbGl2aWFfc2NyZWVuXzBfMTUzNjQ1NTczNl8wMDI/screen-0.jpg?fakeurl=1&type=.jpg" group-title="La Paz", SEO TV NOVELAS
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXNgjExXTFs/maxresdefault.jpg" group-title="La Paz", CVC TV
 https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
 
