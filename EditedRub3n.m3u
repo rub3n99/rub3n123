@@ -457,7 +457,10 @@ https://edge4-sl.cvattv.com.ar/live/c2live/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", WWE NETWORK
-https://h5.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIyIDY6MDI6NTEgUE0maGFzaF92YWx1ZT05TEhkN3BTVXF3Ujg0UEdOMVNHWGJnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDU6MDI6MDUgUE0maGFzaF92YWx1ZT1tbEt2VmY2NVlud0tlRkt4aEl4Z09BPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", WWE NETWORK2
+https://jqffpmmsrepwpnpe.wzcdn988.net:8443/hls/xsyp7ol9x4i6m.m3u8?s=rZ9Jz9Av6ZOGMcJCYHHxsA&e=1645312597
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TELEMUNDO
 https://h4.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIyIDY6MTE6MDUgUE0maGFzaF92YWx1ZT1nYVdocGFuUmllS1dPUjdZek95MU9RPT0mdmFsaWRtaW51dGVzPTI0MA==
