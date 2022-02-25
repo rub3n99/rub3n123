@@ -55,10 +55,20 @@ http://live.cdn.comteco.com.bo:80/comgo/0500/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cochabamba", ERBOL
 https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="" group-title="Cochabamba", ERBOL
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL1/__op/hls-default/__f/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Beni", ANAZALTV
 http://hdtv.istbolivia.com:1935/anazatv/anazatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Beni", CANAL 27
+https://master.tucableip.com/canal27/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Beni", CANAL 29
+https://master.tucableip.com/NetTv/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Potosi", MARVISION TV
 https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
@@ -92,6 +102,9 @@ http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Santa Cruz", UNITEL HD SANTA CRUZ
 http://200.58.160.67:8081/envivo/unitelhd/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", FTV SANTA CRUZ
+https://master.tucableip.com/ftv/index.m3u8
+ 
 #EXTINF:-1 tvg-logo="" group-title="Santa Cruz", CRISTAL HD
 http://america.tucableip.com:80/bolivia/cristaltv/tracks-v1a1/index.m3u8
 
@@ -99,7 +112,7 @@ http://america.tucableip.com:80/bolivia/cristaltv/tracks-v1a1/index.m3u8
 http://200.58.160.67:8081/envivo/gigavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1284135023612919813/C_n2lyON_400x400.jpg" group-title="Santa Cruz", MEGAVISION
-https://livefocamundo.com:8081/megavisiontv/index.m3u8?PlaylistM3UCL
+https://livefocamundo.com:8081/megavisiontv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/10/tvofftravel.png" group-title="Santa Cruz", TV OFF
 https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
@@ -139,6 +152,9 @@ https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXNgjExXTFs/maxresdefault.jpg" group-title="La Paz", CVC TV
 https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvcamargo.com/wp-content/uploads/2020/05/LOGO-1-300x300.png" group-title="La Paz", CAMARGO TV
+http://master.tucableip.com/35camargo/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="La Paz", TROPICAL TV HD
 https://cloud2.streaminglivehd.com:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 
@@ -165,6 +181,9 @@ https://master.tucableip.com//pat/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="La Paz", BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w327535345.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="La Paz", RED UNO LA PAZ
+http://136.243.3.70:1935/RedUno/RedUno/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.umss.edu.bo/wp-content/uploads/2017/04/cropped-Logo-Simbolo.png" group-title="La Paz", TVU UMSA
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
@@ -255,7 +274,12 @@ http://solo.disfrutaenlared.com:1935/tvshow/tvshow/playlist.m3u8
 http://cp.sradiotv.com:1935/coraltv/coraltv/chunklist_w431056276.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Oruro", CEA tv
-https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/playlist.m3u8 
+https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Oruro", LEVEL UP TV
+https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", CNN
@@ -297,6 +321,9 @@ https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
   
  #EXTINF:-1 tvg-logo=" " group-title="Internacional", Clasicos Chile
  https://593b04c4c5670.streamlock.net/8044/8044/index.m3u8 
+ 
+ #EXTINF:-1 tvg-logo=" " group-title="Internacional", PANAMERICANA
+ https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", Music Chile 
 https://593b04c4c5670.streamlock.net/8034/8034/index.m3u8
