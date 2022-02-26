@@ -462,6 +462,21 @@ https://livefocamundo.com:8081/quintatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=" https://media.tycsports.com/files/2020/11/26/157124/logo-tyc-sports-maradona_862x485.jpg?v=2" group-title="Deportes", Tyc Sporta v1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8?fbclid=IwAR017ePl1fe7066A6xn-Ob9-xKKHEl8-DeacNx7yWzYDgYDAyfHEs76xetE
 
+#EXTINF:-1 tvg-logo=" " group-title="Deportes", ESPN (MX)
+https://edge01-cde-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Deportes", ESPN (MX)V2
+https://edge10-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Deportes", ESPN 2 (MX)
+https://edge10-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Deportes", FOX SPORTS 
+https://edge-live32-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Deportes", TNT SPORTS
+https://chromecast.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", The Simpsons 2
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
@@ -476,7 +491,7 @@ https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8?PlaylistM3UCL
 https://cloud2.streaminglivehd.com:1936/8160/8160/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO FAMILY
-https://edge03-fdo-py.cvattv.com.ar/live/c2live/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+https://Chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO 
 https://edge03-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
@@ -499,47 +514,44 @@ https://edge03-fdo-py.cvattv.com.ar/live/live/Max_UP_HD/SA_SAGEMCOM/Max_UP_HD.m3
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO EXTREME
 https://edge03-fdo-py.cvattv.com.ar/live/c2live/Max_Prime_HD/SA_SAGEMCOM/Max_Prime_HD.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", STAR CHANNEL
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINECANAL
 https://edge2.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", UNIVERSAL
-https://edge03-fdo-py.cvattv.com.ar/live/c2live/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TNT
 https://edge4-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TNT SERIES
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", PARAMOUNT
+https://edge-live12-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", SPACE
 https://edge4-sl.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINEMAX
-https://edge4-sl.cvattv.com.ar/live/c2live/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", FITE TV
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", WWE NETWORK
-https://h4.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIyIDU6MDI6MDUgUE0maGFzaF92YWx1ZT1tbEt2VmY2NVlud0tlRkt4aEl4Z09BPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", WWE NETWORK2
-https://jqffpmmsrepwpnpe.wzcdn988.net:8443/hls/xsyp7ol9x4i6m.m3u8?s=rZ9Jz9Av6ZOGMcJCYHHxsA&e=1645312597
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TELEMUNDO
-https://h4.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIyIDY6MTE6MDUgUE0maGFzaF92YWx1ZT1nYVdocGFuUmllS1dPUjdZek95MU9RPT0mdmFsaWRtaW51dGVzPTI0MA==
-
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CARTOON NETWORK
 https://slvcs87g3x.singularcdn.net.br:443/live/ctn_latam/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", ESPN (MX)
-https://edge01-cde-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", FOX SPORTS 
-https://edge-live32-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TNT SPORTS
-https://chromecast.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CARTOON NETWORK HD
+https://edge2.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", SONY
+https://edge-live12-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", COMEDY CENTRAL
+https://edge-live12-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINE+
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
