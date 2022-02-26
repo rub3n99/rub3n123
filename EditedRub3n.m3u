@@ -13,6 +13,9 @@ http://live.cdn.comteco.com.bo:80/comgo/0208/index.m3u8
 #EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="Cochabamba",RED UNO HD
 http://live.cdn.comteco.com.bo:80/comgo/0206/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="Cochabamba",RED UNO SD
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5ea9f31a2cdc654acd294aaf/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/khY04_kPWbkOhnEnibakfJ9Q96PAw7_pHRnJ_biUY-um8gO8jgRqMxSQBEl4FhlUV6nr" group-title="Cochabamba", RED CCTV SACABA
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
@@ -180,14 +183,13 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.
 http://186.121.206.197:80/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1338497732420530177/Yf4BhsDo_400x400.png" group-title="La Paz", UPPTV
-https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM0MDc4NTkyLCJzZXNzaW9uIjoiMTgxLjExNS4xNjcuMTI4Iiwid2hpdGVsaXN0IjpbIjE4MS4xMTUuMTY3LjEyOCJdfSwic2lnbmF0dXJlIjoiNWI1MWQ5ZWVmZWY2ZWI1MTgwOGExODRlY2U4NjgwNGYxZGIxOTZiZCJ9
+https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ1OTMwNDM1LCJzZXNzaW9uIjoiMTgxLjExNS4xNjcuMTk2Iiwid2hpdGVsaXN0IjpbIjE4MS4xMTUuMTY3LjE5NiJdfSwic2lnbmF0dXJlIjoiNGY1NGMyMDkxZGQzMWVkZDYzMjQ2YzFmNWU2MzgwZTc0ZmU3YjAxYSJ9
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tfM2CGxTTP8/hqdefault.jpg" group-title="La Paz", VIACHA TV LA PAZ
 https://tv.siete.us/laluzdedios/laluzdedios/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png " group-title="La Paz", CADENA A 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL1/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217217547566710784/w5xYRpsi.jpg" group-title="La Paz", PAT LA PAZ
 https://master.tucableip.com//pat/index.m3u8
@@ -204,14 +206,38 @@ http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="La Paz", VOS TV
 http://canaltv.istbolivia.com:1935/vostv/vostv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="La Paz", ZURAXCA TV AEL ALTO
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/zuracatvhd
+
 #EXTINF:-1 tvg-logo="" group-title="La Paz", AYNI TV
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="La Paz", CINE Y SERIES
+https://stmv.panel.grupolimalive.com/streamb/streamb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="La Paz", CATOLICA TV
+http://st2.worldkast.com/8004/8004/playlist.m3u8
+
+#EXTINF:-1 group-title="La Paz", Bolivia tv 7.1
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="La Paz", Bolivia tv 7.2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="La Paz", PTV 
+https://fullvideo.enlaweb.com.ar/video38/video38/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="La Paz", TELE ESTRELLA
 http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="La Paz", TV MUJER
+https://cloud3.streaminglivehd.com:1936/8026/8026/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="La Paz", ANDINA TV
 https://cp.sradiotv.com:1936/andinatv/andinatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="La Paz", RADIO ACTIVA
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/radioactiva919
 
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="La Paz", BOLIVISION
 http://live.cdn.comteco.com.bo:80/comgo/0202/index.m3u8
@@ -230,50 +256,34 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-logo=" " group-title="24/7", Humor tv 21/7
 https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="24/7", Chavo del 8
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo=" " group-title="24/7", Rugrats
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
 
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas", A ESTRENAR 
 http://live.cdn.comteco.com.bo:80/comgo/0408/index.m3u8
 
+#EXTINF:-1 tvg-logo=""  group-title="Peliculas", ANIME Y COMICS
+http://live.cdn.comteco.com.bo:80/comgo/0426/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", CGTN ESPAÑOL
-http://news.cgtn.com:80/resource/live/espanol/cgtn-e.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" group-title="Internacional", Latina TvPeru
-https://live-latina-mdstrm.secure.footprint.net/live-stream-dai/319fed2157fa4c48ae2f81928b21f8a4/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5ce7109c7398b977dc0744cd/e99ddc76-91fb-4f71-8120-300f0261be04/1.m3u8?aid=5ce70c587398b977dc0743b5&uid=s2psdefpes1tvt59vrhqqwsp487anwvg&sid=sscgida9n9pe2ebz1oyfwpwqbcsvwicm&pid=ypl891llghspimr8pofe066alusbqd9v&ref=https%3a%2f%2fwww.latina.pe%2f&without_cookies=false&dnt=true&es=live-latina-mdstrm.secure.footprint.net&proto=https&pz=us&access_token=4nk5bduph5houfg2zpokcimv8q2kb5mb185n3clpjyiubnpajgvskiud8zzq5j0qa1qcaaeydzz&manifestfilter=video_height:240-480&hash=036858167e9afc84d9f7d
-
-
-#EXTINF:-1 tvg-logo="" group-title="Internacional", ANIME ZONE ARGENTINA
-http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="" group-title="Internacional", WOW TV  EL SALVADOR
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="" group-title="Internacional", CINE CLUB PERU
-https://servilive.com:3176/live/cineclublive.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Internacional", VARIEDADES
-https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="" group-title="Internacional", NAT TELEVISION
-https://cloud2.streaminglivehd.com:1936/8204/8204/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON KPOP TV CHILE
-https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON RADIO CHILE
-https://tls-cl.cdnz.cl/adgm-1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Peliculas", Cine Argentino
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="Radio", RADIO LA CADENA CORAL
 http://eu2.serviaudio.com:7062/stream
+
+#EXTINF:-1 tvg-logo="" group-title="Radio", RADIO KANCHA PARLASPA
+https://radio.yoemito.net:8018/stream
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/915216200031965185/uu504OYa.jpg" group-title="Sucre", TVU  SUCRE
@@ -295,18 +305,47 @@ https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Internacional", CNN
-http://live.cdn.comteco.com.bo:80/comgo/0301/index.m3u8
-
-#EXTINF:-1 tvg-logo=""  group-title="Peliculas", ANIME Y COMICS
-http://live.cdn.comteco.com.bo:80/comgo/0426/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="Musica", TOP MUSIC
-http://live-edge01.telecentro.net.ar:80/live/smil:musictop.smil/chunklist_w1494595029_b364000_sleng.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Musica", VH1
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/VH1/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON KPOP TV CHILE
+https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON RADIO CHILE
+https://tls-cl.cdnz.cl/adgm-1/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8 
+
+#EXTINF:-1 group-title="Musica", tele musica tv
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica", Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", CGTN ESPAÑOL
+http://news.cgtn.com:80/resource/live/espanol/cgtn-e.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" group-title="Internacional", Latina TvPeru HD
+http://177.53.152.186:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", ANIME ZONE ARGENTINA
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", WOW TV  EL SALVADOR
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", CINE CLUB PERU
+https://servilive.com:3176/live/cineclublive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", VARIEDADES
+https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", NAT TELEVISION
+https://cloud2.streaminglivehd.com:1936/8204/8204/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", CHACO TV
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
@@ -344,6 +383,9 @@ https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", Music Chile 
 https://593b04c4c5670.streamlock.net/8034/8034/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Internacional", CNN
+http://live.cdn.comteco.com.bo:80/comgo/0301/index.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", EncapillaTV Chile 
 https://593b04c4c5670.streamlock.net/8016/8016/index.m3u8
 
@@ -353,41 +395,14 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", TELECINCO
 https://videohd.live:19360/8016/8016.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="24/7", Rugrats
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-logo="" group-title="Internacional", ALEGRIA TV
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", Recuerdos
 https://593b04c4c5670.streamlock.net/8002/8002/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Radio", RADIO KANCHA PARLASPA
-https://radio.yoemito.net:8018/stream
-
-#EXTINF:-1 group-title="Musica", Music Itop
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8 
-
-#EXTINF:-1 group-title="Internacional", Digital Vision
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Digital Vision
 https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
-
-#EXTINF:-1 group-title="Musica", tele musica tv
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-
-#EXTINF:-1 group-title="Musica", Kpop TV
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="La Paz", Bolivia tv 7.1
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="La Paz", Bolivia tv 7.2
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Peliculas", Cine Argentino
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", RCN Novelas
 http://45.179.140.242:8000/play/a0jf
@@ -440,9 +455,13 @@ https://edge-live14-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Internacional",TVMAX
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="Internacional",TV QUINTA
+https://livefocamundo.com:8081/quintatv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo=" https://media.tycsports.com/files/2020/11/26/157124/logo-tyc-sports-maradona_862x485.jpg?v=2" group-title="Deportes", Tyc Sporta v1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8?fbclid=IwAR017ePl1fe7066A6xn-Ob9-xKKHEl8-DeacNx7yWzYDgYDAyfHEs76xetE
+
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", The Simpsons 2
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
@@ -479,7 +498,6 @@ https://edge03-fdo-py.cvattv.com.ar/live/live/Max_UP_HD/SA_SAGEMCOM/Max_UP_HD.m3
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", HBO EXTREME
 https://edge03-fdo-py.cvattv.com.ar/live/c2live/Max_Prime_HD/SA_SAGEMCOM/Max_Prime_HD.m3u8
-
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", CINECANAL
 https://edge2.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
@@ -540,6 +558,14 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TELEFEHD/__op/hls-default/__f/i
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN",CNN
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CNNESPANOL/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN",CNN INTERNACIONAL
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN",BITME HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BITMEHD/__op/hls-default/__f/index.m3u8
+
+
 
 
 
