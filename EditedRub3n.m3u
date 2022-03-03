@@ -34,6 +34,9 @@ http://live.cdn.comteco.com.bo:80/comgo/0217/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="Cochabamba",ATB COCHABAMBA
 http://live.cdn.comteco.com.bo:80/comgo/0201/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="Cochabamba",ATB COCHABAMBA SD
+https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
+
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="Cochabamba", BOLIVISION
 http://live.cdn.comteco.com.bo:80/comgo/0202/index.m3u8
 
@@ -546,6 +549,9 @@ https://edge2.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/Ca
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", SONY COMEDIAS
+https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", SONY
 https://edge-live12-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
