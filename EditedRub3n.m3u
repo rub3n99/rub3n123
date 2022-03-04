@@ -311,6 +311,21 @@ https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 #EXTINF:-1 tvg-logo="" group-title="Musica", VH1
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/VH1/__op/hls-default/__f/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Musica", VH1 CLASSIC
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/VH1CLASSIC/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Musica", MTV HITS
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHITS/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Musica", MTV DANCE
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVDANCE/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Musica", MTV MEGA HITS
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/VH1MEGAHITS/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Musica", MTV HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/MTVHD/__op/hls-default/__f/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://onradiochile.cl/wp-content/uploads/2021/01/logo_onradio2021.png"group-title="Musica", ON KPOP TV CHILE
 https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
 
@@ -570,6 +585,15 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", NICK JUNIOR
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKJRHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", DISNEY JUNIOR
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", DISNEY XD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYXD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUN", DISCOVERY KIDS
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYKIDSHD/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUN", TELEFE 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TELEFEHD/__op/hls-default/__f/index.m3u8
