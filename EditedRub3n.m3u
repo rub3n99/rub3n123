@@ -605,6 +605,36 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BITMEHD/__op/hls-default/__f/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", LOOK SPORTS HD
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?per
+
+#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", ARENA 2 PREMIUN
+http://46.29.169.15:4001/play/a00h/index.m3u8?per
+
+#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", AMERICA TV UHD
+http://144.126.128.123:25461/canalestv/s1212/11610
+
+EXTINF:-1 tvg-logo="" group-title="Canales Temporales", AMERICA TV HD
+http://144.126.128.123:25461/canalestv/s1212/11611
+
+EXTINF:-1 tvg-logo="" group-title="Canales Temporales", DISNEY CHANNEL
+http://144.126.128.123:25461/canalestv/s1212/11495
+
+EXTINF:-1 tvg-logo="" group-title="Canales Temporales", SYFY
+http://144.126.128.123:25461/canalestv/s1212/11599
+
+EXTINF:-1 tvg-logo="" group-title="Canales Temporales", LATINA PERU
+http://144.126.128.123:25461/canalestv/s1212/11627
+
+EXTINF:-1 tvg-logo="" group-title="Canales Temporales", BEIN SPORTS
+http://144.126.128.123:25461/canalestv/s1212/11654
+
+EXTINF:-1 tvg-logo="" group-title="Canales Temporales", DIRECTV SPORTS
+http://144.126.128.123:25461/canalestv/s1212/11663
+
+EXTINF:-1 tvg-logo="" group-title="Canales Temporales", DIRECTV SPORTS 2
+http://144.126.128.123:25461/canalestv/s1212/11665
+
 
 
 
