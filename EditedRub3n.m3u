@@ -192,13 +192,16 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.
 http://186.121.206.197:80/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1338497732420530177/Yf4BhsDo_400x400.png" group-title="La Paz", UPPTV
-https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ1OTMwNDM1LCJzZXNzaW9uIjoiMTgxLjExNS4xNjcuMTk2Iiwid2hpdGVsaXN0IjpbIjE4MS4xMTUuMTY3LjE5NiJdfSwic2lnbmF0dXJlIjoiNGY1NGMyMDkxZGQzMWVkZDYzMjQ2YzFmNWU2MzgwZTc0ZmU3YjAxYSJ9
+https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3MTE0NTI0LCJzZXNzaW9uIjoiMTgxLjExNS4xNjcuMjAxIiwid2hpdGVsaXN0IjpbIjE4MS4xMTUuMTY3LjIwMSJdfSwic2lnbmF0dXJlIjoiYWFiNzQ4ZWQxZDVmNzdmNWUxZjVmNTljNDlkZDZmMWMwODQ2ZDFlZiJ9
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tfM2CGxTTP8/hqdefault.jpg" group-title="La Paz", VIACHA TV LA PAZ
 https://tv.siete.us/laluzdedios/laluzdedios/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tfM2CGxTTP8/hqdefault.jpg" group-title="La Paz", VIACHA TV LA PAZ V2
 https://tv.portalexpress.es:3898/live/laluzdedioslive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="La Paz", TRANSMEDIA TV
+https://streannlive-lh.akamaihd.net/i/TransmediaAVRA_1@87018/index_1_av-p.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1647113470~acl=*~data=hdntl~hmac=607de76f11ce4d7b4dfe73b6d9a465a272e7160c8aa7892d37df25d3580c7f5d
 
 #EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png " group-title="La Paz", CADENA A 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
@@ -705,6 +708,9 @@ http://144.126.128.123:25461/canalestv/s1212/11495
 
 EXTINF:-1 tvg-logo="" group-title="Canales Temporales", SYFY
 http://144.126.128.123:25461/canalestv/s1212/11599
+
+EXTINF:-1 tvg-logo="" group-title="Canales Temporales", MIAMI TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
 
 EXTINF:-1 tvg-logo="" group-title="Canales Temporales", LATINA PERU
 http://144.126.128.123:25461/canalestv/s1212/11627
