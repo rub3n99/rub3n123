@@ -135,6 +135,9 @@ https://livefocamundo.com:8081/megavisiontv/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/10/tvofftravel.png" group-title="Santa Cruz", TV OFF
 https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", NEO TV MINEROS
+https://master.tucableip.com/neotv/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Santa Cruz", TV CULTURAS
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVCULTURA/__op/hls-default/__f/index.m3u8
 
@@ -190,6 +193,9 @@ https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/pl
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tfM2CGxTTP8/hqdefault.jpg" group-title="La Paz", VIACHA TV LA PAZ
 https://tv.siete.us/laluzdedios/laluzdedios/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tfM2CGxTTP8/hqdefault.jpg" group-title="La Paz", VIACHA TV LA PAZ V2
+https://tv.portalexpress.es:3898/live/laluzdedioslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png " group-title="La Paz", CADENA A 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
@@ -266,8 +272,48 @@ https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="24/7", Chavo del 8
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo=" " group-title="24/7", Chavo del 8 V2
+http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/22235
+
 #EXTINF:-1 tvg-logo=" " group-title="24/7", Rugrats
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B22D25AD621863AF33B5B59CF52A9C88FFE5AF2A496C2290C92DCFC7A4A2663D/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="24/7", The Simpsons
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B22D25AD621863AF33B5B59CF52A9C88FFE5AF2A496C2290C92DCFC7A4A2663D/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="24/7", The Simpsons 2
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B22D25AD621863AF33B5B59CF52A9C88FFE5AF2A496C2290C92DCFC7A4A2663D/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="24/7", The Simpsons 3
+http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/38915
+
+#EXTINF:-1 tvg-logo="https://southparkstudios.mtvnimages.com/default.png" group-title="24/7", South Park
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=46ac99e0-7170-421f-b6f5-4a4ee37d48df&clientModelNumber=na&deviceDNT=false&deviceId=46ac99e0-7170-421f-b6f5-4a4ee37d48df&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fb504a37-b206-11eb-881a-0242ac110002&sid=fb504a37-b206-11eb-881a-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo=" " group-title="24/7", ALF
+https://srv5.zcast.com.br/alf/alf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="24/7", BUGS BONNY
+http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/45675
+
+#EXTINF:-1 tvg-logo=" " group-title="24/7", SAINT SEIYA
+http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/38910
+
+#EXTINF:-1 tvg-logo=" " group-title="24/7", CHUCKY
+http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/38911
+
+#EXTINF:-1 tvg-logo=" " group-title="24/7", MARVEL CINE
+http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/38912
+
+#EXTINF:-1 tvg-logo=" " group-title="24/7", DRAGON BALL GT
+http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/46741
+
+#EXTINF:-1 tvg-logo=" " group-title="24/7", DRAGON BALL Z
+http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/45116
+
+#EXTINF:-1 tvg-logo=" " group-title="24/7", GOOD DOCTOR
+http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/45120
+
 
 
 
@@ -407,8 +453,8 @@ https://593b04c4c5670.streamlock.net/8016/8016/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", GEN TV - AR
 https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", TELECINCO
-https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", UNOVISION
+https://cdn.streamhispanatv.net:3265/live/unovisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Internacional", ALEGRIA TV
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
@@ -446,6 +492,18 @@ https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", Planetatv Kids - Chile
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Planetatv MOYOBAMBA
+https://live.obslivestream.com/planetatvmux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Planetatv MUSIC
+https://mediacpstreamchile.com:1936/8042/8042/chunklist_w387761127.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Planetatv 90s
+https://mediacpstreamchile.com:1936/8102/8102/chunklist_w826083136.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", Planetatv HITS
+https://mediacpstreamchile.com:1936/8172/8172/chunklist_w2069927092.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", Planetatv Movies - Chile
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
@@ -467,11 +525,11 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", TVP PUBLICA
 https://edge-live14-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional",TVMAX
-https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Internacional",WOWLY TV
+https://wowly.stream/hls/stream_src/index.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional",TV QUINTA
-https://livefocamundo.com:8081/quintatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Internacional",RAKUTEN TV 
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/1200.m3u8
 
 
 #EXTINF:-1 tvg-logo=" https://media.tycsports.com/files/2020/11/26/157124/logo-tyc-sports-maradona_862x485.jpg?v=2" group-title="Deportes", Tyc Sporta v1
@@ -486,18 +544,22 @@ https://edge10-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1 tvg-logo="https://futbollibre.net/img/logo-canal/ESPN_2.png" group-title="Deportes", ESPN 2 (MX)
 https://edge10-hr.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 
+#EXTINF:-1 tvg-logo="https://futbollibre.net/img/logo-canal/ESPN_2.png" group-title="Deportes", ESPN 2 (AR)
+http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes", FOX SPORTS 
 https://edge-live32-hr.cvattv.com.ar//live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes", FOX SPORTS PREMIUN
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://dmdqet87i5rod.cloudfront.net/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="Deportes", TNT SPORTS
 https://chromecast.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://dmdqet87i5rod.cloudfront.net/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="Deportes", TNT SPORTS AR
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B22D25AD621863AF33B5B59CF52A9C88FFE5AF2A496C2290C92DCFC7A4A2663D/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="PREMIUN", The Simpsons
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://southparkstudios.mtvnimages.com/default.png" group-title="PREMIUN", South Park
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=46ac99e0-7170-421f-b6f5-4a4ee37d48df&clientModelNumber=na&deviceDNT=false&deviceId=46ac99e0-7170-421f-b6f5-4a4ee37d48df&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fb504a37-b206-11eb-881a-0242ac110002&sid=fb504a37-b206-11eb-881a-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_Golden_TV.svg" group-title="PREMIUN", GOLDEN
 https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8?PlaylistM3UCL
@@ -635,11 +697,17 @@ http://144.126.128.123:25461/canalestv/s1212/11663
 EXTINF:-1 tvg-logo="" group-title="Canales Temporales", DIRECTV SPORTS 2
 http://144.126.128.123:25461/canalestv/s1212/11665
 
+EXTINF:-1 tvg-logo="" group-title="Canales Temporales", FOX SPORTS 1
+http://streamgo.vip:8008/Vicente2002ochoa/Q29S7rMT3wGx/104389
 
+EXTINF:-1 tvg-logo="" group-title="Canales Temporales", FOX SPORTS 1 SD
+http://streamgo.vip:8008/Vicente2002ochoa/Q29S7rMT3wGx/104390
 
+EXTINF:-1 tvg-logo="" group-title="Canales Temporales", FOX SPORTS 2
+http://streamgo.vip:8008/Vicente2002ochoa/Q29S7rMT3wGx/104391
 
-
-
+EXTINF:-1 tvg-logo="" group-title="Canales Temporales", WARA TV HD
+https://fullvideo.enlaweb.com.ar/video38/video38/playlist.m3u8
 
 
 
