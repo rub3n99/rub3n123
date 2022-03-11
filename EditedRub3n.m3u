@@ -78,7 +78,7 @@ http://hdtv.istbolivia.com:1935/anazatv/anazatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/canal27trinidad.com/wp-content/uploads/2021/08/cropped-cropped-logo-redondo.png?fit=240%2C240&ssl=1" group-title="Beni", CANAL 27
 https://master.tucableip.com/canal27/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Beni", CANAL 29
+#EXTINF:-1 tvg-logo="" group-title="Beni", TOTAL VISION CANAL 29
 https://master.tucableip.com/NetTv/index.m3u8
 
 
@@ -119,6 +119,9 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/ind
 
 #EXTINF:-1 tvg-logo="" group-title="Santa Cruz", FTV SANTA CRUZ
 https://master.tucableip.com/ftv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", SITEL TV 
+http://ipmedia.netredbolivia.com:8080/hls/sitel.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Santa Cruz", PAT SANTA CRUZ
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
@@ -314,7 +317,8 @@ http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/45116
 #EXTINF:-1 tvg-logo=" " group-title="24/7", GOOD DOCTOR
 http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/45120
 
-
+#EXTINF:-1 tvg-logo=" " group-title="24/7", TELEMUNDO NOVELAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas", A ESTRENAR 
@@ -531,6 +535,20 @@ https://wowly.stream/hls/stream_src/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="Internacional",RAKUTEN TV 
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/1200.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="Internacional",NISINON TV 
+http://95.111.236.94:8080/hls/nisibontv.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional",MEDIA TV CANAL 5
+https://stmv.panel.grupolimalive.com/streamb/streamb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional",SOL TV 
+https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Internacional",US FMYV
+http://oscartv.mine.nu:25461/jmr1234/jmr1234/6168
+
+
+
 
 #EXTINF:-1 tvg-logo=" https://media.tycsports.com/files/2020/11/26/157124/logo-tyc-sports-maradona_862x485.jpg?v=2" group-title="Deportes", Tyc Sporta v1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8?fbclid=IwAR017ePl1fe7066A6xn-Ob9-xKKHEl8-DeacNx7yWzYDgYDAyfHEs76xetE
@@ -558,6 +576,9 @@ https://chromecast.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports
 
 #EXTINF:-1 tvg-logo="https://dmdqet87i5rod.cloudfront.net/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="Deportes", TNT SPORTS AR
 http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Deportes", TIGO SPORTS PARAGUAY
+http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228861
 
 
 
