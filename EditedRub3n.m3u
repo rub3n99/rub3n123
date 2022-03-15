@@ -262,9 +262,6 @@ https://cloud3.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="La Paz", ANDINA TV
 https://cp.sradiotv.com:1936/andinatv/andinatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", RADIO ACTIVA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/radioactiva919
-
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="La Paz", BOLIVISION
 http://live.cdn.comteco.com.bo:80/comgo/0202/index.m3u8
 
@@ -289,9 +286,6 @@ https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="24/7", Chavo del 8
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="24/7", Chavo del 8 V2
-http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/22235
-
 #EXTINF:-1 tvg-logo=" " group-title="24/7", Rugrats
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -301,35 +295,11 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B22D25AD621863AF33B5B59CF52A9C88FFE5AF2A496C2290C92DCFC7A4A2663D/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="24/7", The Simpsons 2
 https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B22D25AD621863AF33B5B59CF52A9C88FFE5AF2A496C2290C92DCFC7A4A2663D/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="24/7", The Simpsons 3
-http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/38915
-
 #EXTINF:-1 tvg-logo="https://southparkstudios.mtvnimages.com/default.png" group-title="24/7", South Park
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=46ac99e0-7170-421f-b6f5-4a4ee37d48df&clientModelNumber=na&deviceDNT=false&deviceId=46ac99e0-7170-421f-b6f5-4a4ee37d48df&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fb504a37-b206-11eb-881a-0242ac110002&sid=fb504a37-b206-11eb-881a-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo=" " group-title="24/7", ALF
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="24/7", BUGS BONNY
-http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/45675
-
-#EXTINF:-1 tvg-logo=" " group-title="24/7", SAINT SEIYA
-http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/38910
-
-#EXTINF:-1 tvg-logo=" " group-title="24/7", CHUCKY
-http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/38911
-
-#EXTINF:-1 tvg-logo=" " group-title="24/7", MARVEL CINE
-http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/38912
-
-#EXTINF:-1 tvg-logo=" " group-title="24/7", DRAGON BALL GT
-http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/46741
-
-#EXTINF:-1 tvg-logo=" " group-title="24/7", DRAGON BALL Z
-http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/45116
-
-#EXTINF:-1 tvg-logo=" " group-title="24/7", GOOD DOCTOR
-http://iptv.tvxtremegold.com:25461/24/7/wdPKYBZ8KW/45120
 
 #EXTINF:-1 tvg-logo=" " group-title="24/7", TELEMUNDO NOVELAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -702,5 +672,9 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BITMEHD/__op/hls-default/__f/index.m3u8
 
 
+#EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",CANAL 1
+https://cloud2.streaminglivehd.com:1936/8218/8218/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",CANAL 1
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
 
