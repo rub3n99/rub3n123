@@ -10,6 +10,9 @@ https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Cochabamba", UNITEL HD
 http://live.cdn.comteco.com.bo:80/comgo/0208/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Cochabamba", UNITEL HD NOTICIAS
+https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUCoQrjkqQoHNqeC2S6vAmOU)/dm/3/x7y922d/d/live-3.m3u8
+
 #EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="Cochabamba",RED UNO HD
 http://live.cdn.comteco.com.bo:80/comgo/0206/index.m3u8
 
@@ -111,8 +114,13 @@ https://master.tucableip.com/ftv/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="Santa Cruz", ATB Santa CRUZ
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="Santa Cruz", ATB SD Santa CRUZ
+https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Santa Cruz", UNITEL HD SANTA CRUZ
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Santa Cruz", RED UNO HD SANTA CRUZ
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
@@ -214,6 +222,9 @@ http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w327535345.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="La Paz", RED UNO LA PAZ
 http://136.243.3.70:1935/RedUno/RedUno/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="La Paz", UNITEL LA PAZ SOLO NOTICIAS
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZWWoy4Sicr8PClNqMZ9rawc)/dm/3/x7vsfua/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.umss.edu.bo/wp-content/uploads/2017/04/cropped-Logo-Simbolo.png" group-title="La Paz", TVU UMSA
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
@@ -689,52 +700,6 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png" group-title="PREMIUN",BITME HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BITMEHD/__op/hls-default/__f/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", LOOK SPORTS HD
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?per
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", ARENA 2 PREMIUN
-http://46.29.169.15:4001/play/a00h/index.m3u8?per
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", AMERICA TV UHD
-http://144.126.128.123:25461/canalestv/s1212/11610
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", AMERICA TV HD
-http://144.126.128.123:25461/canalestv/s1212/11611
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", DISNEY CHANNEL
-http://144.126.128.123:25461/canalestv/s1212/11495
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", SYFY
-http://144.126.128.123:25461/canalestv/s1212/11599
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", MIAMI TV
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", LATINA PERU
-http://144.126.128.123:25461/canalestv/s1212/11627
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", BEIN SPORTS
-http://144.126.128.123:25461/canalestv/s1212/11654
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", DIRECTV SPORTS
-http://144.126.128.123:25461/canalestv/s1212/11663
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", DIRECTV SPORTS 2
-http://144.126.128.123:25461/canalestv/s1212/11665
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", FOX SPORTS 1
-http://streamgo.vip:8008/Vicente2002ochoa/Q29S7rMT3wGx/104389
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", FOX SPORTS 1 SD
-http://streamgo.vip:8008/Vicente2002ochoa/Q29S7rMT3wGx/104390
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", FOX SPORTS 2
-http://streamgo.vip:8008/Vicente2002ochoa/Q29S7rMT3wGx/104391
-
-#EXTINF:-1 tvg-logo="" group-title="Canales Temporales", WARA TV HD
-https://fullvideo.enlaweb.com.ar/video38/video38/playlist.m3u8
 
 
 
