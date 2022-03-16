@@ -684,3 +684,15 @@ https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",lotplus tv
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",estrella tv
+https://pubads.g.doubleclick.net/ssai/event/CvTZNYjrRC2HJU4io--aAA/master.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",canela novelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=69efeab8acf74a5830dc08088e016436&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&timestamp=1647468403&id=20505&ip=181.115.167.225&override_expiration=1500&sign=R2nzliPCI%2Fu8ljG9Uvtu%2Fw3wgCg%2BfSvXb5NVJSQgw7I%3D
+
+#EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",cine canela romannticos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=69efeab8acf74a5830dc08088e016436&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&timestamp=1647468452&id=13493&ip=181.115.167.225&override_expiration=1500&sign=BxT1uJHytmdpuGgQPaBLWqmSbpPYxJ3UxUbzP2Qjk%2BI%3D
+
+#EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",canela accion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=69efeab8acf74a5830dc08088e016436&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&timestamp=1647468570&id=14603&ip=181.115.167.225&override_expiration=1500&sign=qeZ5yRgkkbLExH5Yz%2BzYw38Q9usP%2F9jwPY81lk%2BmwtU%3D
