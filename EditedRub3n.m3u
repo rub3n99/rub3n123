@@ -627,6 +627,9 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="PREMIUN", CINECANAL
 https://edge2.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="PREMIUN", STUDIO UNIVERSAL 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/STUDIOUNIVERSALHD/__op/hls-default/__f/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="PREMIUN", TNT
 https://cdn.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 
@@ -635,6 +638,10 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/1200px-Paramount_Pictures_Corporation_logo.svg.png" group-title="PREMIUN", PARAMOUNT
 https://cdn.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/1200px-Paramount_Pictures_Corporation_logo.svg.png" group-title="PREMIUN", PARAMOUNT V2
+
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PARAMOUNT/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032013/untitled-1_146.png?itok=NjYgUe-D" group-title="PREMIUN", SPACE
 https://cdn.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
@@ -692,6 +699,9 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png" group-title="PREMIUN",BITME HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BITMEHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180802/vsj/kisspng-discovery-channel-logo-television-channel-discover-aerial-craft-professional-aerial-cinematography-fo-5b6370b645c074.2479425815332435742857.jpg" group-title="PREMIUN",DISCOVERY CHANNEL
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYCHANNELHD/__op/hls-default/__f/index.m3u8
 
 
 #EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",CANAL 1
