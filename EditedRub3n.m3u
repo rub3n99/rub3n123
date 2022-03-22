@@ -49,7 +49,7 @@ http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="Cochabamba", RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217217547566710784/w5xYRpsi.jpg" group-title="Cochabamba", PAT LA PAZ
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217217547566710784/w5xYRpsi.jpg" group-title="Cochabamba", PAT 
 http://live.cdn.comteco.com.bo:80/comgo/0215/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png " group-title="Cochabamba", CADENA A 
@@ -61,27 +61,22 @@ http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/314V4RUvrwL.png" group-title="Cochabamba", GAMING
 http://live.cdn.comteco.com.bo:80/comgo/0500/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cochabamba", ERBOL
+#EXTINF:-1 tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="Cochabamba", ERBOL
 https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="" group-title="Cochabamba", EVENTOS 1
+#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="Cochabamba", EVENTOS 1
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL1/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Cochabamba", EVENTOS 2
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL2/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Cochabamba", EVENTOS 3
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL3/__op/hls-default/__f/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Beni", ANAZALTV
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/562/624/png-transparent-brazil-tv-bandeirantes-vale-do-paraiba-television-channel-band-television-logo-news.png" group-title="Beni", ANAZALTV
 http://hdtv.istbolivia.com:1935/anazatv/anazatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/canal27trinidad.com/wp-content/uploads/2021/08/cropped-cropped-logo-redondo.png?fit=240%2C240&ssl=1" group-title="Beni", CANAL 27
 https://master.tucableip.com/canal27/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Beni", TOTAL VISION CANAL 29
+#EXTINF:-1 tvg-logo="https://img.favpng.com/21/9/13/logo-brand-television-visiontv-png-favpng-HUYad9RqaTGNV9iSKsW618jyE.jpg" group-title="Beni", TOTAL VISION CANAL 29
 https://master.tucableip.com/NetTv/index.m3u8
 
 
@@ -108,7 +103,7 @@ https://master.tucableip.com/live/tvlatinamontero/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.apksum.com/74/com.istbolivia.megaamazonia/2.3/icon.png" group-title="Santa Cruz", MEGA TV AMAZONIA
 http://hd.istbolivia.com:1935/megatv/megatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", FACETAS TV 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/637288244506402816/D9GYBBZ3_400x400.jpg" group-title="Santa Cruz", FACETAS TV 
 https://master.tucableip.com/ftv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="Santa Cruz", ATB Santa CRUZ
@@ -123,19 +118,19 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/ind
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Santa Cruz", UNITEL HD NOTICIAS SANTA CRUZ
 https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl3WjD9aVzvvxrxNc5YWH_tE)/dm/3/x7wzxiw/s/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", RED UNO HD SANTA CRUZ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="Santa Cruz", RED UNO HD SANTA CRUZ
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", FTV SANTA CRUZ
-https://master.tucableip.com/ftv/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", SITEL TV 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000598158366/ce341dbe8fb83764c7bb9ef3c1e559ff_400x400.png" group-title="Santa Cruz", SITEL TV 
 http://ipmedia.netredbolivia.com:8080/hls/sitel.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", PAT SANTA CRUZ
+#EXTINF:-1 tvg-logo="https://www.redpat.tv/wp-content/uploads/2020/03/pat-digital-logo-512x512-1.png" group-title="Santa Cruz", PAT SANTA CRUZ
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.redpat.tv/wp-content/uploads/2020/03/pat-digital-logo-512x512-1.png" group-title="Santa Cruz", PAT SANTA CRUZ v2
+https://master.tucableip.com/pat/index.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", CRISTAL HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DfLb6q9H12k/Xx6LmlMVe1I/AAAAAAAAKjw/uwMZG5F2BO0VJp76hUEOUvJw0qhMeeT2gCLcBGAsYHQ/s1600/cristal-tv.png" group-title="Santa Cruz", CRISTAL HD
 http://america.tucableip.com:80/bolivia/cristaltv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.detalle.cotes.net.bo/app/public/appWeb_/assets/images/canales/126.png" group-title="Santa Cruz", GIGAVISION
@@ -147,27 +142,29 @@ https://livefocamundo.com:8081/megavisiontv/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/10/tvofftravel.png" group-title="Santa Cruz", TV OFF
 https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", NEO TV MINEROS
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/440-4408212_neo-tv-logo-neo-news-logo-png-transparent.png" group-title="Santa Cruz", NEO TV MINEROS
 https://master.tucableip.com/neotv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", TV CULTURAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Tv_culturas_BOL.png" group-title="Santa Cruz", TV CULTURAS
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVCULTURA/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", BOLIVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="Santa Cruz", BOLIVISION
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Santa Cruz", BOLIVIA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="Santa Cruz", BOLIVIA TV
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVIATV/__op/hls-default/__f/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/sur.tv.bo/wp-content/uploads/2019/01/cropped-LOGO-WEB-19.jpg?fit=512%2C512&ssl=1 " group-title="Tarija", SUR TV
+
+#EXTINF:-1 tvg-logo="https://sur.tv.bo/wp-content/uploads/2019/01/SURTV-LOGO-2018.jpg" group-title="Tarija", SUR TV
 https://dcunilive51-lh.akamaihd.net/i/dclive_1@752299/master.m3u8?hdnea=st=1644070433~exp=1644070553~acl=/i/dclive_1@752299*~hmac=64f6090be981886d3c2d88a4766e82b46fb07ff19615d9d9a496e135dfd44a6a
 
-#EXTINF:-1 tvg-logo=" " group-title="Tarija", TU TV CHAPACA
+#EXTINF:-1 tvg-logo="https://logoeps.com/wp-content/uploads/2014/02/49003-tu-tv-logo-icon-vector-icon-vector-eps.png" group-title="Tarija", TU TV CHAPACA
 https://stmv.panel.grupolimalive.com/tarija/tarija/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Tarija", MEGA TV YACUIBA
+#EXTINF:-1 tvg-logo="https://megatv.com.bo/wp-content/uploads/2022/03/megatv-1.png" group-title="Tarija", MEGA TV YACUIBA
 https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ra2CC47LkTahD0GWfn1TGB4AeSEBGb5nX5gKw82CjKBFuEYA6BDsahawII6juijptTk" group-title="La Paz", SEO TV
@@ -188,7 +185,7 @@ https://5d00db0e0fcd5.streamlock.net/7034/7034/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvcamargo.com/wp-content/uploads/2020/05/LOGO-1-300x300.png" group-title="La Paz", CAMARGO TV
 http://master.tucableip.com/35camargo/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", TROPICAL TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/b/bc/20220303024246%21Logotipo_da_TV_Tropical_%28Natal%29.png" group-title="La Paz", TROPICAL TV HD
 https://cloud2.streaminglivehd.com:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3WxWTcB/RENUEVA-DIGITAL-FHD.jpg" group-title="La Paz", RENUEVA TV
@@ -209,85 +206,69 @@ https://tv.siete.us/laluzdedios/laluzdedios/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tfM2CGxTTP8/hqdefault.jpg" group-title="La Paz", VIACHA TV LA PAZ V2
 https://tv.portalexpress.es:3898/live/laluzdedioslive.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", TRANSMEDIA TV
-https://streannlive-lh.akamaihd.net/i/TransmediaAVRA_1@87018/index_1_av-p.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1647113470~acl=*~data=hdntl~hmac=607de76f11ce4d7b4dfe73b6d9a465a272e7160c8aa7892d37df25d3580c7f5d
-
 #EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png " group-title="La Paz", CADENA A 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217217547566710784/w5xYRpsi.jpg" group-title="La Paz", PAT LA PAZ
 https://master.tucableip.com//pat/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="La Paz", BOLIVIA TV
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/359-3591250_logopedia10-canal-7-bolivia-tv-hd-png-download.png" group-title="La Paz", BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w327535345.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", RED UNO LA PAZ
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/359-3591250_logopedia10-canal-7-bolivia-tv-hd-png-download.png" group-title="La Paz", BOLIVIA TV 7.1
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/359-3591250_logopedia10-canal-7-bolivia-tv-hd-png-download.png" group-title="La Paz", BOLIVIA TV 7.2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="La Paz", RED UNO LA PAZ
 http://136.243.3.70:1935/RedUno/RedUno/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", UNITEL LA PAZ SOLO NOTICIAS
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="La Paz", UNITEL LA PAZ SOLO NOTICIAS
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZWWoy4Sicr8PClNqMZ9rawc)/dm/3/x7vsfua/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.umss.edu.bo/wp-content/uploads/2017/04/cropped-Logo-Simbolo.png" group-title="La Paz", TVU UMSA
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", VOS TV
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Vos-TV-en-vivo-Online.png" group-title="La Paz", VOS TV
 http://canaltv.istbolivia.com:1935/vostv/vostv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", ZURAXCA TV AEL ALTO
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-L8fxKeJ1rGg/VAdeAjPtS6I/AAAAAAAAA0M/CIFpfoCLy70/s400/BANNER%2B.jpg" group-title="La Paz", ZURAXCA TV EL ALTO
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/zuracatvhd
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", AYNI TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/AYNI_Lab_Social.png" group-title="La Paz", AYNI TV
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", CINE Y SERIES
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1011/407/png-transparent-movies-logo-the-film-television-logo.png" group-title="La Paz", CINE Y SERIES
 https://stmv.panel.grupolimalive.com/streamb/streamb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", CATOLICA TV
+#EXTINF:-1 tvg-logo="https://www.noticiasfides.com/images/news/2018/03/c-cato-386131-B72B.jpg" group-title="La Paz", CATOLICA TV
 http://st2.worldkast.com/8004/8004/playlist.m3u8
 
-#EXTINF:-1 group-title="La Paz", Bolivia tv 7.1
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="La Paz", Bolivia tv 7.2
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="La Paz", PTV 
+#EXTINF:-1 tvg-logo="https://prueba.ptvbolivia.com/wp-content/uploads/2021/03/cropped-logo.png" group-title="La Paz", PTV 
 https://fullvideo.enlaweb.com.ar/video38/video38/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", TELE ESTRELLA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="La Paz", TELE ESTRELLA
 http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", TV MUJER
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/971/922/png-transparent-woman-woman-television-hand-photography.png" group-title="La Paz", TV MUJER
 https://cloud3.streaminglivehd.com:1936/8026/8026/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="La Paz", ANDINA TV
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/157/521/png-transparent-atv-lima-television-channel-television-in-peru-others-television-text-rectangle-thumbnail.png" group-title="La Paz", ANDINA TV
 https://cp.sradiotv.com:1936/andinatv/andinatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="La Paz", BOLIVISION
 http://live.cdn.comteco.com.bo:80/comgo/0202/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51g9CBbyn+L._AC_US1024_.png" group-title="Religioso", RED ADVENIR
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/chunklist_w2051568737.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.detalle.cotes.net.bo/app/public/appWeb_/assets/images/canales/127.png" group-title="Religioso", XTO TV
-http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Religioso", Extrema tv
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Religioso", Comunion tv 
-http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="24/7", Humor tv 21/7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/NPO_Humor_TV_logo.svg/1200px-NPO_Humor_TV_logo.svg.png" group-title="24/7", Humor tv 21/7
 https://srv.panelcast.net/humor247/humor247/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="24/7", Chavo del 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png" group-title="24/7", Chavo del 8
 https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="24/7", Rugrats
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/02/Rugrats-Logo.png" group-title="24/7", Rugrats
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B22D25AD621863AF33B5B59CF52A9C88FFE5AF2A496C2290C92DCFC7A4A2663D/scale?width=1200&aspectRatio=1.78&format=jpeg" group-title="24/7", The Simpsons
@@ -299,14 +280,14 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://southparkstudios.mtvnimages.com/default.png" group-title="24/7", South Park
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=46ac99e0-7170-421f-b6f5-4a4ee37d48df&clientModelNumber=na&deviceDNT=false&deviceId=46ac99e0-7170-421f-b6f5-4a4ee37d48df&deviceLat=-34.8150&deviceLon=-58.4693&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fb504a37-b206-11eb-881a-0242ac110002&sid=fb504a37-b206-11eb-881a-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="24/7", ALF
+#EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/365/666/png-clipart-tv-show-icons-2-alf-thumbnail.png" group-title="24/7", ALF
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="24/7", TELEMUNDO NOVELAS
+#EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/completos-de-novelas-y-shows-gratis-telemundo-now-398335.png" group-title="24/7", TELEMUNDO NOVELAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-logo=" " group-title="Peliculas", A ESTRENAR 
+#EXTINF:-1 tvg-logo="" group-title="Peliculas", A ESTRENAR 
 http://live.cdn.comteco.com.bo:80/comgo/0408/index.m3u8
 
 #EXTINF:-1 tvg-logo=""  group-title="Peliculas", ANIME Y COMICS
@@ -328,16 +309,16 @@ https://radio.yoemito.net:8018/stream
 https://solo.disfrutaenlared.com:1936/tuch/mp4:tuch_720p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Oruro", TV SHOW ORURO
+#EXTINF:-1 tvg-logo="http://radios.bolivia.bo/wp-content/uploads/2018/03/show.jpg" group-title="Oruro", TV SHOW ORURO
 http://solo.disfrutaenlared.com:1935/tvshow/tvshow/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Oruro", CORAL TV
+#EXTINF:-1 tvg-logo="https://assets.gamingintelligence.com/wp-content/uploads/2016/10/18020716/Coral-lg.jpg" group-title="Oruro", CORAL TV
 http://cp.sradiotv.com:1935/coraltv/coraltv/chunklist_w431056276.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Oruro", CEA tv
+#EXTINF:-1 tvg-logo="https://ceacomtv.com/wp-content/uploads/2020/12/Logo-CEACOM-01-e1608759749137.png" group-title="Oruro", CEACOM TV 
 https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Oruro", LEVEL UP TV
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/192-1922021_level-up-level-up-gaming-logo-hd-png.png" group-title="Oruro", LEVEL UP TV
 https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
 
 
@@ -400,7 +381,7 @@ https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://chaco.tv/assets/general/logo_chtv.png" group-title="Internacional", CHACO TV
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Milenium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="Internacional", Milenium
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/aHpDbPj5jbWHEy0TNRtAyLq-2K7ScRmPlF1mDqkC-_PdA312FIe97dmTRQKs2sdMsLog=w412-h220-rw" group-title="Internacional", Matices
@@ -409,127 +390,103 @@ http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1 tvg-logo="https://playerv.panel.grupolimalive.com/app-multi-plataforma/logo-limalive.png" group-title="Internacional", Lima Live
 https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Internacional", QKP Quillabamba
+#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/235/BCB59C24ECA86C573E7706924901166C/tv_logo.png" group-title="Internacional", QKP Quillabamba
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", VAlle Vision
+#EXTINF:-1 tvg-logo="https://vallevision.com.do/wp-content/uploads/2020/07/ready-logo.png" group-title="Internacional", VAlle Vision
 http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Unitel Peru
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1329164413438468102/nLHM4UM7_400x400.png" group-title="Internacional", Unitel Peru
 https://stmv.panel.grupolimalive.com/uniteltv/uniteltv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Viwix Chile
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000704719782/2185fede8c96a97c42eeabc39c035b59_400x400.png" group-title="Internacional", Viwix Chile
  https://593b04c4c5670.streamlock.net/8008/8008/index.m3u8
  
- #EXTINF:-1 tvg-logo=" " group-title="Internacional", RCC PARAGUAY
- https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
-  
- #EXTINF:-1 tvg-logo=" " group-title="Internacional", Clasicos Chile
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Clasico_TV_logo_2012.png" group-title="Internacional", Clasicos Chile
  https://593b04c4c5670.streamlock.net/8044/8044/index.m3u8 
  
- #EXTINF:-1 tvg-logo=" " group-title="Internacional", PANAMERICANA
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1862px-Panamericana-tv.svg.png" group-title="Internacional", PANAMERICANA
  https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Music Chile 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/TVN_Chile_1969.svg/revision/latest?cb=20220211021807&path-prefix=es" group-title="Internacional", Music Chile 
 https://593b04c4c5670.streamlock.net/8034/8034/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Internacional", CNN
-http://live.cdn.comteco.com.bo:80/comgo/0301/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", EncapillaTV Chile 
+#EXTINF:-1 tvg-logo="https://img1.freepng.es/20180310/sxe/kisspng-logo-digital-on-screen-graphic-local-tv-station-icon-5aa4b64b66d427.6511637415207440114212.jpg" group-title="Internacional", EncapillaTV Chile 
 https://593b04c4c5670.streamlock.net/8016/8016/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", GEN TV - AR
-https://videohd.live:19360/8010/8010.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", UNOVISION
+#EXTINF:-1 tvg-logo="https://cpng.pikpng.com/pngl/s/71-718892_tv-channel-univision-clipart.png" group-title="Internacional", UNOVISION
 https://cdn.streamhispanatv.net:3265/live/unovisionlive.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Internacional", ALEGRIA TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/9ae80e_5c0aadb4185d40cbbf74429d9b0abdd9~mv2.png/v1/fill/w_2500,h_2172,al_c/9ae80e_5c0aadb4185d40cbbf74429d9b0abdd9~mv2.png" group-title="Internacional", ALEGRIA TV
 https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Internacional", Recuerdos
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-eb60O2MfgPA/WHRkul3F9VI/AAAAAAAAAC4/ZfKBUd5p9cs2BnPWRcBfWXSsxnfJgqxbwCK4B/s1600/Canciones-Del-Recuerdo-Logo.png" group-title="Internacional", Recuerdos
 https://593b04c4c5670.streamlock.net/8002/8002/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Digital Vision
-https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", RCN Novelas
-http://45.179.140.242:8000/play/a0jf
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", AME TV
-http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", cinevisiom
-https://live.teledom.info:3713/live/cinevisionlive.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", TeleClasicos
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/67cfee_49425450898040a0b4639d426e93bcba~mv2.png/v1/fill/w_326,h_326,al_c,usm_0.66_1.00_0.01/LOGO%20TELE%20CLASICOS%20COLORES%20CANAL%20PNG.png" group-title="Internacional", TeleClasicos
 https://tvdatta.com:3484/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", CALI TV ! COLOMBIA
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", HIspan tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hispan_Tv_logo.svg/2560px-Hispan_Tv_logo.svg.png" group-title="Internacional", HIspan tv
 https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Latino Kids - Uruguay
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="Internacional", Latino Kids - Uruguay
 https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Aniplus tv - AR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/800px-Aniplus_logo.svg.png" group-title="Internacional", Aniplus tv - AR
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Planetatv Kids - Chile
+#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/02/LOGOPNG.png " group-title="Internacional", Planetatv Kids - Chile
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Planetatv MOYOBAMBA
+#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/02/LOGOPNG.png" group-title="Internacional", Planetatv MOYOBAMBA
 https://live.obslivestream.com/planetatvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Planetatv MUSIC
+#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/02/LOGOPNG.png" group-title="Internacional", Planetatv MUSIC
 https://mediacpstreamchile.com:1936/8042/8042/chunklist_w387761127.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Planetatv 90s
+#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/02/LOGOPNG.png" group-title="Internacional", Planetatv 90s
 https://mediacpstreamchile.com:1936/8102/8102/chunklist_w826083136.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Planetatv HITS
+#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/02/LOGOPNG.png" group-title="Internacional", Planetatv HITS
 https://mediacpstreamchile.com:1936/8172/8172/chunklist_w2069927092.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Planetatv Movies - Chile
+#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/02/LOGOPNG.png" group-title="Internacional", Planetatv Movies - Chile
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", Evastream - Chile
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/stream-tv-logo-svg-vector.svg" group-title="Internacional", Evastream - Chile
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", FMTV1 - Chile
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-294x165-FFFFFF.jpg" group-title="Internacional", FMTV1 - Chile
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", ORBIT TV - DOMINICANA
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/05/Orbit-Logo.png" group-title="Internacional", ORBIT TV - DOMINICANA
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", TELESERIES - Chile
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/910/295/png-transparent-television-show-film-television-channel-fernsehserie-serie-tv-television-orange-media.png" group-title="Internacional", TELESERIES - Chile
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", TELEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png" group-title="Internacional", TELEMAX
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional", TVP PUBLICA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Internacional", TVP PUBLICA
 https://edge-live14-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional",WOWLY TV
+#EXTINF:-1 tvg-logo="https://wowly.stream/img/wowlylogo.png" group-title="Internacional",WOWLY TV
 https://wowly.stream/hls/stream_src/index.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional",RAKUTEN TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png" group-title="Internacional",RAKUTEN TV 
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/1200.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional",NISINON TV 
+#EXTINF:-1 tvg-logo="https://www.pikpng.com/pngl/m/516-5169186_informacin-y-ventas-logo-punta-cana-tv-clipart.png" group-title="Internacional",NISINON TV 
 http://95.111.236.94:8080/hls/nisibontv.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional",MEDIA TV CANAL 5
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/canal-5-logo-png-transparent.png" group-title="Internacional",MEDIA TV CANAL 5
 https://stmv.panel.grupolimalive.com/streamb/streamb/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional",SOL TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Sol_tv_pe.png" group-title="Internacional",SOL TV 
 https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Internacional",US FMYV
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/482_FMTV_2_Movies.png" group-title="Internacional",US FMYV
 http://oscartv.mine.nu:25461/jmr1234/jmr1234/6168
 
 
@@ -574,6 +531,32 @@ http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228864
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png" group-title="Deportes", WIN SPORTS  PLUS
 http://51.222.105.31:8080/Mk7Mx5Wbgd/kwzZUnjrNm/228865
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/2560px-Logo_AM-sports-2019.svg.png" group-title="Deportes", AMERICA SPORTS
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/AMERICASPORTS/__op/hls-default/__f/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="PREMIUN INFANTILES", NICKELODEON
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="PREMIUN INFANTILES", NICK JUNIOR
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKJRHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title="PREMIUN INFANTILES", DISNEY JUNIOR
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="PREMIUN INFANTILES", DISNEY XD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYXD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="", DISCOVERY KIDS
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYKIDSHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/2560px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="PREMIUN INFANTILES", CARTOON NETWORK HD
+https://edge2.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png" group-title="PREMIUN INFANTILES",BITME HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BITMEHD/__op/hls-default/__f/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_Golden_TV.svg" group-title="PREMIUN", GOLDEN
@@ -596,6 +579,9 @@ https://cdn.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="PREMIUN", TCM
 https://cdn.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="PREMIUN", TCM V2
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TCM/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://icdn.dtcn.com/image/digitaltrends_es/hbo-logo-streaming-topic-v2-2-500x500.jpg" group-title="PREMIUN", HBO
 https://edge2.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
@@ -652,9 +638,6 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://autoslide.com/wp-content/uploads/2021/01/FITE-TV-LOGO.png" group-title="PREMIUN", FITE TV
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cartoon_Network_logo_%282004-2010%29.svg/2560px-Cartoon_Network_logo_%282004-2010%29.svg.png" group-title="PREMIUN", CARTOON NETWORK HD
-https://edge2.prepro.cvattv.com.ar/live/vod/CartoonNetwork/SA_Live_WebVTT_FTA/CartoonNetwork.m3u8
-
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/sony_novelas_1.jpg" group-title="PREMIUN", SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
@@ -667,41 +650,46 @@ https://cdn.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png" group-title="PREMIUN", COMEDY CENTRAL
 https://cdn.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
 
+#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png" group-title="PREMIUN", COMEDY CENTRAL V2
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/COMEDYCENTRALHD/__op/hls-default/__f/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Cin%C3%A9%2B_logo_2011.png" group-title="PREMIUN", CINE+
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="PREMIUN", A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="PREMIUN", NICKELODEON
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="PREMIUN", NICK JUNIOR
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKJRHD/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title="PREMIUN", DISNEY JUNIOR
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="PREMIUN", DISNEY XD
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYXD/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="PREMIUN", DISCOVERY KIDS
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYKIDSHD/__op/hls-default/__f/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="PREMIUN", TELEFE 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TELEFEHD/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/2560px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="PREMIUN",CNN
+
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180802/vsj/kisspng-discovery-channel-logo-television-channel-discover-aerial-craft-professional-aerial-cinematography-fo-5b6370b645c074.2479425815332435742857.jpg" group-title="PREMIUN DOCUMENTALES",DISCOVERY CHANNEL
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYCHANNELHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/discovery-science-hd-discovery-science-channel-logo-11563265312wbidfsxg71.png" group-title="PREMIUN DOCUMENTALES",DISCOVERY SCIENCE
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYSCIENCE/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.favpng.com/2/12/11/investigation-discovery-television-show-logo-television-channel-png-favpng-10MJF99P5kEgr2ReyS5qBSrNJ.jpg" group-title="PREMIUN DOCUMENTALES",ID HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/IDHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="PREMIUN DOCUMENTALES",ANIMAL PLANET 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ANIMALPLANETHD/__op/hls-default/__f/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/2560px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="PREMIUN NOTICIAS",CNN ESPAÑOL
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CNNESPANOL/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png" group-title="PREMIUN",CNN INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png" group-title="PREMIUN NOTICIAS",CNN INTERNACIONAL
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png" group-title="PREMIUN",BITME HD
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BITMEHD/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="PREMIUN NOTICIAS",FRANCE 24
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/FRANCE24/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180802/vsj/kisspng-discovery-channel-logo-television-channel-discover-aerial-craft-professional-aerial-cinematography-fo-5b6370b645c074.2479425815332435742857.jpg" group-title="PREMIUN",DISCOVERY CHANNEL
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYCHANNELHD/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/800px-TruTV_logo_2014.png" group-title="PREMIUN NOTICIAS",TRUE TV HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TRUTVHD/__op/hls-default/__f/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",CANAL 1
