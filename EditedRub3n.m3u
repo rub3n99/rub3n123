@@ -94,8 +94,8 @@ https://stmv.panel.grupolimalive.com/encuentro/encuentro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSwDgBSXhpp-0V_JaCNUe8CMc7WDC1VnaPWn_PB=s900-c-k-c0x00ffffff-no-rj" group-title="Santa Cruz", TVU  SANTA CRUZ
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVUNIVERSITARIA/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-rec-online-en-vivo.jpg" group-title="Santa Cruz", REC BOLIVIA
-http://95.211.214.198:8181/reconline/live/index.m3u8
+#EXTINF:-1 tvg-logo="http://reconlinebolivia.com/wp-content/uploads/2021/10/logo-slogan.png" group-title="Santa Cruz", REC BOLIVIA
+https://master.tucableip.com/reconline/live/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.audiokiss.com/tvlatina/wp-content/uploads/sites/7/2021/03/tv-latina-home-450.png" group-title="Santa Cruz", TV LATINA
 https://master.tucableip.com/live/tvlatinamontero/index.m3u8
