@@ -67,7 +67,14 @@ https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="Cochabamba", EVENTOS 1
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL1/__op/hls-default/__f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="Cochabamba", EVENTOS 2
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL2/__op/hls-default/__f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="Cochabamba", EVENTOS 3
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL3/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="Cochabamba", EVENTOS 4
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL4/__op/hls-default/__f/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/562/624/png-transparent-brazil-tv-bandeirantes-vale-do-paraiba-television-channel-band-television-logo-news.png" group-title="Beni", ANAZALTV
