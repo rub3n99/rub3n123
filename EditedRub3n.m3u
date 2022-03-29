@@ -146,8 +146,8 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1284135023612919813/C_n2lyON_400x400.jpg" group-title="Santa Cruz", MEGAVISION
 https://livefocamundo.com:8081/megavisiontv/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/10/tvofftravel.png" group-title="Santa Cruz", TV OFF
-https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/tvcarigso.com/wp-content/uploads/2021/09/LOGO-2.png?fit=512%2C512&ssl=1" group-title="Santa Cruz", CARIGSO TV
+https://stmv1.voxhdnet.com/carigsotv/carigsotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/440-4408212_neo-tv-logo-neo-news-logo-png-transparent.png" group-title="Santa Cruz", NEO TV MINEROS
 https://master.tucableip.com/neotv/index.m3u8
@@ -267,6 +267,9 @@ https://cp.sradiotv.com:1936/andinatv/andinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="La Paz", BOLIVISION
 http://live.cdn.comteco.com.bo:80/comgo/0202/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2017/10/tvofftravel.png" group-title="La Paz", TV OFF
+https://videohd.sistemareal.com:3290/live/tvoffhdlive.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/NPO_Humor_TV_logo.svg/1200px-NPO_Humor_TV_logo.svg.png" group-title="24/7", Humor tv 21/7
@@ -314,6 +317,9 @@ https://radio.yoemito.net:8018/stream
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/915216200031965185/uu504OYa.jpg" group-title="Sucre", TVU  SUCRE
 https://solo.disfrutaenlared.com:1936/tuch/mp4:tuch_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/520313458101739520/HC5XWfSR_400x400.png" group-title="Sucre", ATESUR+
+https://video1.getstreamhosting.com:1936/8536/8536/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://radios.bolivia.bo/wp-content/uploads/2018/03/show.jpg" group-title="Oruro", TV SHOW ORURO
