@@ -329,6 +329,8 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flyclipart.com/thumb2/completos-de-novelas-y-shows-gratis-telemundo-now-398335.png" group-title="24/7", TELEMUNDO NOVELAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo=" " group-title="24/7", pelis
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="" group-title="Peliculas", A ESTRENAR 
 http://live.cdn.comteco.com.bo:80/comgo/0408/index.m3u8
@@ -545,7 +547,10 @@ http://oscartv.mine.nu:25461/jmr1234/jmr1234/6168
 
 
 #EXTINF:-1 tvg-logo=" https://media.tycsports.com/files/2020/11/26/157124/logo-tyc-sports-maradona_862x485.jpg?v=2" group-title="Deportes", Tyc Sporta v1
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8?fbclid=IwAR017ePl1fe7066A6xn-Ob9-xKKHEl8-DeacNx7yWzYDgYDAyfHEs76xetE
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_13.m3u8
+
+#EXTINF:-1 tvg-logo=" https://media.tycsports.com/files/2020/11/26/157124/logo-tyc-sports-maradona_862x485.jpg?v=2" group-title="Deportes", Tyc Sporta PLAY
+https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index_9.m3u8
 
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Deportes", ESPN (MX)
 https://edge01-cde-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
