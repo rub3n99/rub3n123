@@ -53,13 +53,13 @@ http://live.cdn.comteco.com.bo:80/comgo/0202/index.m3u8
 http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="Cochabamba", RTP
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217217547566710784/w5xYRpsi.jpg" group-title="Cochabamba", PAT 
-http://live.cdn.comteco.com.bo:80/comgo/0215/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Red_PAT_Logo.png" group-title="Cochabamba", PAT 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cadenaa.tv/wp-content/uploads/2019/08/Logo-cabecera-1.png " group-title="Cochabamba", CADENA A 
-http://live.cdn.comteco.com.bo:80/comgo/0213/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Cadena_a_bolivia_2021.png" group-title="Cochabamba", CADENA A 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lostiempos.com/sites/default/files/media_imagen/2021/2/5/bolivia-tv-1280x720.jpg" group-title="Cochabamba", BOLIVIA TV
 http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
