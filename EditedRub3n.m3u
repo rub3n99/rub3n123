@@ -546,10 +546,10 @@ http://oscartv.mine.nu:25461/jmr1234/jmr1234/6168
 
 
 
-#EXTINF:-1 tvg-logo=" https://media.tycsports.com/files/2020/11/26/157124/logo-tyc-sports-maradona_862x485.jpg?v=2" group-title="Deportes", Tyc Sporta v1
+#EXTINF:-1 tvg-logo=" https://media.tycsports.com/files/2020/11/26/157124/logo-tyc-sports-maradona_862x485.jpg?v=2" group-title="Deportes", Tyc SportS v1
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_13.m3u8
 
-#EXTINF:-1 tvg-logo=" https://media.tycsports.com/files/2020/11/26/157124/logo-tyc-sports-maradona_862x485.jpg?v=2" group-title="Deportes", Tyc Sporta PLAY
+#EXTINF:-1 tvg-logo=" https://media.tycsports.com/files/2020/11/26/157124/logo-tyc-sports-maradona_862x485.jpg?v=2" group-title="Deportes", Tyc SportS PLAY
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index_9.m3u8
 
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Deportes", ESPN (MX)
@@ -589,13 +589,12 @@ https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxS
 http://spliktv-edge2.wedrly.xyz/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxSports3HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes", FOX SPORTS PREMIUN
-http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+https://drgcnct071.herokuapp.com/https://edge-live15-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://dmdqet87i5rod.cloudfront.net/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="Deportes", TNT SPORTS
-https://chromecast.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+https://drgcnct071.herokuapp.com/https://edge4-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://dmdqet87i5rod.cloudfront.net/estoesmedia/6006d9d7bc979_tntsports.jpg" group-title="Deportes", TNT SPORTS AR
-http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
 
 
 
@@ -644,14 +643,11 @@ https://edge3.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo.png" group-title="PREMIUN", AMC
 https://edge3.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/350/448/png-transparent-amc-television-show-television-channel-satellite-television-capri-sun-logo-television-text-logo.png" group-title="PREMIUN", AMC V2
-http://spliktv-edge2.wedrly.xyz/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="PREMIUN", AXN
-https://cdn.prepro.cvattv.com.ar/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="PREMIUN", AXN V2
-http://spliktv-edge2.wedrly.xyz/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png" group-title="PREMIUN", A&E
+https://edge3.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://icdn.dtcn.com/image/digitaltrends_es/hbo-logo-streaming-topic-v2-2-500x500.jpg" group-title="PREMIUN", HBO
 https://drgcnct071.herokuapp.com/https://edge4-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
@@ -750,6 +746,9 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ANIMALPLANETHD/__op/hls-default
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-National-Geographic-Logo.svg.png" group-title="PREMIUN DOCUMENTALES",National Geographic 
 https://edge3.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="PREMIUN DOCUMENTALES",HISTORY CHANNEL 
+https://edge3.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD.m3u8
 
 
 
