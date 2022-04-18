@@ -632,11 +632,14 @@ https://edge3.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomera
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="PREMIUN", WARNER CHANNEL
 https://edge3.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="PREMIUN", WARNER CHANNEL V2
+https://cdn.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="PREMIUN", FX
 https://edge3.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png" group-title="PREMIUN", FX V2
-https://drgcnct071.herokuapp.com/https://edge4-sl.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+https://cdn.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="PREMIUN", SYFY
 https://edge3.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
@@ -657,13 +660,16 @@ https://edge3.prepro.cvattv.com.ar/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://icdn.dtcn.com/image/digitaltrends_es/hbo-logo-streaming-topic-v2-2-500x500.jpg" group-title="PREMIUN", HBO
-https://drgcnct071.herokuapp.com/https://edge4-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+https://cdn.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://icdn.dtcn.com/image/digitaltrends_es/hbo-logo-streaming-topic-v2-2-500x500.jpg" group-title="PREMIUN", HBO V2
 https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="PREMIUN", HBO 2
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ea714e3b-6ef4-46da-87e9-71eb71141a09_m.jpg" group-title="PREMIUN", HBO 2 V2
+https://cdn.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUN", HBO FAMILY
 https://Chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
@@ -681,19 +687,31 @@ https://Chromecast.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signat
 https://Chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="PREMIUN", HBO EXTREME
-https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+https://cdn.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="PREMIUN", HBO EXTREME v2
+https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
 
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="PREMIUN", STAR CHANNEL
 https://edge3.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="PREMIUN", STAR CHANNEL V2
+https://cdn.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="PREMIUN", CINECANAL
 https://edge3.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="PREMIUN", CINECANAL V2
+https://cdn.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="PREMIUN", STUDIO UNIVERSAL 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/STUDIOUNIVERSALHD/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="PREMIUN", TNT
 https://edge3.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="PREMIUN", TNT V2
+https://cdn.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="PREMIUN", TNT SERIES
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
@@ -704,8 +722,14 @@ https://edge3.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramou
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/1200px-Paramount_Pictures_Corporation_logo.svg.png" group-title="PREMIUN", PARAMOUNT V2
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PARAMOUNT/__op/hls-default/__f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/1200px-Paramount_Pictures_Corporation_logo.svg.png" group-title="PREMIUN", PARAMOUNT V3
+https://cdn.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032013/untitled-1_146.png?itok=NjYgUe-D" group-title="PREMIUN", SPACE
 https://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032013/untitled-1_146.png?itok=NjYgUe-D" group-title="PREMIUN", SPACE v2
+https://cdn.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="PREMIUN", CINEMAX
 https://edge-live12-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
@@ -722,11 +746,17 @@ https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="PREMIUN", SONY
 https://edge3.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="PREMIUN", SONY V2
+https://cdn.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png" group-title="PREMIUN", COMEDY CENTRAL
 https://edge3.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png" group-title="PREMIUN", COMEDY CENTRAL V2
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/COMEDYCENTRALHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png" group-title="PREMIUN", COMEDY CENTRAL V3
+https://cdn.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Cin%C3%A9%2B_logo_2011.png" group-title="PREMIUN", CINE+
 https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
