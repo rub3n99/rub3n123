@@ -14,7 +14,7 @@ https://master.tucableip.com/zoytv/index.m3u8
 http://live.cdn.comteco.com.bo:80/comgo/0208/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Cochabamba", UNITEL HD NOTICIAS
-https://stream-01.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUCoQrjkqQoHNqeC2S6vAmOU)/dm/3/x7y922d/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUC647iBdxZ03uX6lPivCinfMWzmSM1ZeKPCATXNsHbcZ)/dm/3/x7y922d/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="Cochabamba",RED UNO HD
 http://live.cdn.comteco.com.bo:80/comgo/0206/index.m3u8
@@ -138,7 +138,7 @@ https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Santa Cruz", UNITEL HD NOTICIAS SANTA CRUZ
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl3WjD9aVzvvxrxNc5YWH_tE)/dm/3/x7wzxiw/s/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXe3dliVFLgTpP92dhVKka7OjgBg5YBxWh4VIECBX92_)/dm/3/x7vsezg/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="Santa Cruz", RED UNO HD SANTA CRUZ
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
@@ -235,7 +235,7 @@ https://ott.streann.com/loadbalancer/services/public/channels/5ea9f3ab2cdc31ce15
 http://186.121.206.197:80/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1338497732420530177/Yf4BhsDo_400x400.png" group-title="La Paz", UPPTV
-https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3MTE0NTI0LCJzZXNzaW9uIjoiMTgxLjExNS4xNjcuMjAxIiwid2hpdGVsaXN0IjpbIjE4MS4xMTUuMTY3LjIwMSJdfSwic2lnbmF0dXJlIjoiYWFiNzQ4ZWQxZDVmNzdmNWUxZjVmNTljNDlkZDZmMWMwODQ2ZDFlZiJ9
+https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUwNDgxMjY0LCJzZXNzaW9uIjoiMTgxLjExNS4xNjcuMjE2Iiwid2hpdGVsaXN0IjpbIjE4MS4xMTUuMTY3LjIxNiJdfSwic2lnbmF0dXJlIjoiNmY1MzM4OGYwNzEzNmQ2N2FkZjI1YjRhNjg3MzMyMWNhNThkZDUwOSJ9
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/tfM2CGxTTP8/hqdefault.jpg" group-title="La Paz", VIACHA TV LA PAZ
 https://tv.siete.us/laluzdedios/laluzdedios/index.m3u8
@@ -265,7 +265,7 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 http://136.243.3.70:1935/RedUno/RedUno/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="La Paz", UNITEL LA PAZ SOLO NOTICIAS
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZWWoy4Sicr8PClNqMZ9rawc)/dm/3/x7vsfua/d/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZR_6y68ngzK2FAe1Npm_FFUZqGlYRpzrIXmGSXHhNCCl)/dm/3/x7vsfua/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.umss.edu.bo/wp-content/uploads/2017/04/cropped-Logo-Simbolo.png" group-title="La Paz", TVU UMSA
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
@@ -332,6 +332,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d1
 #EXTINF:-1 tvg-logo=" " group-title="24/7", pelis
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 
+
 #EXTINF:-1 tvg-logo="" group-title="Peliculas", A ESTRENAR 
 http://live.cdn.comteco.com.bo:80/comgo/0408/index.m3u8
 
@@ -340,6 +341,30 @@ http://live.cdn.comteco.com.bo:80/comgo/0426/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas", Cine Argentino
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J62bN_l_oRM/X0gtuAZ9ajI/AAAAAAAACZU/s_VEbSFCjr4KhH2Of3GUyHC9zE4-lmTjQCLcBGAsYHQ/w1200-h675-p-k-no-nu/4139844623c7f4445ad7f051027e0e2172e46871fd4d15364386fd13d9554fac.png" group-title="Peliculas", BUTAKA TV MX
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Peliculas", RUNNE TIME
+https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="Peliculas", RAKUTEN - Drama
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/186-1863804_premium-cinema-comedy-premium-cinema-comedy-logo-hd.png" group-title="Peliculas", RAKUTEN - Comedy
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/380/5477380-middle.png" group-title="Peliculas", RAKUTEN - Action
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-3.wuaki.tv/system/images/7740/original/family-generic-standarized-1613755669-width308-quality100.png" group-title="Peliculas", RAKUTEN - Family
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://uspto.report/TM/88174970/mark.png" group-title="Peliculas", RAKUTEN - Spothligh
+https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31T4eMT29IL.png" group-title="Peliculas", RAKUTEN - Viki us
+https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
 
 
 
