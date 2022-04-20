@@ -193,6 +193,9 @@ https://stmv.panel.grupolimalive.com/tarija/tarija/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://megatv.com.bo/wp-content/uploads/2022/03/megatv-1.png" group-title="Tarija", MEGA TV YACUIBA
 https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-it0b1lzcp2k/Wwbgc3I7RQI/AAAAAAAAFpU/-CR0NKEicuI985E5GqJASxsCvapZj_QSgCLcBGAs/w1200-h630-p-k-no-nu/chaquena.png" group-title="Tarija", CANAL 2 TV CHAQUEÑA
+https://stmv.panel.grupolimalive.com/frecuencia/frecuencia/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Ra2CC47LkTahD0GWfn1TGB4AeSEBGb5nX5gKw82CjKBFuEYA6BDsahawII6juijptTk" group-title="La Paz", SEO TV
