@@ -460,6 +460,12 @@ http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1400369687154855940/dHaOqXtz_400x400.jpg" group-title="Internacional", ANIME ZONE ARGENTINA
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="" group-title="Internacional", ENERGEEK 1
+https://5eff35271151c.streamlock.net:1936/8098/8098/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Internacional", ENERGEEK 2
+https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Internacional", WOW TV  EL SALVADOR
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 
