@@ -1,6 +1,32 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS", EVENTO 1 ES
+http://events1-crtvg.flumotion.com/crtvg/events1_high/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS", EVENTO 2 ES
+http://events2-crtvg.flumotion.com/crtvg/events2_high/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVENTOS", EVENTO 3 ES
+http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="EVENTOS", EVENTOS 1
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL1/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="EVENTOS", EVENTOS 2
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL2/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="EVENTOS", EVENTOS 3
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL3/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="EVENTOS", EVENTOS 4
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL4/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="EVENTOS", EVENTOS 5
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL5/__op/hls-default/__f/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png/200px-Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png" group-title="Cochabamba", TDT BOLIVIA
 https://video01.kshost.com.br/juan6318/juan6318/playlist.m3u8?t=1649261793
 
@@ -70,20 +96,6 @@ http://live.cdn.comteco.com.bo:80/comgo/0500/index.m3u8
 #EXTINF:-1 tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="Cochabamba", ERBOL
 https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="Cochabamba", EVENTOS 1
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL1/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="Cochabamba", EVENTOS 2
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL2/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="Cochabamba", EVENTOS 3
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL3/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="Cochabamba", EVENTOS 4
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL4/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="Cochabamba", EVENTOS 5
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL5/__op/hls-default/__f/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/562/624/png-transparent-brazil-tv-bandeirantes-vale-do-paraiba-television-channel-band-television-logo-news.png" group-title="Beni", ANAZALTV
