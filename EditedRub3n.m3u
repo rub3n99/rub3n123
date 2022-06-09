@@ -454,6 +454,9 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="Internacional", CGTN ESPAÑOL
 http://news.cgtn.com:80/resource/live/espanol/cgtn-e.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="Internacional", MAGICA TV
+https://fullvideo.enlaweb.com.ar/video63/video63/playlist.m3u8?fbclid=IwAR2-QsUN5DVdz249uO8S6VDTq61UUrEABU2QvWcCuxgRy4rL0UO9J0ABT1M
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" group-title="Internacional", Latina TvPeru HD
 http://177.53.152.186:8000/play/a019/index.m3u8
 
