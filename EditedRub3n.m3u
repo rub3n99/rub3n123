@@ -40,7 +40,7 @@ https://master.tucableip.com/zoytv/index.m3u8
 http://live.cdn.comteco.com.bo:80/comgo/0208/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Cochabamba", UNITEL HD NOTICIAS
-https://stream-04.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUC647iBdxZ03uX6lPivCinfMWzmSM1ZeKPCATXNsHbcZ)/dm/3/x7y922d/d/live-3.m3u8
+https://stream-03.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUPVdRI78qHgIjL8y63tfm9U9ZfjOxzY7oQMq20LAVXNH)/dm/3/x7y922d/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="Cochabamba",RED UNO HD
 http://live.cdn.comteco.com.bo:80/comgo/0206/index.m3u8
@@ -348,41 +348,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d1
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="" group-title="Peliculas", A ESTRENAR 
-http://live.cdn.comteco.com.bo:80/comgo/0408/index.m3u8
-
-#EXTINF:-1 tvg-logo=""  group-title="Peliculas", ANIME Y COMICS
-http://live.cdn.comteco.com.bo:80/comgo/0426/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Peliculas", Cine Argentino
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-J62bN_l_oRM/X0gtuAZ9ajI/AAAAAAAACZU/s_VEbSFCjr4KhH2Of3GUyHC9zE4-lmTjQCLcBGAsYHQ/w1200-h675-p-k-no-nu/4139844623c7f4445ad7f051027e0e2172e46871fd4d15364386fd13d9554fac.png" group-title="Peliculas", BUTAKA TV MX
-https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Peliculas", RUNNE TIME
-https://ammo-espanol-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="Peliculas", RAKUTEN - Drama
-https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/186-1863804_premium-cinema-comedy-premium-cinema-comedy-logo-hd.png" group-title="Peliculas", RAKUTEN - Comedy
-https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.pngaaa.com/380/5477380-middle.png" group-title="Peliculas", RAKUTEN - Action
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-3.wuaki.tv/system/images/7740/original/family-generic-standarized-1613755669-width308-quality100.png" group-title="Peliculas", RAKUTEN - Family
-https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://uspto.report/TM/88174970/mark.png" group-title="Peliculas", RAKUTEN - Spothligh
-https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31T4eMT29IL.png" group-title="Peliculas", RAKUTEN - Viki us
-https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="Radio", RADIO LA CADENA CORAL
 http://eu2.serviaudio.com:7062/stream
 
@@ -523,9 +488,6 @@ https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-eb60O2MfgPA/WHRkul3F9VI/AAAAAAAAAC4/ZfKBUd5p9cs2BnPWRcBfWXSsxnfJgqxbwCK4B/s1600/Canciones-Del-Recuerdo-Logo.png" group-title="Internacional", Recuerdos
 https://593b04c4c5670.streamlock.net/8002/8002/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/67cfee_49425450898040a0b4639d426e93bcba~mv2.png/v1/fill/w_326,h_326,al_c,usm_0.66_1.00_0.01/LOGO%20TELE%20CLASICOS%20COLORES%20CANAL%20PNG.png" group-title="Internacional", TeleClasicos
-https://tvdatta.com:3484/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hispan_Tv_logo.svg/2560px-Hispan_Tv_logo.svg.png" group-title="Internacional", HIspan tv
 https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
 
@@ -535,32 +497,11 @@ https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/800px-Aniplus_logo.svg.png" group-title="Internacional", Aniplus tv - AR
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/02/LOGOPNG.png " group-title="Internacional", Planetatv Kids - Chile
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/02/LOGOPNG.png" group-title="Internacional", Planetatv MOYOBAMBA
-https://live.obslivestream.com/planetatvmux/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/02/LOGOPNG.png" group-title="Internacional", Planetatv MUSIC
-https://mediacpstreamchile.com:1936/8042/8042/chunklist_w387761127.m3u8
-
-#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/02/LOGOPNG.png" group-title="Internacional", Planetatv 90s
-https://mediacpstreamchile.com:1936/8102/8102/chunklist_w826083136.m3u8
-
-#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/02/LOGOPNG.png" group-title="Internacional", Planetatv HITS
-https://mediacpstreamchile.com:1936/8172/8172/chunklist_w2069927092.m3u8
-
-#EXTINF:-1 tvg-logo="https://planetatv.online/wp-content/uploads/2022/02/LOGOPNG.png" group-title="Internacional", Planetatv Movies - Chile
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://tvdatta.com/uploads/directorylists/cartagomedios.png" group-title="Internacional", CARTAGOMEDIOS - Chile
 https://tvdatta.com:3384/live/cartagomedioslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/stream-tv-logo-svg-vector.svg" group-title="Internacional", Evastream - Chile
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1125-294x165-FFFFFF.jpg" group-title="Internacional", FMTV1 - Chile
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/05/Orbit-Logo.png" group-title="Internacional", ORBIT TV - DOMINICANA
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
@@ -570,9 +511,6 @@ https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Telemax.png/1200px-Telemax.png" group-title="Internacional", TELEMAX
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Internacional", TVP PUBLICA
-https://edge-live14-sl.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 
 #EXTINF:-1 tvg-logo="https://wowly.stream/img/wowlylogo.png" group-title="Internacional",WOWLY TV
 https://wowly.stream/hls/stream_src/index.m3u8?WebM3UCL
@@ -585,13 +523,6 @@ http://95.111.236.94:8080/hls/nisibontv.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/canal-5-logo-png-transparent.png" group-title="Internacional",MEDIA TV CANAL 5
 https://stmv.panel.grupolimalive.com/streamb/streamb/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Sol_tv_pe.png" group-title="Internacional",SOL TV 
-https://59537faa0729a.streamlock.net:443/estrellaproducciones/estrellaproducciones/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/482_FMTV_2_Movies.png" group-title="Internacional",US FMYV
-http://oscartv.mine.nu:25461/jmr1234/jmr1234/6168
-
 
 
 
@@ -849,29 +780,3 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/FRANCE24/__op/hls-default/__f/i
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/800px-TruTV_logo_2014.png" group-title="PREMIUN NOTICIAS",TRUE TV HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TRUTVHD/__op/hls-default/__f/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",CANAL 1
-https://cloud2.streaminglivehd.com:1936/8218/8218/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",CANAL 1
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
-
-#EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",XTV
-https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",lotplus tv
-https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",estrella tv
-https://pubads.g.doubleclick.net/ssai/event/CvTZNYjrRC2HJU4io--aAA/master.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",canela novelas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=69efeab8acf74a5830dc08088e016436&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&timestamp=1647468403&id=20505&ip=181.115.167.225&override_expiration=1500&sign=R2nzliPCI%2Fu8ljG9Uvtu%2Fw3wgCg%2BfSvXb5NVJSQgw7I%3D
-
-#EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",cine canela romannticos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=656&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=69efeab8acf74a5830dc08088e016436&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&timestamp=1647468452&id=13493&ip=181.115.167.225&override_expiration=1500&sign=BxT1uJHytmdpuGgQPaBLWqmSbpPYxJ3UxUbzP2Qjk%2BI%3D
-
-#EXTINF:-1 tvg-logo=" " group-title="SIN CATEGORIA",canela accion
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=69efeab8acf74a5830dc08088e016436&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1&timestamp=1647468570&id=14603&ip=181.115.167.225&override_expiration=1500&sign=qeZ5yRgkkbLExH5Yz%2BzYw38Q9usP%2F9jwPY81lk%2BmwtU%3D
