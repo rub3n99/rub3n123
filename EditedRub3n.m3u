@@ -752,6 +752,9 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYCHANNELHD/__op/hls-def
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/discovery-science-hd-discovery-science-channel-logo-11563265312wbidfsxg71.png" group-title="PREMIUN DOCUMENTALES",DISCOVERY SCIENCE
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYSCIENCE/__op/hls-default/__f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png" group-title="PREMIUN DOCUMENTALES",DISCOVERY WORLD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYWORLDHD/__op/hls-default/__f/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.favpng.com/2/12/11/investigation-discovery-television-show-logo-television-channel-png-favpng-10MJF99P5kEgr2ReyS5qBSrNJ.jpg" group-title="PREMIUN DOCUMENTALES",ID HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/IDHD/__op/hls-default/__f/index.m3u8
 
@@ -760,6 +763,9 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ANIMALPLANETHD/__op/hls-default
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-National-Geographic-Logo.svg.png" group-title="PREMIUN DOCUMENTALES",National Geographic 
 https://edge3.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1200px-National-Geographic-Logo.svg.png" group-title="PREMIUN DOCUMENTALES",National Geographic V2
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NATGEOHD/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="PREMIUN DOCUMENTALES",HISTORY CHANNEL 
 https://edge3.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD.m3u8
