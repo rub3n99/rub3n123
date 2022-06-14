@@ -306,9 +306,6 @@ https://fullvideo.enlaweb.com.ar/video38/video38/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="La Paz", TELE ESTRELLA
 http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/971/922/png-transparent-woman-woman-television-hand-photography.png" group-title="La Paz", TV MUJER
-https://cloud3.streaminglivehd.com:1936/8026/8026/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/157/521/png-transparent-atv-lima-television-channel-television-in-peru-others-television-text-rectangle-thumbnail.png" group-title="La Paz", ANDINA TV
 https://cp.sradiotv.com:1936/andinatv/andinatv/playlist.m3u8
 
@@ -416,8 +413,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="Internacional", CGTN ESPAÑOL
-http://news.cgtn.com:80/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png" group-title="Internacional", TV MAX
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/963e14317afb436484576a46b28c8fd7/playlist_dvr_ssaiM.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Internacional", MAGICA TV
 https://fullvideo.enlaweb.com.ar/video63/video63/playlist.m3u8?fbclid=IwAR2-QsUN5DVdz249uO8S6VDTq61UUrEABU2QvWcCuxgRy4rL0UO9J0ABT1M
