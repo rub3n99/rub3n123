@@ -74,8 +74,126 @@ https://stmv.panel.grupolimalive.com/mega/mega/chunklist_w1850048317.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="BOLIVIA",PAT BOLIVIA HD 1080p
 https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="Canales Bolivianos",PAT 2 BOLIVIA HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg" group-title="BOLIVIA",PAT BOLIVIA HD 720p
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="BOLIVIA",SEO TV HD
+https://seo.tv.bo/tv/ip1SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LgDJb8R/SEO-KIDS-TV.jpg" group-title="BOLIVIA",SEO TV KIDS HD
+https://seo.tv.bo/tv/ip2KIDS.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C04cJMk/seo-telenovelas-hd.jpg" group-title="BOLIVIA",SEO TELENOVELAS HD
+https://seo.tv.bo/tv/ip3NVLS.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2FJYdS/SEO-TV-PELICULAS.jpg" group-title="BOLIVIA",SEO PELICULAS HD
+https://seo.tv.bo/tv/ip4PE.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jczb3xH/SEO-TV-QATAR-2022.jpg" group-title="BOLIVIA",SEO TV SEÑAL 2 HD
+https://seo.tv.bo/tv/ip6SEO.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhfLXTR/SEO-TV-DEPORTES.jpg" group-title="BOLIVIA",SEO TV DEPORTES HD
+https://seo.tv.bo/tv/ip5EVE.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cS01gg/TVU-LP-HD.jpg" group-title="BOLIVIA",TVU LP HD
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w1427445434.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cS01gg/TVU-LP-HD.jpg" group-title="BOLIVIA",TVU LP HD 2
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSwDgBSXhpp-0V_JaCNUe8CMc7WDC1VnaPWn_PB=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", TVU  SANTA CRUZ
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVUNIVERSITARIA/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="BOLIVIA",BOLIVIA TV 7.1 HD
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg" group-title="BOLIVIA",BOLIVIA TV 7.1 HD SC
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVIATV/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKOcsQaTugn-d2yyyFYh1qZUNiELvPT5EU50hq3UovbvOrES6hqs_4hGY1GS7TYMjpzEkMAv3c6ujnLoEtUugV5y7OHNuEJ0PtBgXHE5kK8Wfap3slenxJ5CYTODEYLd0sVRQmpAxmnasjr1KCE7GqFEv2lZQTDXLt2NvUHIrG2pJROwvDezf7sL7arg/s1688/BOLIVISION%20HD%20LA%20PAZ.jpg" group-title="BOLIVIA",BOLIVISION LPZ HD
+https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKOcsQaTugn-d2yyyFYh1qZUNiELvPT5EU50hq3UovbvOrES6hqs_4hGY1GS7TYMjpzEkMAv3c6ujnLoEtUugV5y7OHNuEJ0PtBgXHE5kK8Wfap3slenxJ5CYTODEYLd0sVRQmpAxmnasjr1KCE7GqFEv2lZQTDXLt2NvUHIrG2pJROwvDezf7sL7arg/s1688/BOLIVISION%20HD%20LA%20PAZ.jpg" group-title="BOLIVIA",BOLIVISION LPZ HD
+https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f9yhWBW/RADIO-ERBOL-HD.jpg" group-title="BOLIVIA",ERBOL HD 
+https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w591288876.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1338497732420530177/Yf4BhsDo_400x400.png" group-title="BOLIVIA", UPPTV
+https://d2byzrnrdb259r.cloudfront.net/hls/upptv.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Sr0yrJ2/RT-NEW-SD.jpg" group-title="INTERNACIONAL",RT NOTICIAS SD
+https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7GBCGm/DW-EN-ESPA-OL-HD.jpg" group-title="INTERNACIONAL",DW ESPAÑOL HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0mchcCP/PLANETA-KIDS-HD.jpg" group-title="Infantiles",PLANETA TV KIDS HD
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1329572833.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TB5HRWH/OTT-PLAYER-2021.jpg" group-title="Infantiles",ANIME STATION TV HD
+https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q50cC4c/LOGOS-TV-KIDS-HD.jpg" group-title="Infantiles",LOGOS TV KIDS
+https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w578670889.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7BPf6X/RETRO-MAGICO-HD.jpg" group-title="Infantiles",RETRO MAGICO HD
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MMGhvkY/GRACIA-TV-HD.jpg" group-title="Infantiles",GRACIA TV HD
+https://v4.tustreaming.cl/graciatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VNMLWLH/FANPOP-HD.jpg" group-title="Infantiles",ENERGEEK FANPOP HD
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hZC2hw5/kanade-anime-hd.jpg" group-title="Infantiles",KANADE TV HD
+https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LgDJb8R/SEO-KIDS-TV.jpg" group-title="Infantiles",SEO TV KIDS HD
+https://seo.tv.bo/tv/ip2KIDS.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch1xSz2/MONI-TV-HD.jpg" group-title="Infantiles",MONI TV HD
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/chunklist_w409215803.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bb1TFCC/magictvkids-HD.jpg" group-title="Infantiles",MAGICKIDS TV HD
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="Infantiles", NICKELODEON
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/09/Nick-Jr.-Logo.png" group-title="Infantiles", NICK JUNIOR
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKJRHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title="Infantiles", DISNEY JUNIOR
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png" group-title="Infantiles", DISCOVERY KIDS
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYKIDSHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png" group-title="Infantiles",BITME HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BITMEHD/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Baby_Shark%27s_Big_Show_Logo.png" group-title="Infantiles",BABY SHARK TV
+https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/85Mdq13/PLANETA-MOVIES-HD.jpg" group-title="SERIES Y PELICULAS",PLANETA TV MOVIES
+https://scl.edge.grupoz.cl/movie/live/chunklist_w160252034.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="SERIES Y PELICULAS",COSMOS TV HD
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="SERIES Y PELICULAS",TV PRIME HD
+https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8
+
 
 
 
