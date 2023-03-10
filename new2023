@@ -220,8 +220,11 @@ https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Radio", RADIO KANCHA PARLASPA
+https://radio.yoemito.net:8018/stream
 
-
+#EXTINF:-1 tvg-logo="" group-title="Radio", RADIO e
+https://stmv2.voxtvhd.com.br/erotica/erotica/playlist.m3u8
 
 
 
