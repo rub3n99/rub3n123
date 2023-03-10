@@ -26,6 +26,7 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL4/__op/hls-defaul
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL5/__op/hls-default/__f/index.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WFsPfCt/F10-CHAIRITO-MUSICAL-HD.jpg" group-title="BOLIVIA",F10 CHAIRITO MUSICAL HD
 https://video.live.com.bo:3253/stream/play.m3u8
 
@@ -122,6 +123,19 @@ https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w591288876.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1338497732420530177/Yf4BhsDo_400x400.png" group-title="BOLIVIA", UPPTV
 https://d2byzrnrdb259r.cloudfront.net/hls/upptv.m3u8
 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/825/507/png-clipart-cctv-channel-cctv-channel-cctv-station.png" group-title="BOLIVIA", RED CCTV SACABA
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosonline.com.bo/wp-content/uploads/2019/01/centro.png" group-title="BOLIVIA", RADIO CENTRO TV
+https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", RTP
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Cadena_a_bolivia_2021.png" group-title="BOLIVIA", CADENA A 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
+
+
 
 
 
@@ -132,6 +146,15 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7GBCGm/DW-EN-ESPA-OL-HD.jpg" group-title="INTERNACIONAL",DW ESPAÑOL HD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7GBCGm/DW-EN-ESPA-OL-HD.jpg" group-title="INTERNACIONAL",TLC
+https://mediacp.us:8081/8008/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
 
 
 
@@ -199,64 +222,6 @@ https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Cochabamba", UNITEL HD
-http://live.cdn.comteco.com.bo:80/comgo/0208/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Cochabamba", UNITEL HD NOTICIAS
-https://stream-03.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUPVdRI78qHgIjL8y63tfm9U9ZfjOxzY7oQMq20LAVXNH)/dm/3/x7y922d/d/live-3.m3u8
-
-#EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="Cochabamba",RED UNO HD
-http://live.cdn.comteco.com.bo:80/comgo/0206/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="Cochabamba",RED UNO SD
-https://ott.streann.com/loadbalancer/services/public/channels-secure/5ea9f31a2cdc654acd294aaf/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/825/507/png-clipart-cctv-channel-cctv-channel-cctv-station.png" group-title="Cochabamba", RED CCTV SACABA
-https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://radiosonline.com.bo/wp-content/uploads/2019/01/centro.png" group-title="Cochabamba", RADIO CENTRO TV
-https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/estructuras/qrgOvj.jpg " group-title="Cochabamba", COMTECO TV
-http://live.cdn.comteco.com.bo:80/comgo/0220/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/estructuras/qrgOvj.jpg " group-title="Cochabamba", DT TV
-https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1969799235/529176_216817181759754_216733365101469_381036_1091128662_n.jpg" group-title="Cochabamba", TELE C 
-http://live.cdn.comteco.com.bo:80/comgo/0210/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/rtl-1432633221.jpg" group-title="Cochabamba",RTL COCHABAMBA
-http://live.cdn.comteco.com.bo:80/comgo/0217/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="Cochabamba",ATB COCHABAMBA
-http://live.cdn.comteco.com.bo:80/comgo/0201/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="Cochabamba",ATB COCHABAMBA SD
-https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
-
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="Cochabamba", BOLIVISION
-http://live.cdn.comteco.com.bo:80/comgo/0202/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="Cochabamba", BOLIVIA TV
-http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="Cochabamba", RTP
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Red_PAT_Logo.png" group-title="Cochabamba", PAT 
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Cadena_a_bolivia_2021.png" group-title="Cochabamba", CADENA A 
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.lostiempos.com/sites/default/files/media_imagen/2021/2/5/bolivia-tv-1280x720.jpg" group-title="Cochabamba", BOLIVIA TV
-http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/314V4RUvrwL.png" group-title="Cochabamba", GAMING
-http://live.cdn.comteco.com.bo:80/comgo/0500/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="Cochabamba", ERBOL
-https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8?PlaylistM3UCL
 
 
