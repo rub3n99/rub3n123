@@ -2804,6 +2804,197 @@ http://186.148.195.206:8000/play/a04h/index.m3u8?ZoyMilton
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ VENEZUELA 🇻🇪 ☆",Zona Latina
 http://186.148.195.206:8000/play/a06m/index.m3u8?ZoyMilton
 
+BOLIVIA
+
+#EXTINF:-1 xui-id="21831" tvg-id="ATB" tvg-name="ATB (La Paz)" tvg-logo="https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7vv5Ajvi9voha5s_Ejb2ngc-8C-0CRbzAZbuHmnCv7lA.png" group-title="☆ BOLIVIA 🇧🇴 ☆",ATB (La Paz)
+http://186.121.206.197/live/daniel/index.m3u8?ZoyMilton
+
+#EXTINF:-1 xui-id="21832" tvg-id="ATB" tvg-name="ATB (SCZ)" tvg-logo="https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7vv5Ajvi9voha5s_Ejb2ngc-8C-0CRbzAZbuHmnCv7lA.png" group-title="☆ BOLIVIA 🇧🇴 ☆",ATB (SCZ)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8?ZoyMilton
+
+#EXTINF:-1 xui-id="21832" tvg-id="RTP" tvg-name="ATB (SCZ)" tvg-logo="" group-title="☆ BOLIVIA 🇧🇴 ☆",RTP (La Paz)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzhCXGF/ATB-LP-HD.png" group-title="☆ BOLIVIA 🇧🇴 ☆",ATV (Arg)
+http://streaming.arcast.com.ar:1935/atbargentina/atbargentina/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ BOLIVIA 🇧🇴 ☆",ZoyTV 1
+https://is.gd/aOam0G
+
+#EXTINF:-1 xui-id="21751" tvg-id="BOLIVISION" tvg-name="Bolivisión (SCZ)" tvg-logo="https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ4z01J71hlTTtsTOgJkPztk2CCW1MjXf0cJyaOyg8cIuQ.png" group-title="☆ BOLIVIA 🇧🇴 ☆",Bolivisión (SCZ)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYPZ7dW/Bolivia-TV.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",BTV 1 (La Paz)
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hYPZ7dW/Bolivia-TV.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",BTV 2 (La Paz)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVIATV/__op/hls-default/__f/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f0jxwwP/RED-PAT-HD.png" group-title="☆ BOLIVIA 🇧🇴 ☆",PAT (SCZ)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8?ZoyMilton
+
+#EXTINF:-1 xui-id="21797" tvg-id="RED UNO" tvg-name="Red Uno (Cbba)" tvg-logo="https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7SQUXV-t13Ijvv8dkJPR4vG1HMKcxg8mJR-bxDALpxOQ.png" group-title="☆ BOLIVIA 🇧🇴 ☆",Red Uno (Cbba) Repetidora
+https://vdo.grupolimalive.com:3967/live/tvelive.m3u8?ZoyMilton
+
+#EXTINF:-1 xui-id="21780" tvg-id="RED UNO" tvg-name="Red Uno (SCZ)" tvg-logo="https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7SQUXV-t13Ijvv8dkJPR4vG1HMKcxg8mJR-bxDALpxOQ.png" group-title="☆ BOLIVIA 🇧🇴 ☆",Red Uno (SCZ)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8?ZoyMilton
+
+#EXTINF:-1 xui-id="21532" tvg-id="UNITEL" tvg-name="Unitel (Cbba)" tvg-logo="https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7yT1Uhnz3myIZ3xy2_eP23NdfR6FO0GJIEskyLpdfqUg.png" group-title="☆ BOLIVIA 🇧🇴 ☆",Unitel (Cbba) Repetidora
+https://glb.bozztv.com/glb/ssh101/zoytv/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 xui-id="21531" tvg-id="UNITEL SANTA CRUZ" tvg-name="Unitel (SCZ)" tvg-logo="https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7yT1Uhnz3myIZ3xy2_eP23NdfR6FO0GJIEskyLpdfqUg.png" group-title="☆ BOLIVIA 🇧🇴 ☆",Unitel (SCZ)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cxNHSGX/Canal14-Cliza.png" group-title="☆ BOLIVIA 🇧🇴 ☆",Canal 14 (Cliza)
+https://glb.bozztv.com/glb/ssh101/zoytv/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HHfNRN6/CADENA-A-HD.png" group-title="☆ BOLIVIA 🇧🇴 ☆",Cadena A (LP)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MsyjX4s/Gigavisi-n-TV.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",Gigavisión (LP)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3sN7hG8/ABYA-YALA.png" group-title="☆ BOLIVIA 🇧🇴 ☆",AbyAyala (LP)
+https://master.tucableip.com/abyayalatv/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://vostv.com.bo/wp-content/uploads/2024/03/cropped-cropped-LOGO-PNG-1-300x300-1-1.png" group-title="☆ BOLIVIA 🇧🇴 ☆",VOS TV (El Alto)
+https://stmvideo3.livecastv.com/vostvlive/vostvlive/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3yRm3gr/AyniTV.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",AyniTV (LP)
+https://stmvideo3.livecastv.com/aynitv/aynitv/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNC8Ygq/CCATVCbba.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",CCA (Cbba)
+http://live.cdn.comteco.com.bo/hls/0200/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/17x55zX/Univalle-TV.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",UnivalleTV (Cbba)
+https://master.tucableip.com/univalletv/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GRSpP3Z/Radio-Centro.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",Grupo Centro (Cbba)
+https://streamlov.alsolnet.com/grupocentrobo/live/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ BOLIVIA 🇧🇴 ☆",TVU (La Paz)
+https://video.live.com.bo:3003/live/tvuumsalive.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ BOLIVIA 🇧🇴 ☆",TVU 1 (Cbba)
+https://master.tucableip.com/tvucbba/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ BOLIVIA 🇧🇴 ☆",TVU 2 (Cbba)
+https://master.tucableip.com/tvucbba2/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ BOLIVIA 🇧🇴 ☆",TVU (Sucre)
+https://solo.disfrutaenlared.com:1936/tuch/ngrp:tuch_all/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYLxPMk/TVApunata.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",TVA (Punata)
+https://vdo.grupolimalive.com:3967/live/tvelive.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yts3WMR/Fortaleza-TV.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",FortalezaTV (Cbba)
+https://glb.bozztv.com/glb/ssh101/fortalezacueto/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vPF7CTw/CCTVsacaba.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",CCTV (Sacaba)
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/263qdTp/RTVEpunata.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",RTVE (Punata)
+https://vdo.grupolimalive.com:3241/live/encuentrotvlive.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XzPH9J6/Imperial-TV.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",Imperial TV (Potosí)
+https://vdo.grupolimalive.com:3162/live/imperialtvlive.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wp2Mppb/DTV.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",DTV (SCZ)
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d2tkBsR/FTV-SC-HD.png" group-title="☆ BOLIVIA 🇧🇴 ☆",FacetasTV
+https://master.tucableip.com/ftv/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="" group-title="☆ BOLIVIA 🇧🇴 ☆",PST (SCZ)
+https://master.tucableip.com/pstbolivia/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tRg2gp/CeacomTV.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",Ceacom (Or)
+https://eu1.servers10.com:8081/ceacom/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GnVZVwH/AmitelTV.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",Amitel (La Paz)
+https://srv.panelcast.net/3600/3600/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k65Bj1G/CoralTV.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",CoralTV (Or)
+https://tv.mediacp.eu:8081/coraltv/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dBhq7P7/Megavisi-n-TV.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",Megavisión (SCZ)
+https://video.live.com.bo:3999/live/megavisionlive.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="" group-title="☆ BOLIVIA 🇧🇴 ☆",Mega TV (Punata - Cbba)
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-id="MarvisionTV.bo" tvg-logo="https://i.imgur.com/ce29Mbv.png" group-title="☆ BOLIVIA 🇧🇴 ☆",Marvision TV
+https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-id="RedADvenirTV.bo" tvg-logo="https://i.imgur.com/WGkMt2j.png" group-title="☆ BOLIVIA 🇧🇴 ☆",RedADvenir TV
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-id="TelevisionCristal.bo" tvg-logo="https://i.ibb.co/pdTCdWj/logo-cristal-fw.png" group-title="☆ BOLIVIA 🇧🇴 ☆",Television Cristal
+https://master.tucableip.com/cristaltv/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="TLEstrella.bo" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tl-estrella-bo.png" group-title="☆ BOLIVIA 🇧🇴 ☆",TL Estrella
+https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-id="TuTv.bo" tvg-logo="https://i.imgur.com/WFycUP7.png" group-title="☆ BOLIVIA 🇧🇴 ☆",TuTV
+https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="TVShowOruro.bo" tvg-logo="https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png" group-title="☆ BOLIVIA 🇧🇴 ☆",TV Show (Oruro)
+http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tmz7jLb/F10LaPaz.jpg" group-title="☆ BOLIVIA 🇧🇴 ☆",F10 (El Alto)
+https://video.live.com.bo:3099/live/f10hdlive.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gzjtKk3/TV-LATINA-CANAL-42-HD.png" group-title="☆ BOLIVIA 🇧🇴 ☆",TvLatina (SCZ)
+https://glb.bozztv.com/glb/ssh101/tvlatinared/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gzjtKk3/TV-LATINA-CANAL-42-HD.png" group-title="☆ BOLIVIA 🇧🇴 ☆",AudioKiss 90.7 FM
+https://ssh101-fl.bozztv.com/ssh101/audiokiss/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-id="XTOTV.bo" tvg-logo="https://i.imgur.com/MLwLlWl.png" group-title="☆ BOLIVIA 🇧🇴 ☆",XTOTV
+http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-name="TV SANTA CRUZ" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc_2.png" group-title="☆ BOLIVIA 🇧🇴 ☆",TV SANTA CRUZ
+https://rtmp.info/tvsantacruz/envivo/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-name="EXITOSA TV" tvg-logo="http://www.laexitosariberalta.com/wp-content/uploads/2018/11/exitosalogo-1.png" group-title="☆ BOLIVIA 🇧🇴 ☆",ExitosaTV (Riberalta)
+https://stmvideo2.livecastv.com/multimediamb1/multimediamb1/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-name="RADIO SAN BORJA TV" tvg-logo="https://radiosanborjatv.com/wp-content/uploads/2020/12/LOGO-RSB-TV.png" group-title="☆ BOLIVIA 🇧🇴 ☆",Radio San Borja (Beni)
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-name="ENCUENTRO (SUCRE)" tvg-logo="https://radioencuentro.org/wp-content/uploads/2020/01/reold.png" group-title="☆ BOLIVIA 🇧🇴 ☆",Encuentro (Sucre)
+http://canaltv.istbolivia.com:1935/encuentro/encuentro/playlist.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-name="TVSxTV (Potosí)" tvg-logo="" group-title="☆ BOLIVIA 🇧🇴 ☆",TV's x TV Online (Prueba)
+https://xhateaec.com:8800/hls/visitor/visitor/09b15145dec3e2ff643906b681ff0ac9/index.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qYNmeDe.png" group-title="☆ BOLIVIA 🇧🇴 ☆",Red América TV
+https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4eNH7JS.png" group-title="☆ BOLIVIA 🇧🇴 ☆",INtv
+https://solo.disfrutaenlared.com:1936/intv/intv/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jZ7g58e.png" group-title="☆ BOLIVIA 🇧🇴 ☆",FAP TV (La Paz)
+https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8?ZoyMilton
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FcciYMD.png" group-title="☆ BOLIVIA 🇧🇴 ☆",DeltaTV
+https://vsrv1.az-streamingserver.com:3068/live/vdsocmnulive.m3u8?ZoyMilton
+
+#EXTINF:-1 xui-id="41577" tvg-id="" tvg-name="" tvg-logo="https://ptvbolivia.com/images/ID%20HD_1.png" group-title="☆ BOLIVIA 🇧🇴 ☆",PTV (La Paz)
+https://glb.bozztv.com/glb/ssh101/centralptv/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 xui-id="41577" tvg-id="" tvg-name="" tvg-logo="https://estrellaplusiptv.com/wp-content/uploads/2024/08/EN-VIVO-1.png" group-title="☆ BOLIVIA 🇧🇴 ☆",TELEFE Bolivia (La Paz)
+https://envivo.bolivia-link.com:3300/live/telefelive.m3u8?ZoyMilton
+
+#EXTINF:-1 xui-id="41577" tvg-id="" tvg-name="" tvg-logo="https://estrellaplusiptv.com/wp-content/uploads/2024/08/ztv-en-vivo.png" group-title="☆ BOLIVIA 🇧🇴 ☆",ZuracaTV (La Paz)
+https://stmvideo3.livecastv.com/ztv/ztv/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 xui-id="41577" tvg-id="" tvg-name="" tvg-logo="https://estrellaplusiptv.com/wp-content/uploads/2024/08/tele-6-en-vivo.png" group-title="☆ BOLIVIA 🇧🇴 ☆",Tele 6
+https://stmvideo3.livecastv.com/tele6/tele6/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 xui-id="41577" tvg-id="" tvg-name="" tvg-logo="https://estrellaplusiptv.com/wp-content/uploads/2024/08/siglo-xxi-en-vivo.png" group-title="☆ BOLIVIA 🇧🇴 ☆",Red Siglo XXI
+https://stmvideo3.livecastv.com/sigloxxi/sigloxxi/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 xui-id="41577" tvg-id="" tvg-name="" tvg-logo="https://estrellaplusiptv.com/wp-content/uploads/2024/08/vida-tv-en-vivo.png" group-title="☆ BOLIVIA 🇧🇴 ☆",VTV (Viacha)
+https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8?ZoyMilton
+
+#EXTINF:-1 xui-id="41577" tvg-id="" tvg-name="" tvg-logo="https://estrellaplusiptv.com/wp-content/uploads/2024/08/agro-tv-en-vivo.png" group-title="☆ BOLIVIA 🇧🇴 ☆",AgroTV
+https://envivo.bolivia-link.com:3356/live/agrotvlive.m3u8?ZoyMilton
+
+
 
 
 
