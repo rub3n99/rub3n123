@@ -121,7 +121,7 @@ https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
 https://cloud2.streaminglivehd.com:1936/8182/8182/chunklist_w591288876.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1338497732420530177/Yf4BhsDo_400x400.png" group-title="BOLIVIA", UPPTV
-https://d2byzrnrdb259r.cloudfront.net/hls/upptv.m3u8
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/825/507/png-clipart-cctv-channel-cctv-channel-cctv-station.png" group-title="BOLIVIA", RED CCTV SACABA
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
@@ -217,7 +217,14 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvkBb5d/imagen-de-perfil-02.jpg" group-title="SERIES Y PELICULAS",TV PRIME HD
 https://tv.clientetvstudio.net:3670/live/daleplaytvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1583849525264932869/lEbLWyb2_400x400.jpg" group-title="VOD",MOVIESPHERE
+https://dxazj2uf8uiwf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ra9rjcmiktyz/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1583849525264932869/lEbLWyb2_400x400.jpg" group-title="VOD",HERSPHERE
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0/variant.m3u8?url=105be09febd0b38e25a13f0106c1dd8e-8c793842832aef86de3bd5023c3e3ed3cc65f8c69e7d31d3f7503423091250b1126ac42c938808ac9584061301da8880cfe3238cfbc4904eca6eecfedf6efa2f3f902cd84ef604bd2434bd63e62cfeec802c48853b3a6c4c2ced4d6a6ba7c693b59851e38e32d833ed3edc2ff2e5101e92fb690658ee2693d45ca47230142682dff5f5651e1e93e255f3223b0cc88b327b8ba82be29544721d2855e3a0c94c37dd3e8548fc6a427101ae74f2bbe3b6ddd060ff321d9c248d9edcb4c2909e1e480459fad7f463300d5e4faef498232b38dec5dece0f509752d55c95a2f446bf7c9b2f894d178ea33a7b9e3dc9555f0029361ae13dc23b1de527256c6254f6673abd03fee6cd04817e5b23149992aff0ab5e81115fdb08d24723374fcef272e619d06380bb163f99a65624e332f8586e6666f55a4a074485a9baa8007b51e7f04280912655c43319826c0d4b1687267dfbec2c316810fea02091b5a111e16ef0d0b87779659d5c91ff12534ae3550100fa69a5dbf2a8fa53f3e3905ccdc442988c8490c2b7d742db28fdfec55443e2c610b39dd2359780f6d53d11009b3ab8bce4c9537dab0caa9cb655cc77970dfa1051b039c3983002d7373f30706985ea0988acbd94ae763179590fdaf7645f9b6f4d027a5a3a6726e1c1f92e2c35a3576ceeae4945ebe34cdd1da2251832a631a7f4c87a2c4b21d400a5944d9fd77c80e80c2192c5fa56c72a6da5c7e000bb81f07dbc38fc5cdbe46db8245898531345ddd2fb41307a3cdc1e473d753326846609bbc96821813b37c20ea8d0f12145026e5f2a65528bcb41c902a6d1b33496515e6057b5aa6d98526e1ed5f4805ae77fa9653a810b3d54ac74f726a88d7292456498128867569c8654c33d069477a59ac0f2ea0d77954bce52bb43c63d04de63966b2ca9582d83cddec3b5485cf88ee83d0c9dddcce18ec393112e7d3df3bd68fbadea945f5ea67ed0f52651365d2b142fa95b56fdc81bcac512a4b59c247f1a8f016fe09ceceecb5dd04531dc6a25ccd51b20e83e87b83d4d81ee31559190238f44c48b48a6a27df36c26272a66c4282ac0f396b667fdf3a0865a678b2a9454f1454425a0e0cd70a3f7e480bdd12b1ad3a2d6e3778e322b8a6922f9ea6a3b33c8bb1c026f5fef98963ab11f2ca89f6c75d01af415f28cd9f847df6fbe63b5f06a08263c59f5b8bbfe53e0e858b21bc0086aa7632f97158fb0a2f6f3982ee67eb34f583731b3994a33bc9c5424a334e85b38f28dbed14904c30e80fea5e62fa9c53347d8127d4ece741ea55cc81a9dabf377388fde4222c5665d7045db3439f188e0eb7f4696cf2da81545cda16af43a8393bbc4ecf3528098d1177373d78e072b2c8fa08b0fb9c0ca7477dfeb677dcbc4250258bb35977a4f22f0967b55eee1ba20efd0df6267146dab972764f01e5b7969964a32390a898dfad249cbcb48eb1e48536f8355678303c8909452f7d4737d0d5adf35484791e4d33c863ff740a12c4c7d065f3b6e077dd0198384beb601af181bf4e7f471b87666c9842c4b32dcf4020442e84bcb049c5742db3a604340d0bdb5d016b5799b75e365ba9835d735cda54b108add72eb9db6927480621b6c2a1ee098a116816b507ec4a6417278edf2f9e57060e8f0f7f6fd9d4b71eb09251e6675dafa9cc57b9f818632b83631598b674e30298dc542d61ae76a4fdf2a7322dd62101b82e17d62ba78b73e428aa203f3ab3855cddd4db8a2f292e9e874094d080bc320f9f837e4f019e82fc1aa978f9ed1a582636d1e23d36c336665911048a082c904133fe732f2481d15568914d1770081d396c2e5e3a6beb79fc1df584b0e86946d88b88b74bf29c1aa992a964dedc4204ead704308d37a2b76d216a7bdb69773adc1e43f2152a3ac79f4e8edb0fce7b5969549e74b08ccda5c6b1f981a63267219308379b9da404892bc738cdd5e1dc1ca44c97509dd2206338c3ed1952b0fc0cf7d2b23dec0c3d4b8e90266e8e124aa7350677085051f305a7b618c6e6142f6eb77d6461970f0d98dfbac83a7050c5f3b0797b3081411610366df3c83cde9caaaba43755a3e809ef5f09a9bd062eb35e7e36a238adb2cccb251bf8250888e27aa19d032793719792255d95baa64&x-plex-token=f_Zz13HfjUye3BSpP-a_&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1725206565&autoPreview=0
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1583849525264932869/lEbLWyb2_400x400.jpg" group-title="VOD",EBONY TV
+https://d2ovuv4g3vka60.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ve0q4gx2q5590/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Radio", RADIO KANCHA PARLASPA
@@ -371,3 +378,955 @@ https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/chunklist_w80
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FsFgG4ZB/EVENTOS-EN-VIVO-HD-2023.jpg" group-title="EVENTOS BOLIVIA", Eventos Bolivia 2024
 https://master.tucableip.com//movil/tracks-v1a1/mono.m3u8
+
+
+
+TÚPAC KATARI
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",A&E HD
+http://167.250.135.246:81/play/a054/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",ABE Educativo
+http://167.250.135.246:81/play/a0k7/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",AMC HD
+http://167.250.135.246:81/play/a08x/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",ATB HD
+http://167.250.135.246:81/play/tdt01/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",ATRES SERIES HD
+http://167.250.135.246:81/play/a060/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",AXN HD
+http://167.250.135.246:81/play/a057/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Abya Yala Tv
+http://167.250.135.246:81/play/a0k3/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Agenda Minera
+http://167.250.135.246:81/play/a0jv/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",America TV HD
+http://167.250.135.246:81/play/a0a5/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Animal Planet HD
+http://167.250.135.246:81/play/a098/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",BOLIVISION HD
+http://167.250.135.246:81/play/tdt02/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",BTV HD1
+http://167.250.135.246:81/play/tdt03/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",BTV HD2
+http://167.250.135.246:81/play/tdt04/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Benitv
+http://167.250.135.246:81/play/a0k6/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",CADENA A
+http://167.250.135.246:81/play/a0k8/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",CHV HD
+http://167.250.135.246:81/play/a05r/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",CNN Chile HD
+http://167.250.135.246:81/play/a052/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",CTV
+http://167.250.135.246:81/play/a0jl/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Cadena A
+http://167.250.135.246:81/play/tdt09/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Canal 1 HD
+http://167.250.135.246:81/play/a09z/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Canal 13 HD
+http://167.250.135.246:81/play/a0az/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Canal 24 Horas HD
+http://167.250.135.246:81/play/a0b6/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Cartoon Network HD
+http://167.250.135.246:81/play/a091/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Cinecanal HD
+http://167.250.135.246:81/play/a08w/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Cinemax HD
+http://167.250.135.246:81/play/a061/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Cinerama TV
+http://167.250.135.246:81/play/a0jz/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Clover HD
+http://167.250.135.246:81/play/a05d/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Comedy Central HD
+http://167.250.135.246:81/play/a062/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Cristal TV
+http://167.250.135.246:81/play/tdt10/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",DHE HD
+http://167.250.135.246:81/play/a0ba/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",DTV
+http://167.250.135.246:81/play/a0k2/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Discovery H&H HD
+http://167.250.135.246:81/play/a078/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Discovery HD
+http://167.250.135.246:81/play/a0bb/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Discovery Kids HD
+http://167.250.135.246:81/play/a077/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Discovery Theater HD
+http://167.250.135.246:81/play/a079/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Discovery World HD
+http://167.250.135.246:81/play/a08v/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Disney HD
+http://167.250.135.246:81/play/a05t/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",E! HD
+http://167.250.135.246:81/play/a0a1/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",EGPP 360
+http://167.250.135.246:81/play/a0ju/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",ESPN 2 HD
+http://167.250.135.246:81/play/a05e/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",ESPN 2 HD
+http://167.250.135.246:81/play/a05a/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",ESPN 2 HD
+http://167.250.135.246:81/play/a05y/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",ESPN 3 HD
+http://167.250.135.246:81/play/a05w/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",ESPN 4 HD
+http://167.250.135.246:81/play/a07d/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",ESPN EXTRA HD
+http://167.250.135.246:81/play/a08y/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",ESPN HD
+http://167.250.135.246:81/play/a0a0/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",ESPN HD
+http://167.250.135.246:81/play/a05i/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",ESPN HD
+http://167.250.135.246:81/play/a07j/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",El Gourmet HD
+http://167.250.135.246:81/play/a065/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",F10
+http://167.250.135.246:81/play/a0jk/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",FOX Sports 2 HD
+http://167.250.135.246:81/play/a07e/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",FX HD
+http://167.250.135.246:81/play/a07i/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Food Network HD
+http://167.250.135.246:81/play/a0a4/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Fox Sports 1 HD
+http://167.250.135.246:81/play/a0bc/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Fox Sports 3 HD
+http://167.250.135.246:81/play/a05x/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",GOLPERU HD
+http://167.250.135.246:81/play/a0a8/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Giga Vision
+http://167.250.135.246:81/play/a0jy/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",GolTV HD
+http://167.250.135.246:81/play/a0a2/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Golden HD
+http://167.250.135.246:81/play/a09x/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",HBO 2 HD
+http://167.250.135.246:81/play/a096/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",HBO Family HD
+http://167.250.135.246:81/play/a0be/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",HBO HD
+http://167.250.135.246:81/play/a08z/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",HBO POP HD
+http://167.250.135.246:81/play/a05b/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",HBO XTREME HD
+http://167.250.135.246:81/play/a0bf/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",HOLA TV HD
+http://167.250.135.246:81/play/a05u/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",History 2 HD
+http://167.250.135.246:81/play/a0bd/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",History Channel HD
+http://167.250.135.246:81/play/a053/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",ID HD
+http://167.250.135.246:81/play/a063/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Kanal D Drama HD
+http://167.250.135.246:81/play/a090/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",La Red HD
+http://167.250.135.246:81/play/a05h/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Las Estrellas HD
+http://167.250.135.246:81/play/a0b9/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Latina HD
+http://167.250.135.246:81/play/a0a6/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Lolly Kids HD
+http://167.250.135.246:81/play/a0b0/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Love Nature HD
+http://167.250.135.246:81/play/a0b2/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",MEGA HD
+http://167.250.135.246:81/play/a08t/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",MTV 00s
+http://167.250.135.246:81/play/a05z/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",MTV HD
+http://167.250.135.246:81/play/a0b7/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",MTV LIVE HD
+http://167.250.135.246:81/play/a07c/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Movistar Deportes HD
+http://167.250.135.246:81/play/a09v/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Nat Geo HD
+http://167.250.135.246:81/play/a08u/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Nick HD
+http://167.250.135.246:81/play/a05g/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",PAT
+http://167.250.135.246:81/play/a0js/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Palenque Tv
+http://167.250.135.246:81/play/a0jp/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Paramount HD
+http://167.250.135.246:81/play/a092/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Pasiones HD
+http://167.250.135.246:81/play/a05s/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Plus Tlt Tarija
+http://167.250.135.246:81/play/a0jn/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",RED SIGLO XXI - TV
+http://167.250.135.246:81/play/a0jq/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",RTP
+http://167.250.135.246:81/play/a0k4/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Red America TV
+http://167.250.135.246:81/play/a0jx/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Red UNO LPZ
+http://167.250.135.246:81/play/a0ji/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Red Uno de Bolivia HD
+http://167.250.135.246:81/play/tdt05/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",STAR CHANNEL HD
+http://167.250.135.246:81/play/a0b5/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",STAR CHANNEL HD
+http://167.250.135.246:81/play/a05f/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",STAR CHANNEL HD
+http://167.250.135.246:81/play/a07a/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",STAR TVE HD
+http://167.250.135.246:81/play/a094/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Señal Colombia HD
+http://167.250.135.246:81/play/a09w/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Sitel Potosí
+http://167.250.135.246:81/play/a0jt/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Sony HD
+http://167.250.135.246:81/play/a055/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Space HD
+http://167.250.135.246:81/play/a058/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Studio Universal HD
+http://167.250.135.246:81/play/a093/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Sun Channel HD
+http://167.250.135.246:81/play/a076/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",TNT HD
+http://167.250.135.246:81/play/a05v/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",TNT Novelas HD
+http://167.250.135.246:81/play/a0iu/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",TNT SPORTS HD
+http://167.250.135.246:81/play/a059/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",TNT Series HD
+http://167.250.135.246:81/play/a07h/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",TruTV HD
+http://167.250.135.246:81/play/a064/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",TV Cultura
+http://167.250.135.246:81/play/old01/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",TV+ HD
+http://167.250.135.246:81/play/a08s/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",TVN HD
+http://167.250.135.246:81/play/a05q/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",TVU PANDO
+http://167.250.135.246:81/play/a0jm/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",TVU SUCRE
+http://167.250.135.246:81/play/a0jo/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Tele Estrella HD
+http://167.250.135.246:81/play/a0jj/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Travelxp HD
+http://167.250.135.246:81/play/a075/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Tv Nuevo Tiempo
+http://167.250.135.246:81/play/a0k5/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",TyC Sports HD
+http://167.250.135.246:81/play/a0a7/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",UNITEL HD
+http://167.250.135.246:81/play/tdt08/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",UNIVERSAL CHANNEL HD
+http://167.250.135.246:81/play/a07b/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Unknown
+http://167.250.135.246:81/play/a0bh/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",HBO
+http://167.250.135.246:81/play/a099/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Warner Channel HD
+http://167.250.135.246:81/play/a056/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Win Sports HD
+http://167.250.135.246:81/play/a05c/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",Win Sports+ HD
+http://167.250.135.246:81/play/a097/index.m3u8?ZoyMilton
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="☆ TÚPAC KATARI ☆",XTO Tv
+http://167.250.135.246:81/play/a0jr/index.m3u8?ZoyMilton
+
+RADIOS DE BORIS
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/LQzCPQuUUXFFMBM4mjhgpjCA4lEpS-6HfGFY1-p2D08pMHjFFKLUV_xUvRUm3B9_0-A=w240-h480" group-title="☆ RADIOS 🇧🇴 ☆",ZOY GayFM
+https://icepool.silvacast.com/GAYFM.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/LQzCPQuUUXFFMBM4mjhgpjCA4lEpS-6HfGFY1-p2D08pMHjFFKLUV_xUvRUm3B9_0-A=w240-h480" group-title="☆ RADIOS 🇧🇴 ☆",ZOY 80s 80s
+https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=660nr7n5%231%23po0r92n70371410590on98415n856o9r%23ubzrcntr&context=fHA6LTE=&aw_0_1st.skey=1711990688&cb=717387411&listenerid=cb0e92a70371410590ba98415a856b9e&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1711990693
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",Radio Mariachi Gala Mexicana
+https://213.199.42.66:8030/radiomariachi.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/LQzCPQuUUXFFMBM4mjhgpjCA4lEpS-6HfGFY1-p2D08pMHjFFKLUV_xUvRUm3B9_0-A=w240-h480" group-title="☆ RADIOS 🇧🇴 ☆",ZOY 80s 80s Love
+https://regiocast.streamabc.net/regc-80s80slove9615256-mp3-192-7318866?sABC=660nr91o%231%23q613530ns2n6483pon447n45n40pn003%23ubzrcntr&context=fHA6LTE=&aw_0_1st.skey=1711991066&cb=839752563&listenerid=d613530af2a6483cba447a45a40ca003&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1711991067
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/LQzCPQuUUXFFMBM4mjhgpjCA4lEpS-6HfGFY1-p2D08pMHjFFKLUV_xUvRUm3B9_0-A=w240-h480" group-title="☆ RADIOS 🇧🇴 ☆",ZOY 80er
+https://streaming.silvacast.com/80ERFM.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/LQzCPQuUUXFFMBM4mjhgpjCA4lEpS-6HfGFY1-p2D08pMHjFFKLUV_xUvRUm3B9_0-A=w240-h480" group-title="☆ RADIOS 🇧🇴 ☆",ZOY 90s 90s
+https://regiocast.streamabc.net/regc-90s90spop4760822-mp3-192-9403761?sABC=660nr941%231%237766q2p84spo406oops739r203n9r218%23ubzrcntr&context=fHA6LTE=&aw_0_1st.skey=1711991060&cb=453995195&listenerid=7766d2c84fcb406bbcf739e203a9e218&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1711991105
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/LQzCPQuUUXFFMBM4mjhgpjCA4lEpS-6HfGFY1-p2D08pMHjFFKLUV_xUvRUm3B9_0-A=w240-h480" group-title="☆ RADIOS 🇧🇴 ☆",ZOY 90s 90s Love
+https://regiocast.streamabc.net/regc-90s90slovesongs4458302-mp3-192-1757165?sABC=660nrn1o%231%23310s69qsr9504qo98p02os45ps3roq03%23ubzrcntr&context=fHA6LTE=&aw_0_1st.skey=1711991322&cb=326448575&listenerid=310f69dfe9504db98c02bf45cf3ebd03&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1711991323
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/LQzCPQuUUXFFMBM4mjhgpjCA4lEpS-6HfGFY1-p2D08pMHjFFKLUV_xUvRUm3B9_0-A=w240-h480" group-title="☆ RADIOS 🇧🇴 ☆",ZOY 90er
+https://streaming.silvacast.com/90ERFM.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/LQzCPQuUUXFFMBM4mjhgpjCA4lEpS-6HfGFY1-p2D08pMHjFFKLUV_xUvRUm3B9_0-A=w240-h480" group-title="☆ RADIOS 🇧🇴 ☆",ZOY Top40
+https://icepool.silvacast.com/HIT104.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/LQzCPQuUUXFFMBM4mjhgpjCA4lEpS-6HfGFY1-p2D08pMHjFFKLUV_xUvRUm3B9_0-A=w240-h480" group-title="☆ RADIOS 🇧🇴 ☆",Zoy UNITEL (Audio)
+https://stream-176.zeno.fm/pu6hhqmvmz8vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwdTZoaHFtdm16OHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjRUOUVNT2ptUU5XbC01ZHBCMzFMZ1EiLCJpYXQiOjE3MjE3Nzk5MjUsImV4cCI6MTcyMTc3OTk4NX0.UbdphwQicJbFUw9giaZU27kv_m7qxOMEA_lqDcZq2a0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",CESAR Radio Rock (Rock Pop Latino)
+https://cesarradio.realserver.es/listen/cesar_radio/radio.mp3?ZoyMilton
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",ELECTRA Radio (Musica Electronica)
+https://cesarradio.realserver.es/listen/electra_radio/radio.mp3?ZoyMilton
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",MUCHO MÁS QUEDA (Soda Stereo 24/7)
+https://cesarradio.realserver.es/listen/mucho__queda_radio/radio.mp3?ZoyMilton
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",THE CLASSIC Radio (Clasicos 70s 80s 90s)
+https://cesarradio.realserver.es/listen/the_classic_radio/radio.mp3?ZoyMilton
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pSpqFu7dtH.png" group-title="☆ RADIOS 🇧🇴 ☆",PANAMERICANA 96.1
+https://stream-141.zeno.fm/pnwpbyfambruv?zs=GrWWOayOQleBzoO5Q6sQpA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/38539.v9.png" group-title="☆ RADIOS 🇧🇴 ☆",CHACALTAYA 93.7
+https://cloudstream2032.conectarhosting.com/9364/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/39027.v16.png" group-title="☆ RADIOS 🇧🇴 ☆",QHANA 98.5
+https://emiteradio.com/proxy/khana?mp=/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/38528.v12.png" group-title="☆ RADIOS 🇧🇴 ☆",FM LA PAZ (ONLINE)
+https://stream.consultoradas.com:10966/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/64930.v5.png" group-title="☆ RADIOS 🇧🇴 ☆",DISNEY 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/85874.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",CUMBIA NOVENTAS (ONLINE)
+http://emiteradio.com:8223/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/38562.v8.png" group-title="☆ RADIOS 🇧🇴 ☆",WARA
+http://s01.transmissaodigital.com:7526/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/37953.v12.png" group-title="☆ RADIOS 🇧🇴 ☆",STEREO 97 97.3 
+https://stream.consultoradas.com/8104/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/110117.v4.png" group-title="☆ RADIOS 🇧🇴 ☆",ATB 
+https://streamingenbolivia.com/8006/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/92563.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",INSTRUMENTAL 
+https://emiteradio.com/proxy/instrumental?mp=/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/110182.v4.png" group-title="☆ RADIOS 🇧🇴 ☆",SHOW 95.5
+http://162.253.35.125:9304/;
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/122773.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",CONSTELACION 100.5
+https://stream-151.zeno.fm/ks1tsgndvp8uv?zs=B6cTQK2DSseb6fcbosXcGA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/107222.v17.png" group-title="☆ RADIOS 🇧🇴 ☆",FM LA PAZ 96.7
+https://spanel.gcomstreaming.com/8018/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/120940.v4.png" group-title="☆ RADIOS 🇧🇴 ☆",PACHA QAMASA 700 KHz. A.M.
+http://sonic.dattassd.com:8128/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/89337.v7.png"☆ group-title="☆ RADIOS 🇧🇴 ☆",LETANIAS VIACHA
+https://ssl.srvstm.com:16336/;stream.nsv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/37956.v4.png"☆ group-title="☆ RADIOS 🇧🇴 ☆",EL SONIDO DE LA VIDA
+http://stream.servionbolivia.red:9580/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/37955.v8.png" group-title="☆ RADIOS 🇧🇴 ☆",MELODIA 99.1
+https://stream.consultoradas.com:10872/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/121085.png" group-title="☆ RADIOS 🇧🇴 ☆",ACTIVA
+https://cloudstream2032.conectarhosting.com:7226/stream.mp3?_=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/39007.v11.png" group-title="☆ RADIOS 🇧🇴 ☆",SOLIDARIA RKM 
+http://www.rkmradio.com:8000/stream/19/
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/109977.v5.png" group-title="☆ RADIOS 🇧🇴 ☆",MONUMENTAL 105.1
+http://streaming2.locucionar.com:9149/;
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/73304.v9.png" group-title="☆ RADIOS 🇧🇴 ☆",CIUDAD 91.3
+http://streamingenbolivia.com/8002/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/38534.v10.png" group-title="☆ RADIOS 🇧🇴 ☆",ANCORAIMES
+https://sonic1.transmissaodigital.com/8116/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/37871.v10.png" group-title="☆ RADIOS 🇧🇴 ☆",RED YUNGAS 
+http://162.253.35.125:9304/;
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/87178.v15.png" group-title="☆ RADIOS 🇧🇴 ☆",RED PATRIA NUEVA 
+https://server1.fex.red:8326/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/100620.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",LATINA DE VIACHA 
+https://stream-153.zeno.fm/yt4c2wfyx1zuv?zs=yx4ZtpLHTd2m3XWEfzeenQ
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/37954.v5.png" group-title="☆ RADIOS 🇧🇴 ☆",ESTELAR 92.5
+http://161.35.0.33:8070/radio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/73222.v13.png" group-title="☆ RADIOS 🇧🇴 ☆",INTEGRACION 640 AM
+https://stream.nepsum.com/radiointegracion.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/85572.v10.png" group-title="☆ RADIOS 🇧🇴 ☆",CONTEMPORANEA (ONLINE)
+https://stream-151.zeno.fm/dgvr6zvwxwzuv?zs=IZPktCexTLe7NSiTorMhqw
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/110177.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",LA DOBLE
+https://cp9.serverse.com/proxy/qipsbveb/live
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/124686.v4.png" group-title="☆ RADIOS 🇧🇴 ☆",BOLIVIA
+https://ssls03.transmissaodigital.com:7634/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/124589.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",CONTINENTAL 93.4
+https://stream-150.zeno.fm/8t4zz951s4zuv?zs=OoBmolkmRjGBUOwuMvEcTg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/115895.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",DISCO NIGHTS
+https://stream-151.zeno.fm/ph6uymg96ehvv?zs=V-VLexq1QA-a-9UJCJr1kA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/121300.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",LOS SUPER CLASICOS
+https://s2.suenalive.com:7139/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/37877.v5.png" group-title="☆ RADIOS 🇧🇴 ☆",BETANIA
+https://emiteradio.com/proxy/radiobetania?mp=/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/37942.v5.png" group-title="☆ RADIOS 🇧🇴 ☆",GNOSIS
+https://stream-151.zeno.fm/q5mqstcuyv8uv?zs=lB5je0dMSaiVyfzmTcIVtw
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/37949.v7.png" group-title="☆ RADIOS 🇧🇴 ☆",DESEO
+http://conectperu.com:8396/;
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/37950.v9.png" group-title="☆ RADIOS 🇧🇴 ☆",SAN GABRIEL
+https://spanel.gcomstreaming.com:7003/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/38492.v4.png" group-title="☆ RADIOS 🇧🇴 ☆",UNIVERSIDAD LOYOLA
+http://51.161.84.170:9022/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/121084.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",ES LATINO
+https://ssl.xcast.com.br:11296/stream?ver=899801
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/86773.v18.png" group-title="☆ RADIOS 🇧🇴 ☆",ANDAMARCA
+https://stream-152.zeno.fm/hke6sptrawzuv?zs=NRSBHi_2Tj61Enjom9S8UA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/122773.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",CONSTELACION
+https://stream-151.zeno.fm/ks1tsgndvp8uv?zs=pU3jemIGQYaXmOGpCAh1JA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/82849.v9.png" group-title="☆ RADIOS 🇧🇴 ☆",GENERACION DE FUEGO
+https://stream-152.zeno.fm/48kkkvnrq18uv?zs=cr0wm95YTFyBQsDsDpt4Ag
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/80416.v4.png" group-title="☆ RADIOS 🇧🇴 ☆",VIRTUAL
+https://stream-152.zeno.fm/ff1610y0h3quv?zs=x7MLYqC5Sp6RmX8KiCCo3Q
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/99823.v9.png" group-title="☆ RADIOS 🇧🇴 ☆",LETANIAS 102.3
+https://stream-151.zeno.fm/xvheemangzzuv?zs=daHTI0K2RK-F-SybNBw7XQ
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/109147.v7.png" group-title="☆ RADIOS 🇧🇴 ☆",EROTICA
+https://stm10.voxhd.com.br:8558/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/124581.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",RETRO
+https://stream-153.zeno.fm/kh0thrhdmy8uv?zs=m5-Nd6u9RK66sOIc7n1FZg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/92838.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",MANANTIAL
+https://stream-153.zeno.fm/kh0thrhdmy8uv?zs=m5-Nd6u9RK66sOIc7n1FZg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/88088.v30.png" group-title="☆ RADIOS 🇧🇴 ☆",PUEBLO
+https://stream-149.zeno.fm/fv47eqnz9vzuv?zs=71QgXyUqT16apfDlEiOOlA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/89808.v8.png" group-title="☆ RADIOS 🇧🇴 ☆",UNION ZARATE
+https://stream-157.zeno.fm/c3w3pt3eq2zuv?zs=8mGySikbTjmxelepKwZZkA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/126644.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",LA MEGA YUNGUEÑA
+https://stream-151.zeno.fm/rbuzobunanauv?zs=Pju_aXf0RduTe2oeqTuvDA
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/73281.v11.png" group-title="☆ RADIOS 🇧🇴 ☆",SONAR
+https://stream-151.zeno.fm/3r3dwgf2qzzuv?zs=Pp-u40cATHyHX3Zw7K1puA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/radios-com-bo/laser-103-9.png" group-title="☆ RADIOS 🇧🇴 ☆",LASER
+https://s2.suenalive.com:7087/stream/1/
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/111351.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",FEDECOMIN 105.4
+https://s2.suenalive.com:7087/stream/1/
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://aquilaprensa.com/wp-content/uploads/2023/03/WhatsApp-Image-2023-03-13-at-18.01.44.jpeg" group-title="☆ RADIOS 🇧🇴 ☆",AQUI LA PRENSA 91.6
+https://sc10.conectarhosting.com/proxy/laprensa?mp=/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/115919.v5.png" group-title="☆ RADIOS 🇧🇴 ☆",LA VOZ DEL PUEBLO 104.2
+http://radios.istbolivia.com:8082/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/123503.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",CORDIAL
+https://stream-152.zeno.fm/k42g9nm7y98uv?zs=uY9WXcABSK-ULAEZvWoOwQ
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloud.operationtulip.com/s/GdzY9gysYcQ4DTq/preview" group-title="☆ RADIOS 🇧🇴 ☆",▂ ▄ ▅ ▆  🇧🇴 COCHABAMBA 🇧🇴  ▆ ▅ ▄ ▂
+https://dl.dropboxusercontent.com/scl/fi/6n1w1fogqzz9o0d76u6dg/Spot-ZoyTV.mp4?rlkey=ffq3h4bq3nebf5mc3pl7w2o82&dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/81786.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",MORENA
+https://stream-159.zeno.fm/7r207c68seruv?zs=0cQOvKo9SqGo33PTowM2Ow
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Eres-Radio.png" group-title="☆ RADIOS 🇧🇴 ☆",ERES 98.5
+https://sp5.servidorrprivado.com/8789/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/122775.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",OXIGENO
+https://stream-151.zeno.fm/up7we7qvsg0uv?zs=nS30OHR_Rr6lerW-nv_MnA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",Radio Santiago Anzaldo
+https://stream-175.zeno.fm/acxwtgfdwzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhY3h3dGdmZHd6enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImdRSVhkR0duU0FhZzZEajhJRDBWZVEiLCJpYXQiOjE3MjIzNTY4MjEsImV4cCI6MTcyMjM1Njg4MX0.n8SJ88YeLq25rSwB8reRWy8h18dSJKMNW2g1rL1iEig
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/115907.v8.png" group-title="☆ RADIOS 🇧🇴 ☆",QUECHUA
+https://stm8.voxhd.com.br:7770/;stream.nsv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/99740.v6.png" group-title="☆ RADIOS 🇧🇴 ☆",VERDAD Y VIDA
+https://stream-152.zeno.fm/5ftur5n0pr5uv?zs=ye9i28rkRGyD4-az5Al3yA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/120086.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",IRPA IRPA
+https://centova4.transmissaodigital.com:20179/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/37878.v6.png" group-title="☆ RADIOS 🇧🇴 ☆",MARIA 
+https://dreamsiteradiocp4.com/proxy/rmbolivia2?mp=/stream.mp3?ver=843828
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/73323.v15.png" group-title="☆ RADIOS 🇧🇴 ☆",HIT 105.7
+https://stm10.voxhd.com.br:9018/;
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/37879.v11.png" group-title="☆ RADIOS 🇧🇴 ☆",CEPRA 90.1
+https://radio.awanahost.com/8004/cbba
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",MEGA 103.5 (Aiquile)
+https://stm10.voxhd.com.br:8610/;stream?ZoyMilton
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/102466.v4.png" group-title="☆ RADIOS 🇧🇴 ☆",PURPURA
+https://stm8.voxhd.com.br:8970/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/120323.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",DIANA D 102.1
+https://radio.habilweb.com/8006/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/107865.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",AJAYU
+https://stm8.voxhd.com.br:8552/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/101823.v7.png" group-title="☆ RADIOS 🇧🇴 ☆",PARTY FUN
+https://stm11.voxhd.com.br:8782/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/120951.v4.png" group-title="☆ RADIOS 🇧🇴 ☆",UNIVALLE
+https://stream-150.zeno.fm/vm60z4p3198uv?zs=HSeA_x8aSG21uCIHnw_OBA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ritmo.radio.com.bo/wp-content/uploads/2019/01/1024x500.png" group-title="☆ RADIOS 🇧🇴 ☆",RITMO 97.3
+https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/122539.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",RKC 99.1
+http://radio.yoemito.net:8006/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/120055.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",GIGANTE 91.3
+https://onair.bitstreaming.net/proxy/gigante?mp=/stream&1666617523660
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/115944.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",URBANA 95.2
+http://radio.yoemito.net:8002/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/97074.v9.png" group-title="☆ RADIOS 🇧🇴 ☆",ZOY MILTON
+https://icepool.silvacast.com/GAYFM.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/121179.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",CALIENTE
+https://stream-151.zeno.fm/qtptantkephvv?zs=J1dcJKU-T_S8yBrWLzm70w
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/124092.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",13 DE NOVIEMBRE (COLOMI)
+http://radio.awanahost.com:8014/source
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/115932.v4.png" group-title="☆ RADIOS 🇧🇴 ☆",PIONERA 103.7
+https://stream-153.zeno.fm/vv226fdrbrzuv?zs=7vbwq7cuR9-_oMREpQMstw
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/123833.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",LA MEGA (AIQUILE)
+https://ares.disfrutaenlared.com/8126/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/116650.v4.png" group-title="☆ RADIOS 🇧🇴 ☆",ULTRA 88.5
+http://radios.istbolivia.com:9322/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/121291.v5.png" group-title="☆ RADIOS 🇧🇴 ☆",CONTINENTAL 99.7
+https://stream-153.zeno.fm/bdnz2z7rnwzuv?zs=9xss1fTCTYiyK7GFLBc_rQ
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/38999.v13.png" group-title="☆ RADIOS 🇧🇴 ☆",ESTRELLA 93.1
+https://stream-153.zeno.fm/bdnz2z7rnwzuv?zs=9xss1fTCTYiyK7GFLBc_rQ
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Fq2nChhrna.png" group-title="☆ RADIOS 🇧🇴 ☆",CLASICA 100.3
+http://radios.istbolivia.com:9976/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/hddjj2stcqhr.png" group-title="☆ RADIOS 🇧🇴 ☆",BBN 105.4
+https://audio-edge-es6pf.mia.g.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/kjxabnz92vvu.png" group-title="☆ RADIOS 🇧🇴 ☆",CRISTO VIENE 90.7
+https://stream20.usastreams.com:7000/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/vt3wlyrbhbtw.png" group-title="☆ RADIOS 🇧🇴 ☆",CENTRO 96.1
+https://radio.yoemito.net:8034/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/apsklasgv32a.jpg" group-title="☆ RADIOS 🇧🇴 ☆",MEGA DJ 89.8
+https://stream-156.zeno.fm/zyu31nv6twzuv?zs=6S0Fgq23QnyMBoO6xljcGw
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/skupyn893ujn.png" group-title="☆ RADIOS 🇧🇴 ☆",SONIDO DE LA VIDA
+https://stream-160.zeno.fm/c4z6tu9gqeruv?zs=QdO3WctvSQmba0uoBeGenQ
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/fpnsmemfythb.png" group-title="☆ RADIOS 🇧🇴 ☆",UNO (PUNATA)
+https://stream-161.zeno.fm/nst95mra8bruv?zs=zbgAfmPgTD6mLxcYqbzbAg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/tqwteul3p6tq.png" group-title="☆ RADIOS 🇧🇴 ☆",BETHEL 95.5
+http://cdn.instream.audio:9255/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/cenm5bgnxutv.png" group-title="☆ RADIOS 🇧🇴 ☆",PIO XII 97.9
+http://aler.org:8000/pio12cbba.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="☆ RADIOS 🇧🇴 ☆",ALER
+https://aler.org:8445/alersat
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/WNVzKuHQKf.png" group-title="☆ RADIOS 🇧🇴 ☆",INOLVIDABLE
+https://stm10.voxhd.com.br:8554/;
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Icono_Radio_Soberan%C3%ADa.png" group-title="☆ RADIOS 🇧🇴 ☆",SOBERANIA
+https://radio.awanahost.com/8036/stream
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloud.operationtulip.com/s/GdzY9gysYcQ4DTq/preview" group-title="☆ RADIOS 🇧🇴 ☆",▂ ▄ ▅ ▆  🇧🇴 ORURO 🇧🇴  ▆ ▅ ▄ ▂
+https://dl.dropboxusercontent.com/scl/fi/6n1w1fogqzz9o0d76u6dg/Spot-ZoyTV.mp4?rlkey=ffq3h4bq3nebf5mc3pl7w2o82&dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/l9tne5nuyeyn.jpg" group-title="☆ RADIOS 🇧🇴 ☆",CALIENTE 97.3
+http://eu2.serviaudio.com:23324/;
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.bolivia.com/canales/radio-fides-cochabamba-3517.jpg" group-title="☆ RADIOS 🇧🇴 ☆",FIDES 88.9
+https://usa12.fastcast4u.com/proxy/grflor02?mp=/1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/121174.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",NACIONAL DE HUANUNI
+http://eu2.serviaudio.com:23116/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/wb6jspsgwgue.jpg" group-title="☆ RADIOS 🇧🇴 ☆",BRAVO 107.5
+https://emiteradio.com/proxy/uyuni2?mp=%2Fstream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/za9k8tqeuv2e.png" group-title="☆ RADIOS 🇧🇴 ☆",TRANSAMERICANA 95.1 
+https://server.laradio.online/proxy/transamericana?mp=%2Fstream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/NmEbA8MAdX.png" group-title="☆ RADIOS 🇧🇴 ☆",MIX
+https://stm8.voxhd.com.br:8774/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/prY2cFsrHm.png" group-title="☆ RADIOS 🇧🇴 ☆",AJAYU 91.2
+https://stm8.voxhd.com.br:8552/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/jPPN4aMeK4.png" group-title="☆ RADIOS 🇧🇴 ☆" ,LIBERACION 100.9
+https://radioenvivo.live:8010/radio.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/78967.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",CARAVANA DEPORTIVA
+https://stream-149.zeno.fm/q2km9gqmymruv?zs=7E8w3ouoQE2BVA3YGb_Lvw
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radioconciertofm.com/img/sys/LogoLight.png" group-title="☆ RADIOS 🇧🇴 ☆",CONCIERTO 98.5
+https://stream-152.zeno.fm/kntwrc4dr3quv?zs=VnsRLwQlRW6LCLbcTu9mfA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/110144.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",SHOW 90.7
+http://radios.istbolivia.com:9984/;
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/39021.v6.png" group-title="☆ RADIOS 🇧🇴 ☆",KANTUTA101.8
+http://eu2.serviaudio.com:23128/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/37958.v5.png" group-title="☆ RADIOS 🇧🇴 ☆",PIO XII
+http://aler.org:8000/pio12oruro.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/117011.v4.png" group-title="☆ RADIOS 🇧🇴 ☆",ANDINA
+https://eu2.serviaudio.com:10935/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/37959.v8.png" group-title="☆ RADIOS 🇧🇴 ☆",JHV 93.7
+https://ares.disfrutaenlared.com:10984/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/121299.v5.png" group-title="☆ RADIOS 🇧🇴 ☆",ORURO
+https://stream-151.zeno.fm/cge23v1bvv8uv?zs=y2HgROMFSN-lBbUx6WhCtQ
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/121893.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",BOLIVIA
+https://stream-153.zeno.fm/pfk5mdt0pfhvv?zs=8DpsqD5CR6O8l_bwRuqBcQ
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/123840.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",ASTRO 89.5
+https://ares.disfrutaenlared.com:10902/live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/124095.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",LA PATRIA 
+https://stream-150.zeno.fm/1v5zru0sef9uv?zs=3T5u1_cpRmiGwk9bmP0zEQ
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/92499.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",ACTIVA 96.7 (HUANUNI)
+https://stream-153.zeno.fm/p4zeqegqtzzuv?zs=r6HABoSwSParKxPunEUMYA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/124586.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",GENERACION EXTREMA 88.6
+https://stream-151.zeno.fm/eq3ctgqbna0uv?zs=Eh5L1cLNSl2dJY7SHYw9Dw
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/116416.v4.png" group-title="☆ RADIOS 🇧🇴 ☆",ELITE
+https://stream-151.zeno.fm/g67x7y4k7e9uv?zs=BDs4RAGHQXepBtsJB8sHGw
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/115940.v5.png" group-title="☆ RADIOS 🇧🇴 ☆",NANOS 98.8
+http://sonic.dattassd.com/8126/stream
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloud.operationtulip.com/s/GdzY9gysYcQ4DTq/preview" group-title="☆ RADIOS 🇧🇴 ☆",▂ ▄ ▅ ▆  🇧🇴 SANTA CRUZ 🇧🇴  ▆ ▅ ▄ ▂
+https://dl.dropboxusercontent.com/scl/fi/6n1w1fogqzz9o0d76u6dg/Spot-ZoyTV.mp4?rlkey=ffq3h4bq3nebf5mc3pl7w2o82&dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/37945.v8.png" group-title="☆ RADIOS 🇧🇴 ☆",CALIENTE
+https://srv3.elittehosting.com:8004/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/118178.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",MEGA (RURENABAQUE)
+http://radios.istbolivia.com:8665/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/103694.v6.png" group-title="☆ RADIOS 🇧🇴 ☆",MIX
+https://srv3.elittehosting.com:8006/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/37867.v13.png" group-title="☆ RADIOS 🇧🇴 ☆",EL DEBER
+https://srv3.elittehosting.com:8006/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/38566.v8.png" group-title="☆ RADIOS 🇧🇴 ☆",ACTIVA 91.9
+http://streamserver.ml:7002/;
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/37948.v10.png" group-title="☆ RADIOS 🇧🇴 ☆",SANTA CRUZ 960 AM
+https://onair.bitstreaming.net/proxy/irfaam?mp=/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.maritimafm.com/logo.png" group-title="☆ RADIOS 🇧🇴 ☆",MARITIMA 100.9
+https://spanel.gcomstreaming.com/8004/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/77409.v11.png" group-title="☆ RADIOS 🇧🇴 ☆",BUENA ONDA 90.3
+https://stream-152.zeno.fm/tvdgnpfbs8quv?zs=JkC19ATHQkSFAEZEhZOj5w
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/103129.v9.png" group-title="☆ RADIOS 🇧🇴 ☆",FAMA 101.5
+https://srv3.elittehosting.com:8002/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/103722.v7.png" group-title="☆ RADIOS 🇧🇴 ☆",UNO 96.7
+https://ares.disfrutaenlared.com/8114/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Y9S74UHMLB.png" group-title="☆ RADIOS 🇧🇴 ☆",MEGA 97.3
+https://stream-151.zeno.fm/hcw5f95ugy8uv?zs=DboxxxW4Q3OsmEBPn5h9fg
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/105446.v7.png" group-title="☆ RADIOS 🇧🇴 ☆",CIUDAD
+https://emiteradio.com/proxy/monteroradio?mp=/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/xjaeubynnerr.png" group-title="☆ RADIOS 🇧🇴 ☆",HIT 99.1
+https://turadio.accesopanel.com/8040/stream;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://integraciones.unitel.bo/unitel/v2-resources/ver/img/oficial/logo-eresradio.svg" group-title="☆ RADIOS 🇧🇴 ☆",ERES 105.7
+http://144.217.67.108:9156/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/124584.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",GRIGOTA 90.1
+https://stream-152.zeno.fm/3yt3cyb49qruv?zs=CIggEvg9Rr6OQGWvEgG8WA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/83335.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",CRUCEÑA 93,3 
+https://stream-151.zeno.fm/ahcu2n7xgnruv?zs=Tw3ei-s5Q5yK_naCtGK7qA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/124696.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",AS CONTENIDOS
+http://radios.istbolivia.com:8020/;
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/38579.v12.png" group-title="☆ RADIOS 🇧🇴 ☆",INTEGRACION 90.3
+https://stream-153.zeno.fm/449nync42yzuv?zs=CxNaQSOrSTSKFjmL8OiHbg
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/106379.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",FIESTA
+https://stream-158.zeno.fm/yekznpzvuk8uv?zs=j1FGEjWFQ-OZcAxw7zQa4w
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/110911.v4.png" group-title="☆ RADIOS 🇧🇴 ☆",CADILLAC
+https://stm12.voxhd.com.br:9032/;stream.nsv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/122854.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",LA VOZ UNIVERSAL
+https://stream-153.zeno.fm/841wr64ngnzuv?zs=N1t2Y6zuQpSWD2P37euJPw
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/120082.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",PIRAI 96.3
+https://emiteradio.com/proxy/radiopirai963?mp=/stream
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloud.operationtulip.com/s/GdzY9gysYcQ4DTq/preview" group-title="☆ RADIOS 🇧🇴 ☆",▂ ▄ ▅ ▆  🇧🇴 CHUQUISACA 🇧🇴  ▆ ▅ ▄ ▂
+https://dl.dropboxusercontent.com/scl/fi/6n1w1fogqzz9o0d76u6dg/Spot-ZoyTV.mp4?rlkey=ffq3h4bq3nebf5mc3pl7w2o82&dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/38485.v13.png" group-title="☆ RADIOS 🇧🇴 ☆",FIDES
+https://usa7.fastcast4u.com/proxy/radiofid?mp=/1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/38479.v6.png" group-title="☆ RADIOS 🇧🇴 ☆",LA BRUJA
+https://turadioweb.net/radio/8040/radio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/106072.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",RED CHUQUIAQUEÑA
+https://stream-157.zeno.fm/b9u2qztkr7zuv?zs=ZT0_aPWzSbuQ5KZkMKadvg
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/116645.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",GLOBAL
+http://ares.disfrutaenlared.com/6048/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/119648.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",LA BRUJA CALIENTE
+http://turadioweb.net/radio/8050/radio
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/8gsycsdjbd6z.png" group-title="☆ RADIOS 🇧🇴 ☆",CRUZ DEL SUR 
+https://radio.sistemasandinos.org/7468/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/a55jfar6n974.jpg" group-title="☆ RADIOS 🇧🇴 ☆",CAMARGO 
+http://stm7.xcast.com.br:11646/;
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/quyn5ndqu9z5.webp" group-title="☆ RADIOS 🇧🇴 ☆",CAPITAL 105.9 
+https://ares.disfrutaenlared.com/9052/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/zlbzugxn3u5x.png" group-title="☆ RADIOS 🇧🇴 ☆",YOTALA 
+http://athena.imd.la:6034/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/Dm9K2aZ9A6.jpg" group-title="☆ RADIOS 🇧🇴 ☆",LIBERTAD
+https://stream-152.zeno.fm/61tz3q6cckhvv?zs=IqbS9ppXQRWK-Y60Cr5a-w
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://correodelsur.com/img/logo.png" group-title="☆ RADIOS 🇧🇴 ☆",CORREO DEL SUR
+https://whsh4u-panel.com/proxy/gddupgij?mp=/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/4dewxrm46zxg.png" group-title="☆ RADIOS 🇧🇴 ☆",LIDER (MONTEAGUDO)
+https://stream-153.zeno.fm/0p9a2yxxdnzuv?zs=eco7VlQrSq-RAY8xZZn9Nw
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/DuHBhwbXZ7.jpg" group-title="☆ RADIOS 🇧🇴 ☆",HORIZONTE 91.3
+https://ares.disfrutaenlared.com:10913/;
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/120977.v5.png" group-title="☆ RADIOS 🇧🇴 ☆",BICENTENARIO
+http://radios.istbolivia.com:6090/;stream.nsv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/125202.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",RIOSOL (CAMARGO)
+https://stream-150.zeno.fm/6bbcrk9tgy8uv?zs=JkvdLkN3Sb2VRC0KPFlsVw
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloud.operationtulip.com/s/GdzY9gysYcQ4DTq/preview" group-title="☆ RADIOS 🇧🇴 ☆",▂ ▄ ▅ ▆  🇧🇴 POTOSI 🇧🇴  ▆ ▅ ▄ ▂
+https://dl.dropboxusercontent.com/scl/fi/6n1w1fogqzz9o0d76u6dg/Spot-ZoyTV.mp4?rlkey=ffq3h4bq3nebf5mc3pl7w2o82&dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/39037.v10.png" group-title="☆ RADIOS 🇧🇴 ☆",ACLO
+https://cloudstream2030.conectarhosting.com/8254/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/39037.v10.png" group-title="☆ RADIOS 🇧🇴 ☆",PRISMA 95.8
+http://turadio.accesopanel.com:8128/;stream.nsv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/66620.v21.png" group-title="☆ RADIOS 🇧🇴 ☆",FELICIDAD 88.7
+https://autodj.live/radio/8280/stream.aac
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/98285.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",FIDES
+https://usa7.fastcast4u.com/proxy/grflor04?mp=/1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/121290.v6.png" group-title="☆ RADIOS 🇧🇴 ☆",OMEGA
+https://stream-152.zeno.fm/tqttf029ztzuv?zs=kqHMHWiYQge1gMu11atHOQ
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/115897.v8.png" group-title="☆ RADIOS 🇧🇴 ☆",MELODIA COLONIAL
+http://radios.istbolivia.com:8084/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/76806.v7.png" group-title="☆ RADIOS 🇧🇴 ☆",IMPERIAL
+https://turadio.accesopanel.com:7062/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/123837.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",LIDER
+https://emiteradio.com/proxy/lider?mp=/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/100064.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",WIÑAY QHANA 97.5
+https://emiteradio.com/proxy/lider?mp=/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/115896.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",CLASICA EMPRESARIAL 92.5
+http://radios.istbolivia.com:8046/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/121290.v6.png" group-title="☆ RADIOS 🇧🇴 ☆",OMEGA 
+https://stream-152.zeno.fm/tqttf029ztzuv?zs=cSVXACxmRce7eTPTiISosA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/122542.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",INDEPENDENCIA
+https://stream-151.zeno.fm/dse0f852tk8uv?zs=eSpZK6CcQRWukfR80qyUmw
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/123836.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",INDOAMERICA 103.9
+https://ares.disfrutaenlared.com/8090/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/122771.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",DIFUSORAS POTOSI
+https://stream-149.zeno.fm/f7n5gmnb898uv?zs=28bIpEdzQMmeYm3b7CBx1w
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/121294.v6.png" group-title="☆ RADIOS 🇧🇴 ☆",JOGA (TUPIZA)
+https://stream-152.zeno.fm/sbga04hc6f8uv?zs=U3T1UAc_RiGhKv-3WwsnNg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/120057.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",ESPIRITU SANTO (QUECHUA)
+https://ares.disfrutaenlared.com/6052/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/93266.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",GUADALUPE (LLALLAGUA)
+http://radios.istbolivia.com:9304/stream.ip
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cloud.operationtulip.com/s/GdzY9gysYcQ4DTq/preview" group-title="☆ RADIOS 🇧🇴 ☆",▂ ▄ ▅ ▆  🇧🇴 TARIJA 🇧🇴  ▆ ▅ ▄ ▂
+https://dl.dropboxusercontent.com/scl/fi/6n1w1fogqzz9o0d76u6dg/Spot-ZoyTV.mp4?rlkey=ffq3h4bq3nebf5mc3pl7w2o82&dl=0
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/98283.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",FIDES
+https://usa14.fastcast4u.com/proxy/fidestarija?mp=/1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/39016.v6.png" group-title="☆ RADIOS 🇧🇴 ☆",GUADALQUIVIR
+https://turadio.accesopanel.com/8120/stream
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/107731.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",CIUDAD (YACUIBA)
+https://turadio.accesopanel.com/8078/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/107731.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",ACTIVA (YACUIBA)
+https://stream-151.zeno.fm/qsg4fw3kmy8uv?zs=MoTHro7mRSGnXDxcnMLPxg
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/73319.v7.png" group-title="☆ RADIOS 🇧🇴 ☆",ATLANTIDA
+https://stream-150.zeno.fm/w443n4yhr2zuv?zs=X38h1j9pRBe4ObRodELCxg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/124917.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",ABC
+http://radios.istbolivia.com:6038/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/119647.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",PASAJES YUNCHARA
+http://radios.istbolivia.com:9312/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/115928.v4.png" group-title="☆ RADIOS 🇧🇴 ☆",NOTICIAS
+https://stream-150.zeno.fm/hkkyy5cgpkhvv?zs=HMLvOWWaQm-5cG1TGRKF4Q
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/124687.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",CAROLINA 97.1
+https://stream-152.zeno.fm/5zbac9n0txhvv?zs=Z-x_R9T0RhqyQCSH57p6hQ
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/118738.v3.png" group-title="☆ RADIOS 🇧🇴 ☆",LUIS DE FUENTES
+http://stm8.streaming.profesional.bo:10180/;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/120052.v2.png" group-title="☆ RADIOS 🇧🇴 ☆",UNION TROPICAL
+https://radio.ackrossbolivia.com/8290/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/125204.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",LA 100
+https://stream-150.zeno.fm/8n96yctb1d0uv?zs=GOvF8JL1QS2Tg3WwnDJToA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/125204.v1.png" group-title="☆ RADIOS 🇧🇴 ☆",LA 100
+https://stream-150.zeno.fm/8n96yctb1d0uv?zs=GOvF8JL1QS2Tg3WwnDJToA
+
