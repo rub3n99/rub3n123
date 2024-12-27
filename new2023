@@ -30,6 +30,9 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL5/__op/hls-defaul
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WFsPfCt/F10-CHAIRITO-MUSICAL-HD.jpg" group-title="BOLIVIA",F10 CHAIRITO MUSICAL HD
 https://video.live.com.bo:3253/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="BOLIVIA",Gogoplay TV SD
+https://ssh101-fl.bozztv.com/ssh101/gogoplaysd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png/200px-Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png" group-title="BOLIVIA", TDT BOLIVIA
 https://video01.kshost.com.br/juan6318/juan6318/playlist.m3u8?t=1649261793
 
