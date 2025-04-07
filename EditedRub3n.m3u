@@ -1,15 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS", EVENTO 1 ES
-http://events1-crtvg.flumotion.com/crtvg/events1_high/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS", EVENTO 2 ES
-http://events2-crtvg.flumotion.com/crtvg/events2_high/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="EVENTOS", EVENTO 3 ES
-http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="EVENTOS", EVENTOS 1
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL1/__op/hls-default/__f/index.m3u8
 
@@ -24,6 +15,21 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL4/__op/hls-defaul
 
 #EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="EVENTOS", EVENTOS 5
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL5/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="EVENTOS", EVENTOS 6
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL6/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="EVENTOS", EVENTOS 7
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL7/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="EVENTOS", EVENTOS 8
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL8/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="EVENTOS", EVENTOS 9
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL9/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mediaxtreme.com/wp-content/uploads/2017/04/grabacion-6.png" group-title="EVENTOS", EVENTOS 10
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL10/__op/hls-default/__f/index.m3u8
 
 
 
