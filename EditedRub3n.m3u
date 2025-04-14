@@ -33,53 +33,47 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL10/__op/hls-defau
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png/200px-Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png" group-title="Cochabamba", TDT BOLIVIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png/200px-Televisi%C3%B3n_digital_terrestre_%28Peru%29_-_2018_logo.png" group-title="BOLIVIA", TDT BOLIVIA
 https://video01.kshost.com.br/juan6318/juan6318/playlist.m3u8?t=1649261793
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/1200px-Mega_TV_logo_2016.svg.png" group-title="Cochabamba",MEGA TV COCHABAMBA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/1200px-Mega_TV_logo_2016.svg.png" group-title="BOLIVIA",MEGA TV COCHABAMBA
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png/v1/fill/w_227,h_227,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%20ZoyTV%203.png group-title="Cochabamba", ZOY TV
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7edb0d_3fd6f38706584a88811c6a710482c489~mv2.png/v1/fill/w_227,h_227,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%20ZoyTV%203.png group-title="BOLIVIA", ZOY TV
 https://master.tucableip.com/zoytv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Cochabamba", UNITEL HD
-http://live.cdn.comteco.com.bo:80/comgo/0208/index.m3u8
+#EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="BOLIVIA",RED UNO SANTA CRUZ HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1199775496948658176/W0wDWzpL_400x400.jpg" group-title="Cochabamba", UNITEL HD NOTICIAS
-https://stream-03.nyc.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUPVdRI78qHgIjL8y63tfm9U9ZfjOxzY7oQMq20LAVXNH)/dm/3/x7y922d/d/live-3.m3u8
-
-#EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="Cochabamba",RED UNO HD
-http://live.cdn.comteco.com.bo:80/comgo/0206/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="Cochabamba",RED UNO SD
-https://ott.streann.com/loadbalancer/services/public/channels-secure/5ea9f31a2cdc654acd294aaf/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/825/507/png-clipart-cctv-channel-cctv-channel-cctv-station.png" group-title="Cochabamba", RED CCTV SACABA
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/825/507/png-clipart-cctv-channel-cctv-channel-cctv-station.png" group-title="BOLVIA", RED CCTV SACABA
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosonline.com.bo/wp-content/uploads/2019/01/centro.png" group-title="Cochabamba", RADIO CENTRO TV
+#EXTINF:-1 tvg-logo="https://radiosonline.com.bo/wp-content/uploads/2019/01/centro.png" group-title="BOLIVIA", RADIO CENTRO TV
 https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/estructuras/qrgOvj.jpg " group-title="Cochabamba", COMTECO TV
-http://live.cdn.comteco.com.bo:80/comgo/0220/index.m3u8
+#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/estructuras/qrgOvj.jpg" group-title="BOLIVIA", DTV
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/estructuras/qrgOvj.jpg " group-title="Cochabamba", DT TV
-https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
+#EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/58017.jpg" group-title="BOLIVIA", ATESUR TV SUCRE 
+https://video2.getstreamhosting.com:19360/8016/8016.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1969799235/529176_216817181759754_216733365101469_381036_1091128662_n.jpg" group-title="Cochabamba", TELE C 
-http://live.cdn.comteco.com.bo:80/comgo/0210/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/rtl-1432633221.jpg" group-title="Cochabamba",RTL COCHABAMBA
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/rtl-1432633221.jpg" group-title="BOLIVIA",RTL COCHABAMBA
 http://live.cdn.comteco.com.bo:80/comgo/0217/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="Cochabamba",ATB COCHABAMBA
-http://live.cdn.comteco.com.bo:80/comgo/0201/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="BOLIVIA",ATB COCHABAMBA
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="Cochabamba",ATB COCHABAMBA SD
-https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
 
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="Cochabamba", BOLIVISION
-http://live.cdn.comteco.com.bo:80/comgo/0202/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="BOLIVIA",ATB LA PAZ
+http://186.121.206.197/live/daniel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="BOLIVIA",ATB SANTA CRUZ
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="BOLIVIA", BOLIVISION
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="BOLIVIA", BOLIVISION SANTA CRUZ
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="Cochabamba", BOLIVIA TV
 http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
