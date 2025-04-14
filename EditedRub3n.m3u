@@ -57,12 +57,6 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.
 #EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/58017.jpg" group-title="BOLIVIA", ATESUR TV SUCRE 
 https://video2.getstreamhosting.com:19360/8016/8016.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/rtl-1432633221.jpg" group-title="BOLIVIA",RTL COCHABAMBA
-http://live.cdn.comteco.com.bo:80/comgo/0217/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1412124450003243009/FaP_dqsM_400x400.jpg" group-title="BOLIVIA",ATB COCHABAMBA
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="BOLIVIA",ATB LA PAZ
 http://186.121.206.197/live/daniel/index.m3u8
 
@@ -75,26 +69,44 @@ https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="BOLIVIA", BOLIVISION SANTA CRUZ
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="Cochabamba", BOLIVIA TV
-http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/86/BolivisionHD.png" group-title="BOLIVIA", BOLIVISION LA PAZ SD
+https://d3ew2cr4djta2j.cloudfront.net/480p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="Cochabamba", RTP
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Red_PAT_Logo.png" group-title="Cochabamba", PAT 
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Cadena_a_bolivia_2021.png" group-title="Cochabamba", CADENA A 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Cadena_a_bolivia_2021.png" group-title="BOLIVIA", CADENA A 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lostiempos.com/sites/default/files/media_imagen/2021/2/5/bolivia-tv-1280x720.jpg" group-title="Cochabamba", BOLIVIA TV
-http://live.cdn.comteco.com.bo:80/comgo/0203/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="BOLIVIA", CEACOM TV ORURO
+https://eu1.servers10.com:8081/ceacom/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/314V4RUvrwL.png" group-title="Cochabamba", GAMING
-http://live.cdn.comteco.com.bo:80/comgo/0500/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", RTP
+https://rtp.noxun.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://erbol.com.bo/sites/all/themes/atb/logo-principal.png" group-title="Cochabamba", ERBOL
-https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Red_PAT_Logo.png" group-title="BOLIVIA", PAT 
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xDrc5MD/CORALTv.png" group-title="BOLIVIA", CORAL TV ORURO
+https://tv.mediacp.eu:8081/coraltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ww8NnxXLAJY4dNJx34AXAY8-h0OkOKmidT_QC5osuhamzHXktzFAXyIJg5tNQvwjGiGc=w600-h300-pc0xffffff-pd" group-title="BOLIVIA", XKIDS 
+https://video2.getstreamhosting.com:19360/8060/8060.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="BOLIVIA", CINERAMA
+https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8?cachebust=73ed80
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="BOLIVIA",SEO TV HD
+https://seo.tv.bo/tv/IpSEO-TV-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CnBVdrh/SEO-TV-PELICULAS-FHD-NEW.jpg" group-title="BOLIVIA",SEO TV PELICULAS HD
+https://seo.tv.bo/tv/IpSEO-TV-4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpgcbtK0/NEW-SEO-TV-DEPORTES-FHD.jpg" group-title="BOLIVIA",SEO TV NOVELAS HD
+https://seo.tv.bo/tv/IpSEO-TV-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="BOLIVIA",CTV LA PAZ
+https://live.ctvbolivia.com/hls/ctv.m3u8
+
+#EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="BOLIVIA",TVU UMSA HD
+https://s1.tvdatta.com:3557/live/tvulive.m3u8
 
 
 
