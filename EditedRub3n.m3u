@@ -111,20 +111,23 @@ https://live.ctvbolivia.com/hls/ctv.m3u8
 #EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="BOLIVIA",TVU UMSA HD
 https://s1.tvdatta.com:3557/live/tvulive.m3u8
 
-#EXTINF:-1 tvg-id="ABYA YALA" tvg-logo="https://i.ibb.co/XkWwQH5/ABYA-YALA-HD.jpg" group-title="BOLIVIA",ABYA YALA TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkWwQH5/ABYA-YALA-HD.jpg" group-title="BOLIVIA",ABYA YALA TV HD
 https://seo.tv.bo/tv/IpSEO-TV-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgscxnc/LATINA-HD.jpg" group-title="BOLIVIA",TV LATINA HD
 https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8
 
-#EXTINF:-1 tvg-id="F10" tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="BOLIVIA",F10 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ggkqLnh/F10-HD.jpg" group-title="BOLIVIA",F10 HD
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg" group-title="BOLIVIA",DELTA TV HD
 https://tv3.bitstreaming.net:3951/multi_live/play_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="BOLIVIA",UNIVALLE TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg" group-title="BOLIVIA",UNIVALLE TV COCHABAMBA
 https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="BOLIVIA",UNIVALLE TV COCHABAMBA 2
+https://master.tucableip.com/univalletv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOGOPLAY" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="BOLIVIA",GOGOPLAY TV HD
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
@@ -134,6 +137,42 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplaysd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOGOPLAY" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="BOLIVIA",GOGOPLAY TV MIX
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.imgur.com/NsNytWD.jpeg" group-title="BOLIVIA",ZURACA TV
+https://envivo.bolivia-link.com:3099/live/ztvlive.m3u8
+
+#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.imgur.com/TUhFzql.png" group-title="BOLIVIA",VTV CANAL 17 vIACHA
+https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.imgur.com/GmNvRnj.png" group-title="BOLIVIA",TVU UMSA LA PAZ
+https://s1.tvdatta.com:3557/live/tvulive.m3u8
+
+#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="BOLIVIA",UNIVALLE TV COCHABAMBA
+https://master.tucableip.com/univalletv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.ibb.co/nnsYJCq/IMG-20210731-094609.png" group-title="BOLIVIA",TV SHOW ORURO
+http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNCqJJcv/Gigvlpz01.jpg" group-title="BOLIVIA",RED GIGAVISION LPZ HD
+https://tv2.bitstreaming.net:3896/multi_web/play_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM6L4FRR/Gigvscz02.jpg" group-title="BOLIVIA",RED GIGAVISION SCZ HD
+https://tv.bitstreaming.net:3348/multi_web/play_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVshPDR9/FAP-TV.jpg" group-title="BOLIVIA",FAP TV HD
+https://envivo.bolivia-link.com:3234/live/faptvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52WrZq7k/TVABOLIVIA.jpg" group-title="BOLIVIA",TVA TV HD
+https://play.agenciastreaming.com:19360/8160/8160.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YMS1YHF/INtvxhd.jpg" group-title="BOLIVIA",IN TV HD
+https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" group-title="BOLIVIA",PACEÑISIMA TV HD
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/centralptv/chunks.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/562/624/png-transparent-brazil-tv-bandeirantes-vale-do-paraiba-television-channel-band-television-logo-news.png" group-title="Beni", ANAZALTV
