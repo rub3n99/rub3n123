@@ -84,6 +84,9 @@ https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", RTP
 https://rtp.noxun.net:444/hls720/stream3.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/619275202627768321/a8Vx4jFs_400x400.jpg" group-title="BOLIVIA", PALENQUE TV
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Red_PAT_Logo.png" group-title="BOLIVIA", PAT 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
 
@@ -100,13 +103,16 @@ https://video2.getstreamhosting.com:19360/8060/8060.m3u8
 https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8?cachebust=73ed80
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="BOLIVIA",SEO TV HD
-https://seo.tv.bo/tv/IpSEO-TV-1.m3u8
+https://seo.tv.bo/tv/SEO_-TV-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="BOLIVIA",SEO TV HD
+https://seo.tv.bo/tv/SEO_-TV-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CnBVdrh/SEO-TV-PELICULAS-FHD-NEW.jpg" group-title="BOLIVIA",SEO TV PELICULAS HD
-https://seo.tv.bo/tv/IpSEO-TV-4.m3u8
+https://seo.tv.bo/tv/SEO_-TV-4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpgcbtK0/NEW-SEO-TV-DEPORTES-FHD.jpg" group-title="BOLIVIA",SEO TV NOVELAS HD
-https://seo.tv.bo/tv/IpSEO-TV-3.m3u8
+https://seo.tv.bo/tv/SEO_-TV-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljKb0UX.png" group-title="BOLIVIA",CTV LA PAZ
 https://live.ctvbolivia.com/hls/ctv.m3u8
@@ -115,7 +121,7 @@ https://live.ctvbolivia.com/hls/ctv.m3u8
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkWwQH5/ABYA-YALA-HD.jpg" group-title="BOLIVIA",ABYA YALA TV HD
-https://seo.tv.bo/tv/IpSEO-TV-8.m3u8
+https://seo.tv.bo/tv/SEO_-TV-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgscxnc/LATINA-HD.jpg" group-title="BOLIVIA",TV LATINA HD
 https://castv10.plugstreaming.com:19360/redtv/1080p.m3u8
