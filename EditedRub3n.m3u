@@ -57,6 +57,9 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.
 #EXTINF:-1 tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/58017.jpg" group-title="BOLIVIA", ATESUR TV SUCRE 
 https://video2.getstreamhosting.com:19360/8016/8016.m3u8
 
+#EXTINF:-1 tvg-logo="hhttps://pbs.twimg.com/profile_images/1216141288/webtv_400x400.jpg" group-title="BOLIVIA", UNITEL
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l8ZJU2733jTPPCBu_aiVjnI_tOQgvrG2zZYGn3IAG4OC/m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="BOLIVIA",ATB LA PAZ
 http://186.121.206.197/live/daniel/index.m3u8
 
@@ -79,7 +82,7 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/in
 https://eu1.servers10.com:8081/ceacom/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RTP_Bolivia_Hd.png" group-title="BOLIVIA", RTP
-https://rtp.noxun.net/hls/stream.m3u8
+https://rtp.noxun.net:444/hls720/stream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Red_PAT_Logo.png" group-title="BOLIVIA", PAT 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
@@ -109,7 +112,7 @@ https://seo.tv.bo/tv/IpSEO-TV-3.m3u8
 https://live.ctvbolivia.com/hls/ctv.m3u8
 
 #EXTINF:-1 tvg-id="TVU BOLIVIA" tvg-logo="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" group-title="BOLIVIA",TVU UMSA HD
-https://s1.tvdatta.com:3557/live/tvulive.m3u8
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XkWwQH5/ABYA-YALA-HD.jpg" group-title="BOLIVIA",ABYA YALA TV HD
 https://seo.tv.bo/tv/IpSEO-TV-8.m3u8
@@ -159,6 +162,9 @@ https://tv2.bitstreaming.net:3896/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wM6L4FRR/Gigvscz02.jpg" group-title="BOLIVIA",RED GIGAVISION SCZ HD
 https://tv.bitstreaming.net:3348/multi_web/play_720.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wM6L4FRR/Gigvscz02.jpg" group-title="BOLIVIA",RED GIGAVISION 2 SCZ HD
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l7XEiNm9NqiAKQmpGNcSZaam7RJCpK26YTnH-e3OY7XV/m3u8
+
 #EXTINF:-1 tvg-logo="https://www.detalle.cotes.net.bo/app/public/appWeb_/assets/images/canales/126.png" group-title="BOLIVIA", RED GIGAVISION SCZ HD 2
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
 
@@ -172,7 +178,7 @@ https://play.agenciastreaming.com:19360/8160/8160.m3u8
 https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" group-title="BOLIVIA",PACEÑISIMA TV HD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/centralptv/chunks.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/ptvonline/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSwDgBSXhpp-0V_JaCNUe8CMc7WDC1VnaPWn_PB=s900-c-k-c0x00ffffff-no-rj" group-title="BOLIVIA", TVU  SANTA CRUZ
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVUNIVERSITARIA/__op/hls-default/__f/index.m3u8
