@@ -139,13 +139,13 @@ https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8
 https://master.tucableip.com/univalletv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOGOPLAY" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="BOLIVIA",GOGOPLAY TV HD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOGOPLAY" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="BOLIVIA",GOGOPLAY TV SD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplaysd/playlist.m3u8
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOGOPLAY" tvg-logo="https://i.postimg.cc/dVfPMD5s/gogoplay-Bol-Fhd12.jpg" group-title="BOLIVIA",GOGOPLAY TV MIX
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/playlist.m3u8
+https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BOLIVIA TV" tvg-logo="https://i.imgur.com/NsNytWD.jpeg" group-title="BOLIVIA",ZURACA TV
 https://envivo.bolivia-link.com:3099/live/ztvlive.m3u8
