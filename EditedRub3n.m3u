@@ -45,7 +45,7 @@ https://master.tucableip.com/zoytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png" group-title="BOLIVIA",RED UNO SANTA CRUZ HD
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/825/507/png-clipart-cctv-channel-cctv-channel-cctv-station.png" group-title="BOLVIA", RED CCTV SACABA
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/825/507/png-clipart-cctv-channel-cctv-channel-cctv-station.png" group-title="BOLIVIA", RED CCTV SACABA
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosonline.com.bo/wp-content/uploads/2019/01/centro.png" group-title="BOLIVIA", RADIO CENTRO TV
