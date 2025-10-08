@@ -231,6 +231,22 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/i
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="PREMIUN", STUDIO UNIVERSAL 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/STUDIOUNIVERSALHD/__op/hls-default/__f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/027/127/453/non_2x/espn-logo-espn-icon-transparent-free-png.png" group-title="PREMIUN", ESPN 
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l6fal3sns8zoCXB0dnvbt6U-Q5OIDT3zWKxZoAuynIeL/m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg" group-title="PREMIUN", DIRECT SPORTS 1 
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l6fal3sns8zoCXB0dnvbt6XvKajqEeysM5WrFkvSh33a/m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1796757218559164416/JeoMjpZD_400x400.jpg" group-title="PREMIUN", TNT SPORT ARG
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l4JD6FT24gLTlnNdWTHaazuHLsLRjEhcaFivyzT2-CJZ/m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2018/10/121913-FSO-FOXSportsLogo-PI-7.jpg" group-title="PREMIUN", FOX SPORTS
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343l4JD6FT24gLTlnNdWTHaazubZZmbjG6biAgePRSHDRLL/m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/DAZN-Logo.jpg" group-title="PREMIUN", DAZN
+http://apphd.net:25461/play/c6yK1UeowVK1A4cIR343lzysq6_FkM04cRYnfk3dR3maZ3xTdBpjA42884trqwR7/m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/1200px-Paramount_Pictures_Corporation_logo.svg.png" group-title="PREMIUN", PARAMOUNT V2
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PARAMOUNT/__op/hls-default/__f/index.m3u8
 
